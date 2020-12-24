@@ -1,0 +1,20 @@
+{
+  "text": [
+    {
+      "attributes": {
+        "show": "0:02",
+        "image": "HASD-610-A.jpg"
+      },
+      "text": "Am\u00e9m."
+    }
+  ],
+  "attributes": {
+    "number": "610",
+    "image": "HASD-610-A.jpg",
+    "title": "Amém (A)",
+    "author": "Robert Ramsay",
+    "verse": "Salmo 72:18 e 19",
+    "music": "610.mp3",
+    "offset": "0:00"
+  }
+}

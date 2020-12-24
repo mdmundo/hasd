@@ -1,0 +1,58 @@
+{
+  "text": [
+    {
+      "attributes": {
+        "show": "0:17",
+        "image": "HASD-055A.jpg"
+      },
+      "text": "Cantarei a linda hist\u00f3ria\nDe Jesus, o Salvador,\nQue deixou Seu lar na gl\u00f3ria\nPra salvar o pecador."
+    },
+    {
+      "attributes": {
+        "show": "0:36",
+        "image": "HASD-055B.jpg",
+        "italic": "true"
+      },
+      "text": "Cantarei a linda hist\u00f3ria\nDe Jesus e Seu amor;\nCom fervor, na Sua gl\u00f3ria,\nLouvarei ao Salvador."
+    },
+    {
+      "attributes": {
+        "show": "1:00",
+        "image": "HASD-055A.jpg"
+      },
+      "text": "Eu andei, do lar, distante,\nPrestes j\u00e1 a perecer,\nMas Jesus ent\u00e3o buscou-me\nE salvou meu pobre ser."
+    },
+    {
+      "attributes": {
+        "show": "1:18",
+        "image": "HASD-055B.jpg",
+        "italic": "true"
+      },
+      "text": "Cantarei a linda hist\u00f3ria\nDe Jesus e Seu amor;\nCom fervor, na Sua gl\u00f3ria,\nLouvarei ao Salvador."
+    },
+    {
+      "attributes": {
+        "show": "1:43",
+        "image": "HASD-055A.jpg"
+      },
+      "text": "Muitas vezes dias tristes\nE afli\u00e7\u00f5es me sobrev\u00eam,\nMas Jesus depressa estende\nSua m\u00e3o que me sust\u00e9m."
+    },
+    {
+      "attributes": {
+        "show": "2:01",
+        "image": "HASD-055B.jpg",
+        "italic": "true"
+      },
+      "text": "Cantarei a linda hist\u00f3ria\nDe Jesus e Seu amor;\nCom fervor, na Sua gl\u00f3ria,\nLouvarei ao Salvador."
+    }
+  ],
+  "attributes": {
+    "number": "055",
+    "image": "HASD-055A.jpg",
+    "title": "Cantarei a Linda Hist\u00f3ria",
+    "author": "Francis Harold Rowley | Peter Philip Bilhorn",
+    "verse": "I Tim\u00f3teo 1:14 e 15",
+    "music": "055.mp3",
+    "offset": "0:00"
+  }
+}

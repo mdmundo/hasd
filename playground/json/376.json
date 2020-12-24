@@ -1,0 +1,58 @@
+{
+  "text": [
+    {
+      "attributes": {
+        "show": "0:20",
+        "image": "HASD-376A.jpg"
+      },
+      "text": "Guia-me, meu Salvador!\nSempre me conduz, Senhor!\nSim, seguro e forte estou,\nPois contigo andando vou."
+    },
+    {
+      "attributes": {
+        "show": "0:40",
+        "image": "HASD-376B.jpg",
+        "italic": "true"
+      },
+      "text": "Guia, guia,\nSempre guia, Salvador!\nCom ternura, com amor,\nGuia-me, meu Redentor!"
+    },
+    {
+      "attributes": {
+        "show": "1:02",
+        "image": "HASD-376A.jpg"
+      },
+      "text": "Sob a Tua prote\u00e7\u00e3o,\nFirme est\u00e1 meu cora\u00e7\u00e3o\nOh, dirige-me, Senhor,\nNeste mundo enganador."
+    },
+    {
+      "attributes": {
+        "show": "1:23",
+        "image": "HASD-376B.jpg",
+        "italic": "true"
+      },
+      "text": "Guia, guia,\nSempre guia, Salvador!\nCom ternura, com amor,\nGuia-me, meu Redentor!"
+    },
+    {
+      "attributes": {
+        "show": "1:45",
+        "image": "HASD-376A.jpg"
+      },
+      "text": "Tu me guiar\u00e1s a mim,\nT\u00e9 chegar da vida o fim;\nE ao voltares, \u00f3 Jesus,\nEu habitarei na luz."
+    },
+    {
+      "attributes": {
+        "show": "2:06",
+        "image": "HASD-376B.jpg",
+        "italic": "true"
+      },
+      "text": "Guia, guia,\nSempre guia, Salvador!\nCom ternura, com amor,\nGuia-me, meu Redentor!"
+    }
+  ],
+  "attributes": {
+    "number": "376",
+    "image": "HASD-376A.jpg",
+    "title": "Guia-me, Meu Salvador",
+    "author": "F. M. D. | Frank Marion Davis",
+    "verse": "Salmo 48:14",
+    "music": "376.mp3",
+    "offset": "0:00"
+  }
+}

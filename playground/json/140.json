@@ -1,0 +1,58 @@
+{
+  "text": [
+    {
+      "attributes": {
+        "show": "0:20",
+        "image": "HASD-140A.jpg"
+      },
+      "text": "\u00d3 vem, \u00f3 vem, Emanuel,\nE salva o aflito Israel\nQue chora o ex\u00edlio\nem seu viver\nAt\u00e9 Jesus aparecer."
+    },
+    {
+      "attributes": {
+        "show": "0:51",
+        "image": "HASD-140B.jpg",
+        "italic": "true"
+      },
+      "text": "Cantai! Cantai!\nEmanuel\nVir\u00e1 a v\u00f3s, \u00f3 Israel!"
+    },
+    {
+      "attributes": {
+        "show": "1:12",
+        "image": "HASD-140A.jpg"
+      },
+      "text": "Sabedoria que \u00e9 do al\u00e9m,\nOrdena tudo aqui tamb\u00e9m!\nO bom caminho vem mostrar,\nE como nele sempre andar."
+    },
+    {
+      "attributes": {
+        "show": "1:44",
+        "image": "HASD-140B.jpg",
+        "italic": "true"
+      },
+      "text": "Cantai! Cantai!\nEmanuel\nVir\u00e1 a v\u00f3s, \u00f3 Israel!"
+    },
+    {
+      "attributes": {
+        "show": "2:05",
+        "image": "HASD-140A.jpg"
+      },
+      "text": "\u00d3 Desejado das na\u00e7\u00f5es,\nUnidos faze os cora\u00e7\u00f5es.\nDo mundo vem tirar o mal\nE dar-lhe a paz celestial."
+    },
+    {
+      "attributes": {
+        "show": "2:37",
+        "image": "HASD-140B.jpg",
+        "italic": "true"
+      },
+      "text": "Cantai! Cantai!\nEmanuel\nVir\u00e1 a v\u00f3s, \u00f3 Israel!"
+    }
+  ],
+  "attributes": {
+    "number": "140",
+    "image": "HASD-140A.jpg",
+    "title": "\u00d3 Vem, Emanuel!",
+    "author": "Hino Latino | Melodia Gregoriana",
+    "verse": "Mateus 1:23",
+    "music": "140.mp3",
+    "offset": "0:00"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "text": [
+    {
+      "attributes": {
+        "show": "0:26",
+        "image": "HASD-116A.jpg"
+      },
+      "text": "De um nome eu sei,\no nome de um Rei,\nTrazido por anjos mil.\nNos c\u00e9us de Bel\u00e9m,\ncantaram, do al\u00e9m,\nO nome de amor gentil."
+    },
+    {
+      "attributes": {
+        "show": "0:54",
+        "image": "HASD-116B.jpg",
+        "italic": "true"
+      },
+      "text": "O nome \u00e9 Jesus, o Filho da luz,\nO nosso Salvador.\nO nome santo e doce \u00e9 Jesus,\nO nosso Salvador."
+    },
+    {
+      "attributes": {
+        "show": "1:21",
+        "image": "HASD-116A.jpg"
+      },
+      "text": "De um nome eu sei,\no nome de um Rei\nQue a morte sofreu na cruz.\nO mundo salvou,\nda morte o livrou,\nE os homens a Deus conduz."
+    },
+    {
+      "attributes": {
+        "show": "1:48",
+        "image": "HASD-116B.jpg",
+        "italic": "true"
+      },
+      "text": "O nome \u00e9 Jesus, o Filho da luz,\nO nosso Salvador.\nO nome santo e doce \u00e9 Jesus,\nO nosso Salvador."
+    },
+    {
+      "attributes": {
+        "show": "2:16",
+        "image": "HASD-116A.jpg"
+      },
+      "text": "De um nome eu sei,\no nome de um Rei\nQue em breve regressar\u00e1.\nE quando voltar\n\u00e0s gl\u00f3rias do lar,\nConsigo levar-me-\u00e1."
+    },
+    {
+      "attributes": {
+        "show": "2:43",
+        "image": "HASD-116B.jpg",
+        "italic": "true"
+      },
+      "text": "O nome \u00e9 Jesus, o Filho da luz,\nO nosso Salvador.\nO nome santo e doce \u00e9 Jesus,\nO nosso Salvador."
+    }
+  ],
+  "attributes": {
+    "number": "116",
+    "image": "HASD-116A.jpg",
+    "title": "De um Nome eu Sei",
+    "author": "Jean Perry | Mabel Johnston Camp",
+    "verse": "Isa\u00edas 9:6",
+    "music": "116.mp3",
+    "offset": "0:00"
+  }
+}
