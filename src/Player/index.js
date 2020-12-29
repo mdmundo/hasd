@@ -29,7 +29,7 @@ const App = () => {
       <ReactAudioPlayer
         src={hymnURI}
         autoPlay
-        listenInterval={250}
+        listenInterval={50}
         onListen={onEverySec}
       />
     </div>
