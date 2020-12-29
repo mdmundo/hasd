@@ -1,7 +1,10 @@
+import Player from './Player';
+
 const App = () => {
+  const hymn = { type: 'sung', number: 1 };
   return (
     <div>
-      <p>hi!</p>
+      <Player hymn={hymn} />
     </div>
   );
 };
