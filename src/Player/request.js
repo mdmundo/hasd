@@ -2,7 +2,8 @@ import axios from 'axios';
 
 const request = async (path) => {
   const response = await axios.get(
-    `https://gitlab.com/mdmundo/hasd/-/raw/master/public/${path}`,
+    'https://mdmundo.gitlab.io/hasd/sung/001.mp3' ||
+      `https://f000.backblazeb2.com/file/hasd-songs/${path}`,
     { responseType: 'blob' }
   );
   return response.data;

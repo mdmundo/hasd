@@ -1,10 +1,13 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState, useContext } from 'react';
 import ReactAudioPlayer from 'react-audio-player';
 import { getHymn } from './hymn';
 import { getPath } from './parser';
+import { convert } from './timer';
+import context from '../context';
 
-const App = (props) => {
-  const path = getPath(props.hymn);
+const App = () => {
+  const { state, dispatch } = useContext(context);
+  const path = getPath(state.hymn);
   const [hymnURI, setHymnURI] = useState('');
 
   useEffect(() => {
@@ -14,15 +17,19 @@ const App = (props) => {
   }, [path]);
 
   const onEverySec = (time) => {
-    // console.log(time);
+    dispatch({
+      type: 'UPDATE_TIMER',
+      timer: convert(time)
+    });
   };
 
   return (
     <div>
+      <p>timer: {state.timer}</p>
       <ReactAudioPlayer
         src={hymnURI}
         autoPlay
-        listenInterval={100}
+        listenInterval={250}
         onListen={onEverySec}
       />
     </div>
