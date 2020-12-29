@@ -1,0 +1,41 @@
+{
+  "text": [
+    {
+      "attributes": {
+        "show": "0:13",
+        "image": "HASD-577.jpg"
+      },
+      "text": "Santo, santo, santo,\nsanto \u00e9s, Senhor.\nSanto, santo, santo,\nDeus e Criador."
+    },
+    {
+      "attributes": {
+        "show": "0:41",
+        "image": "HASD-577.jpg"
+      },
+      "text": "Terra e c\u00e9us formaste\npara o Teu louvor.\nSanto, santo, santo,\nsumo Benfeitor."
+    },
+    {
+      "attributes": {
+        "show": "1:10",
+        "image": "HASD-577.jpg"
+      },
+      "text": "Santo, santo, santo,\nsanto \u00e9s, Senhor.\nSanto, santo, santo,\nDeus e Criador."
+    },
+    {
+      "attributes": {
+        "show": "1:38",
+        "image": "HASD-577.jpg"
+      },
+      "text": "Teu, Senhor, \u00e9 o reino,\nTeu \u00e9 o poder,\nTua \u00e9 a gl\u00f3ria,\npara sempre, am\u00e9m!"
+    }
+  ],
+  "attributes": {
+    "number": "577",
+    "image": "HASD-577.jpg",
+    "title": "Santo \u00c9s, Senhor",
+    "author": "Desconhecido | Franz Peter Schubert",
+    "verse": "Salmo 145:17",
+    "music": "577.mp3",
+    "offset": "0:00"
+  }
+}

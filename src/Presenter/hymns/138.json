@@ -1,0 +1,58 @@
+{
+  "text": [
+    {
+      "attributes": {
+        "show": "0:20",
+        "image": "HASD-138A.jpg"
+      },
+      "text": "A manh\u00e3 de luz\nj\u00e1 est\u00e1 raiando,\nLogo o Rei vir\u00e1;\nE Seu povo, ent\u00e3o,\npara o lar eterno\nEle levar\u00e1."
+    },
+    {
+      "attributes": {
+        "show": "0:40",
+        "image": "HASD-138B.jpg",
+        "italic": "true"
+      },
+      "text": "A manh\u00e3 gloriosa\nest\u00e1 raiando,\nBreve surgir\u00e1 a luz!\nA manh\u00e3 gloriosa\nest\u00e1 raiando,\nEis que vem Jesus!"
+    },
+    {
+      "attributes": {
+        "show": "1:02",
+        "image": "HASD-138A.jpg"
+      },
+      "text": "Inda se ouve o som\ndo evangelho eterno,\nN\u00e3o vos demoreis!\nPois bem cedo vem,\ne com majestade,\nCristo, o Rei dos reis."
+    },
+    {
+      "attributes": {
+        "show": "1:21",
+        "image": "HASD-138B.jpg",
+        "italic": "true"
+      },
+      "text": "A manh\u00e3 gloriosa\nest\u00e1 raiando,\nBreve surgir\u00e1 a luz!\nA manh\u00e3 gloriosa\nest\u00e1 raiando,\nEis que vem Jesus!"
+    },
+    {
+      "attributes": {
+        "show": "1:43",
+        "image": "HASD-138A.jpg"
+      },
+      "text": "Volver\u00e3o \u00e0 vida\nos queridos mortos,\nEm exulta\u00e7\u00e3o!\nQue alegria infinda\nnos encontrarmos\nNa eternal mans\u00e3o!"
+    },
+    {
+      "attributes": {
+        "show": "2:02",
+        "image": "HASD-138B.jpg",
+        "italic": "true"
+      },
+      "text": "A manh\u00e3 gloriosa\nest\u00e1 raiando,\nBreve surgir\u00e1 a luz!\nA manh\u00e3 gloriosa\nest\u00e1 raiando,\nEis que vem Jesus!"
+    }
+  ],
+  "attributes": {
+    "number": "138",
+    "image": "HASD-138A.jpg",
+    "title": "A Manh\u00e3 de Luz",
+    "author": "S. J. G. | S. J. Graham",
+    "verse": "Mateus 24:32-34",
+    "music": "138.mp3",
+    "offset": "0:00"
+  }
+}

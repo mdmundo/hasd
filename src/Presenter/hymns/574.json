@@ -1,0 +1,27 @@
+{
+  "text": [
+    {
+      "attributes": {
+        "show": "0:15",
+        "image": "HASD-574.jpg"
+      },
+      "text": "Deus est\u00e1 presente,\nvamos ador\u00e1-Lo\nCom fervor e zelo sem-par;\nSim, humildemente,\nem sil\u00eancio, honr\u00e1-Lo:"
+    },
+    {
+      "attributes": {
+        "show": "0:43",
+        "image": "HASD-574.jpg"
+      },
+      "text": "Rei dos C\u00e9us,\nda Terra e do mar.\nVamos, pois, Lhe prestar\nCulto reverente.\nDeus est\u00e1 presente."
+    }
+  ],
+  "attributes": {
+    "number": "574",
+    "image": "HASD-574.jpg",
+    "title": "Deus Est\u00e1 Presente",
+    "author": "Gerhard Tersteegen | Joachim Neander",
+    "verse": "Salmo 46:10 e 11",
+    "music": "574.mp3",
+    "offset": "0:00"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "text": [
+    {
+      "attributes": {
+        "show": "0:19",
+        "image": "HASD-250A.jpg"
+      },
+      "text": "Cantarei de meu Jesus,\nSeu amor leal, sem fim,\nPois desceu dos altos C\u00e9us,\nE na cruz morreu por mim."
+    },
+    {
+      "attributes": {
+        "show": "0:38",
+        "image": "HASD-250B.jpg",
+        "italic": "true"
+      },
+      "text": "Cantarei do meu Salvador,\nSem cessar Lhe darei louvor,\nPois morreu pra me salvar.\nCantarei do Seu amor."
+    },
+    {
+      "attributes": {
+        "show": "0:57",
+        "image": "HASD-250A.jpg"
+      },
+      "text": "Antes de eu poder chorar,\nCristo j\u00e1 por mim pranteou.\nAntes de eu poder orar,\nNa ang\u00fastia Ele orou."
+    },
+    {
+      "attributes": {
+        "show": "1:17",
+        "image": "HASD-250B.jpg",
+        "italic": "true"
+      },
+      "text": "Cantarei do meu Salvador,\nSem cessar Lhe darei louvor,\nPois morreu pra me salvar.\nCantarei do Seu amor."
+    },
+    {
+      "attributes": {
+        "show": "1:36",
+        "image": "HASD-250A.jpg"
+      },
+      "text": "Nada fiz por meu Senhor,\nComo, pois, me p\u00f4de amar?\nQuero, assim, em gratid\u00e3o\nMinha vida Lhe entregar."
+    },
+    {
+      "attributes": {
+        "show": "1:56",
+        "image": "HASD-250B.jpg",
+        "italic": "true"
+      },
+      "text": "Cantarei do meu Salvador,\nSem cessar Lhe darei louvor,\nPois morreu pra me salvar.\nCantarei do Seu amor."
+    }
+  ],
+  "attributes": {
+    "number": "250",
+    "image": "HASD-250A.jpg",
+    "title": "Cantarei de Meu Jesus",
+    "author": "F. E. B. | Franklin Edson Belden",
+    "verse": "Ef\u00e9sios 2:4-7",
+    "music": "250.mp3",
+    "offset": "0:00"
+  }
+}

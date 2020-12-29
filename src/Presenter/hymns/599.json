@@ -1,0 +1,26 @@
+{
+  "text": [
+    {
+      "attributes": {
+        "show": "0:11",
+        "image": "HASD-599.jpg"
+      },
+      "text": "Paz eu preciso sentir;\nPaz divinal.\nS\u00f3 esta paz transmitir:\nDom real."
+    },
+    {
+      "attributes": {
+        "show": "3:17",
+        "image": "HASD-599.jpg"
+      }
+    }
+  ],
+  "attributes": {
+    "number": "599",
+    "image": "HASD-599.jpg",
+    "title": "Paz",
+    "author": "N. D. B. | Najla Demetrio Bechara",
+    "verse": "Isa\u00edas 26:3",
+    "music": "599.mp3",
+    "offset": "0:00"
+  }
+}
