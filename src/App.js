@@ -1,5 +1,6 @@
 import { useReducer } from 'react';
 import Player from './Player';
+import Presenter from './Presenter';
 import Context from './context';
 import reducer from './reducer';
 
@@ -11,6 +12,7 @@ const App = () => {
   return (
     <Context.Provider value={{ state, dispatch }}>
       <Player />
+      <Presenter />
     </Context.Provider>
   );
 };
