@@ -4,7 +4,7 @@ import context from '../context';
 const App = () => {
   const { dispatch } = useContext(context);
   const [number, setNumber] = useState('');
-  const [type, setType] = useState('sung');
+  const [sung, setSung] = useState(true);
 
   const onSubmit = (e) => {
     e.preventDefault();
@@ -13,7 +13,7 @@ const App = () => {
 
     dispatch({
       type: 'UPDATE_HYMN',
-      hymn: { type, number }
+      hymn: { sung, number }
     });
     dispatch({
       type: 'UPDATE_TIMER',
@@ -34,8 +34,8 @@ const App = () => {
           type='text'
           name='number'></input>
         <input
-          checked={type === 'sung'}
-          onChange={(e) => setType(e.target.checked ? 'sung' : 'instrumental')}
+          checked={sung}
+          onChange={(e) => setSung(e.target.checked)}
           type='checkbox'
           name='instrumental'></input>
         <input type='submit' value='Submit'></input>

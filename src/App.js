@@ -6,7 +6,7 @@ import reducer from './reducer';
 
 const App = () => {
   const defaultState = {
-    hymn: { type: 'sung', number: '' },
+    hymn: { sung: true, number: '' },
     timer: '0:00',
     finished: true
   };
