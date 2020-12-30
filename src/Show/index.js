@@ -5,22 +5,10 @@ import Loader from './Loader';
 import context from '../context';
 
 const App = () => {
-  const { state, dispatch } = useContext(context);
-
-  //  copy of this on Player
-  const onFinished = () => {
-    dispatch({
-      type: 'UPDATE',
-      update: {
-        hymnURI: '',
-        finished: true
-      }
-    });
-  };
+  const { state } = useContext(context);
 
   return (
     <div>
-      <button onClick={onFinished}>Back</button>
       {state.hymnURI ? (
         <div>
           <Presenter />

@@ -15,7 +15,7 @@ const App = () => {
     });
   };
 
-  //  copy of this on Show
+  //  copy of this on Presenter
   const onFinished = () => {
     dispatch({
       type: 'UPDATE',
