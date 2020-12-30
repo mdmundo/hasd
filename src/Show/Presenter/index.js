@@ -55,9 +55,14 @@ const useStyles = makeStyles((theme) => ({
   verse: {
     fontStyle: 'italic'
   },
+  action: {
+    marginTop: theme.spacing(5)
+  },
   text: {
-    marginTop: theme.spacing(2),
-    marginBottom: theme.spacing(5)
+    marginBottom: theme.spacing(0.5)
+  },
+  caption: {
+    marginBottom: theme.spacing(2)
   },
   footer: {
     padding: theme.spacing(3, 2),
@@ -135,6 +140,7 @@ const App = () => {
           ) : (
             <CardContent>
               <Typography
+                className={classes.caption}
                 variant='caption'
                 display='block'
                 color='textSecondary'
@@ -144,12 +150,14 @@ const App = () => {
                   hymn.attributes.title
                 }`}
               </Typography>
-              <Typography className={classes.text} variant='h4' component='pre'>
-                {hymn.text[current].text}
-              </Typography>
+              {hymn.text[current].text.split('\n').map((str, index) => (
+                <Typography className={classes.text} key={index} variant='h4'>
+                  {str}
+                </Typography>
+              ))}
             </CardContent>
           )}
-          <CardActions>
+          <CardActions className={classes.action}>
             <Button size='small' onClick={onFinished}>
               Voltar
             </Button>
