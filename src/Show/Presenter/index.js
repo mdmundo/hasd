@@ -19,8 +19,6 @@ const App = () => {
 
   return (
     <div>
-      <p>number: {state.hymn.number}</p>
-      <p>current: {current}</p>
       {current < 0 ? (
         <pre>
           {`${parseInt(hymn.attributes.number, 10)}

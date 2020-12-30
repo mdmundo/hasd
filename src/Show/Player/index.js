@@ -32,7 +32,6 @@ const App = () => {
 
   return (
     <div>
-      <p>timer: {state.timer}</p>
       <ReactAudioPlayer
         src={hymnURI}
         autoPlay
