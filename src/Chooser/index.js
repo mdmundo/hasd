@@ -20,6 +20,10 @@ const App = () => {
       timer: '0:00'
     });
     dispatch({
+      type: 'UPDATE_DOWNLOAD_PROGRESS',
+      progress: 0
+    });
+    dispatch({
       type: 'UPDATE_FINISHED',
       finished: false
     });

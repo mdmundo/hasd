@@ -1,12 +1,15 @@
 import axios from 'axios';
 
-const request = async (path) => {
+const request = async (path, dispatch) => {
   const response = await axios.get(
     `https://f000.backblazeb2.com/file/hasd-songs/${path}`,
     {
       responseType: 'blob',
       onDownloadProgress: (progressEvent) => {
-        console.log((progressEvent.loaded * 100) / progressEvent.total);
+        dispatch({
+          type: 'UPDATE_DOWNLOAD_PROGRESS',
+          progress: (progressEvent.loaded * 100) / progressEvent.total
+        });
       }
     }
   );

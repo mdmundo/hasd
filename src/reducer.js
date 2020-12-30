@@ -6,6 +6,8 @@ const reducer = (state, action) => {
       return { ...state, timer: action.timer };
     case 'UPDATE_FINISHED':
       return { ...state, finished: action.finished };
+    case 'UPDATE_DOWNLOAD_PROGRESS':
+      return { ...state, progress: action.progress };
     default:
       return state;
   }

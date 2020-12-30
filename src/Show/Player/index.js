@@ -11,11 +11,10 @@ const App = () => {
   const [hymnURI, setHymnURI] = useState('');
 
   useEffect(() => {
-    getHymn(path).then((gotHymnURI) => {
+    getHymn(path, dispatch).then((gotHymnURI) => {
       setHymnURI(gotHymnURI);
     });
-    // setHymnURI(`https://f000.backblazeb2.com/file/hasd-songs/${path}`);
-  }, [path]);
+  }, [path, dispatch]);
 
   const onEverySec = (time) => {
     dispatch({
