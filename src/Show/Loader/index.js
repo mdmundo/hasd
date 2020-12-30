@@ -6,8 +6,6 @@ import Typography from '@material-ui/core/Typography';
 import Container from '@material-ui/core/Container';
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
-import CardActions from '@material-ui/core/CardActions';
-import Button from '@material-ui/core/Button';
 import Link from '@material-ui/core/Link';
 import { getHymn } from './hymn';
 import { getPath } from './parser';
@@ -40,9 +38,6 @@ const useStyles = makeStyles((theme) => ({
   title: {
     fontSize: '3rem'
   },
-  action: {
-    marginTop: theme.spacing(5)
-  },
   progress: {
     display: 'block',
     margin: 'auto'
@@ -72,17 +67,6 @@ const App = () => {
     });
   }, [path, dispatch]);
 
-  //  copy of this on Player
-  const onFinished = () => {
-    dispatch({
-      type: 'UPDATE',
-      update: {
-        hymnURI: '',
-        finished: true
-      }
-    });
-  };
-
   const classes = useStyles();
 
   return (
@@ -107,11 +91,6 @@ const App = () => {
                 value={state.progress}
               />
             </CardContent>
-            <CardActions className={classes.action}>
-              <Button size='small' onClick={onFinished}>
-                Voltar
-              </Button>
-            </CardActions>
           </Card>
         </Container>
         <footer className={classes.footer}>
