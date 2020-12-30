@@ -1,5 +1,5 @@
 import { useContext, useState, useEffect } from 'react';
-import context from '../context';
+import context from '../../context';
 import hymns from './hymns';
 
 const App = () => {

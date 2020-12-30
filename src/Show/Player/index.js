@@ -3,7 +3,7 @@ import ReactAudioPlayer from 'react-audio-player';
 import { getHymn } from './hymn';
 import { getPath } from './parser';
 import { convert } from './timer';
-import context from '../context';
+import context from '../../context';
 
 const App = () => {
   const { state, dispatch } = useContext(context);
