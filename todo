@@ -1,3 +1,5 @@
 onEnded: conditional rendering using reducer
 italic?
 show controls
+hymn.type -> hymn.sung
+Loading?

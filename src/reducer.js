@@ -4,6 +4,8 @@ const reducer = (state, action) => {
       return { ...state, hymn: action.hymn };
     case 'UPDATE_TIMER':
       return { ...state, timer: action.timer };
+    case 'UPDATE_FINISHED':
+      return { ...state, finished: action.finished };
     default:
       return state;
   }

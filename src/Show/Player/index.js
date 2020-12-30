@@ -23,6 +23,13 @@ const App = () => {
     });
   };
 
+  const onFinished = () => {
+    dispatch({
+      type: 'UPDATE_FINISHED',
+      finished: true
+    });
+  };
+
   return (
     <div>
       <p>timer: {state.timer}</p>
@@ -31,8 +38,10 @@ const App = () => {
         autoPlay
         listenInterval={50}
         onListen={onEverySec}
+        onEnded={onFinished}
       />
     </div>
   );
 };
+
 export default App;
