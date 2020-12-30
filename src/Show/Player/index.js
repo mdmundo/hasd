@@ -39,6 +39,7 @@ const App = () => {
         onListen={onEverySec}
         onEnded={onFinished}
       />
+      <button onClick={onFinished}>Back</button>
     </div>
   );
 };
