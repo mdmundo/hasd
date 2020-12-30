@@ -14,6 +14,7 @@ const App = () => {
     getHymn(path).then((gotHymnURI) => {
       setHymnURI(gotHymnURI);
     });
+    // setHymnURI(`https://f000.backblazeb2.com/file/hasd-songs/${path}`);
   }, [path]);
 
   const onEverySec = (time) => {
@@ -35,6 +36,7 @@ const App = () => {
       <ReactAudioPlayer
         src={hymnURI}
         autoPlay
+        controls
         listenInterval={50}
         onListen={onEverySec}
         onEnded={onFinished}

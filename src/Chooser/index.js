@@ -2,9 +2,9 @@ import { useState, useContext } from 'react';
 import context from '../context';
 
 const App = () => {
-  const { dispatch } = useContext(context);
-  const [number, setNumber] = useState('');
-  const [sung, setSung] = useState(true);
+  const { state, dispatch } = useContext(context);
+  const [number, setNumber] = useState(state.hymn.number);
+  const [sung, setSung] = useState(state.hymn.sung);
 
   const onSubmit = (e) => {
     e.preventDefault();
@@ -37,7 +37,7 @@ const App = () => {
           checked={sung}
           onChange={(e) => setSung(e.target.checked)}
           type='checkbox'
-          name='instrumental'></input>
+          name='sung'></input>
         <input type='submit' value='Submit'></input>
       </form>
     </div>
