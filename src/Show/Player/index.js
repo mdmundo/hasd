@@ -30,7 +30,6 @@ const App = () => {
       <ReactAudioPlayer
         src={state.hymnURI}
         autoPlay
-        controls
         listenInterval={50}
         onListen={onEverySec}
         onEnded={onFinished}
