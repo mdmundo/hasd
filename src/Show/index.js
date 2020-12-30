@@ -10,12 +10,11 @@ const App = () => {
   //  copy of this on Player
   const onFinished = () => {
     dispatch({
-      type: 'UPDATE_HYMN_URI',
-      hymnURI: ''
-    });
-    dispatch({
-      type: 'UPDATE_FINISHED',
-      finished: true
+      type: 'UPDATE',
+      update: {
+        hymnURI: '',
+        finished: true
+      }
     });
   };
 

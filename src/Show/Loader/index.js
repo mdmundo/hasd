@@ -10,8 +10,10 @@ const App = () => {
   useEffect(() => {
     getHymn(path, dispatch).then((hymnURI) => {
       dispatch({
-        type: 'UPDATE_HYMN_URI',
-        hymnURI
+        type: 'UPDATE',
+        update: {
+          hymnURI
+        }
       });
     });
   }, [path, dispatch]);

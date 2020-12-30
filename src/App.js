@@ -8,7 +8,9 @@ const App = () => {
   const defaultState = {
     hymn: { sung: true, number: '' },
     timer: '0:00',
-    finished: true
+    finished: true,
+    progress: 0,
+    hymnURI: ''
   };
 
   const [state, dispatch] = useReducer(reducer, defaultState);

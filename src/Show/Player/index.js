@@ -8,20 +8,21 @@ const App = () => {
 
   const onEverySec = (time) => {
     dispatch({
-      type: 'UPDATE_TIMER',
-      timer: convert(time)
+      type: 'UPDATE',
+      update: {
+        timer: convert(time)
+      }
     });
   };
 
   //  copy of this on Show
   const onFinished = () => {
     dispatch({
-      type: 'UPDATE_HYMN_URI',
-      hymnURI: ''
-    });
-    dispatch({
-      type: 'UPDATE_FINISHED',
-      finished: true
+      type: 'UPDATE',
+      update: {
+        hymnURI: '',
+        finished: true
+      }
     });
   };
 

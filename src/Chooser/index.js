@@ -12,20 +12,13 @@ const App = () => {
     if (isNaN(number) || parseInt(number) < 1 || parseInt(number) > 613) return;
 
     dispatch({
-      type: 'UPDATE_HYMN',
-      hymn: { sung, number }
-    });
-    dispatch({
-      type: 'UPDATE_TIMER',
-      timer: '0:00'
-    });
-    dispatch({
-      type: 'UPDATE_DOWNLOAD_PROGRESS',
-      progress: 0
-    });
-    dispatch({
-      type: 'UPDATE_FINISHED',
-      finished: false
+      type: 'UPDATE',
+      update: {
+        hymn: { sung, number },
+        timer: '0:00',
+        progress: 0,
+        finished: false
+      }
     });
   };
 
