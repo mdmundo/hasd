@@ -8,6 +8,8 @@ const reducer = (state, action) => {
       return { ...state, finished: action.finished };
     case 'UPDATE_DOWNLOAD_PROGRESS':
       return { ...state, progress: action.progress };
+    case 'UPDATE_HYMN_URI':
+      return { ...state, hymnURI: action.hymnURI };
     default:
       return state;
   }

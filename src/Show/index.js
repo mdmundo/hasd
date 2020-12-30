@@ -1,6 +1,7 @@
 import { useContext } from 'react';
 import Player from './Player';
 import Presenter from './Presenter';
+import Loader from './Loader';
 import context from '../context';
 
 const App = () => {
@@ -8,9 +9,14 @@ const App = () => {
 
   return (
     <div>
-      <pre>Progress: {state.progress.toFixed(1)}%</pre>
-      <Player />
-      <Presenter />
+      {state.hymnURI ? (
+        <div>
+          <Presenter />
+          <Player />
+        </div>
+      ) : (
+        <Loader />
+      )}
     </div>
   );
 };
