@@ -13,6 +13,7 @@ const App = () => {
     });
   };
 
+  //  copy of this on Show
   const onFinished = () => {
     dispatch({
       type: 'UPDATE_HYMN_URI',
@@ -34,7 +35,6 @@ const App = () => {
         onListen={onEverySec}
         onEnded={onFinished}
       />
-      <button onClick={onFinished}>Back</button>
     </div>
   );
 };
