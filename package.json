@@ -12,6 +12,8 @@
     "axios": "latest",
     "axios-extensions": "latest",
     "fontsource-roboto": "latest",
+    "gh-pages": "latest",
+    "localforage": "latest",
     "react": "latest",
     "react-audio-player": "latest",
     "react-dom": "latest",
