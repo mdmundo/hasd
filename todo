@@ -1,3 +1,8 @@
 add favorites
 Known issue: Quando o botão play é pressionado depois que Voltar é pressionado a música continua.
 Known issue: Talvez tenham alguns caracteres desconhecidos, alguns já foram corrigidos.
+  Corrigidos:
+    \u0091 -> \u2018
+    \u0092 -> \u2019
+    \u0093 -> \u201c
+    \u0094 -> \u201d
