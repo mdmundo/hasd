@@ -2,6 +2,7 @@
   "name": "hasd",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mdmundo.github.io/hasd/",
   "dependencies": {
     "@material-ui/core": "latest",
     "@material-ui/lab": "latest",
