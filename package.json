@@ -5,6 +5,7 @@
   "homepage": "https://mdmundo.github.io/hasd/",
   "dependencies": {
     "@material-ui/core": "latest",
+    "@material-ui/icons": "^4.11.2",
     "@material-ui/lab": "latest",
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
