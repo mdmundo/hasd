@@ -15,7 +15,6 @@
     {
       "attributes": {
         "show": "0:40",
-
         "italic": true
       },
       "text": "Como a brisa suave\nTua voz \u00e9, Senhor,\nComo a brisa\nde um claro arrebol;"
@@ -23,7 +22,6 @@
     {
       "attributes": {
         "show": "0:54",
-
         "italic": true
       },
       "text": "Dos momentos de sombras\nliberto j\u00e1 estou,\nPois ouvi Tua voz me falar."
@@ -43,7 +41,6 @@
     {
       "attributes": {
         "show": "1:36",
-
         "italic": true
       },
       "text": "Como a brisa suave\nTua voz \u00e9, Senhor,\nComo a brisa\nde um claro arrebol;"
@@ -51,7 +48,6 @@
     {
       "attributes": {
         "show": "1:49",
-
         "italic": true
       },
       "text": "Dos momentos de sombras\nliberto j\u00e1 estou,\nPois ouvi Tua voz me falar."
@@ -59,7 +55,6 @@
   ],
   "attributes": {
     "number": "424",
-
     "title": "Como a Brisa Suave",
     "author": "John R. Clements | Bentley DeForest Ackley",
     "verse": "I Reis 19:11-13",

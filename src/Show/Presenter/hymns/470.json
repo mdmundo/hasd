@@ -3,7 +3,6 @@
     {
       "attributes": {
         "show": "0:28",
-
         "italic": true
       },
       "text": "O Senhor est\u00e1 aqui!\nO Senhor est\u00e1 aqui!\nVinde ador\u00e1-Lo!\nVinde exalt\u00e1-Lo!\nO Senhor est\u00e1 aqui!"
@@ -23,7 +22,6 @@
     {
       "attributes": {
         "show": "1:29",
-
         "italic": true
       },
       "text": "O Senhor est\u00e1 aqui!\nO Senhor est\u00e1 aqui!\nVinde ador\u00e1-Lo!\nVinde exalt\u00e1-Lo!\nO Senhor est\u00e1 aqui!"
@@ -43,7 +41,6 @@
     {
       "attributes": {
         "show": "2:29",
-
         "italic": true
       },
       "text": "O Senhor est\u00e1 aqui!\nO Senhor est\u00e1 aqui!\nVinde ador\u00e1-Lo!\nVinde exalt\u00e1-Lo!\nO Senhor est\u00e1 aqui!"
@@ -51,7 +48,6 @@
   ],
   "attributes": {
     "number": "470",
-
     "title": "O Senhor Est\u00e1 Aqui",
     "author": "S. C. | Silmar Correia",
     "verse": "Habacuque 2:20",
