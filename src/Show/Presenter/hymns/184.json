@@ -2,66 +2,60 @@
   "text": [
     {
       "attributes": {
-        "show": "0:38",
-        "image": "HASD-184A.jpg"
+        "show": "0:38"
       },
       "text": "Tu anseias hoje\na salva\u00e7\u00e3o fruir?\nTens desejo de\na escurid\u00e3o banir?"
     },
     {
       "attributes": {
-        "show": "0:48",
-        "image": "HASD-184A.jpg"
+        "show": "0:48"
       },
       "text": "Abre, pois, o cora\u00e7\u00e3o\nde par em par!\nDeixa a luz do C\u00e9u entrar!"
     },
     {
       "attributes": {
         "show": "0:59",
-        "image": "HASD-184B.jpg",
+
         "italic": true
       },
       "text": "Deixa a luz do C\u00e9u entrar!\nDeixa a luz do C\u00e9u entrar!\nAbre, pois, o cora\u00e7\u00e3o\nde par em par!\nDeixa a luz do C\u00e9u entrar!"
     },
     {
       "attributes": {
-        "show": "1:19",
-        "image": "HASD-184A.jpg"
+        "show": "1:19"
       },
       "text": "Cristo, a luz celeste,\nquer morar em ti,\nPara iluminar\no teu caminho aqui!"
     },
     {
       "attributes": {
-        "show": "1:29",
-        "image": "HASD-184A.jpg"
+        "show": "1:29"
       },
       "text": "Sempre do pecado\no cora\u00e7\u00e3o limpar!\nDeixa a luz do C\u00e9u entrar!"
     },
     {
       "attributes": {
         "show": "1:39",
-        "image": "HASD-184B.jpg",
+
         "italic": true
       },
       "text": "Deixa a luz do C\u00e9u entrar!\nDeixa a luz do C\u00e9u entrar!\nAbre, pois, o cora\u00e7\u00e3o\nde par em par!\nDeixa a luz do C\u00e9u entrar!"
     },
     {
       "attributes": {
-        "show": "2:00",
-        "image": "HASD-184A.jpg"
+        "show": "2:00"
       },
       "text": "Que alegria andar\nno brilho dessa luz!\nVida eterna e paz\nno cora\u00e7\u00e3o produz!"
     },
     {
       "attributes": {
-        "show": "2:10",
-        "image": "HASD-184A.jpg"
+        "show": "2:10"
       },
       "text": "Oh, aceita agora\no Salvador Jesus!\nDeixa a luz do C\u00e9u entrar!"
     },
     {
       "attributes": {
         "show": "2:20",
-        "image": "HASD-184B.jpg",
+
         "italic": true
       },
       "text": "Deixa a luz do C\u00e9u entrar!\nDeixa a luz do C\u00e9u entrar!\nAbre, pois, o cora\u00e7\u00e3o\nde par em par!\nDeixa a luz do C\u00e9u entrar!"
@@ -69,7 +63,7 @@
   ],
   "attributes": {
     "number": "184",
-    "image": "HASD-184A.jpg",
+
     "title": "Deixa a Luz do C\u00e9u Entrar",
     "author": "Ada Blenkhorn | Charles Hutchinson Gabriel",
     "verse": "Jo\u00e3o 8:12",

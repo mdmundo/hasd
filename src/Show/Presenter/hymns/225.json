@@ -2,44 +2,40 @@
   "text": [
     {
       "attributes": {
-        "show": "0:16",
-        "image": "HASD-225A.jpg"
+        "show": "0:16"
       },
       "text": "Qu\u00e3o alegre canta o ser\nquando tens amor;\nDe Jesus vir\u00e1 prazer,\nquando tens amor;"
     },
     {
       "attributes": {
-        "show": "0:34",
-        "image": "HASD-225A.jpg"
+        "show": "0:34"
       },
       "text": "Tua dor logo se desfaz,\numa b\u00ean\u00e7\u00e3o tu ser\u00e1s,\nE alegria fruir\u00e1s,\nse tens amor."
     },
     {
       "attributes": {
         "show": "0:52",
-        "image": "HASD-225B.jpg",
+
         "italic": true
       },
       "text": "Se tens amor, se tens amor,\nQu\u00e3o alegre canta o ser\nQuando tens amor;\nSe tens amor, se tens amor,\nPaz celeste aos outros levas\nSe tens amor."
     },
     {
       "attributes": {
-        "show": "1:28",
-        "image": "HASD-225A.jpg"
+        "show": "1:28"
       },
       "text": "A tristeza n\u00e3o persiste\nse tens amor;\nFicam leves os teus fardos\nse tens amor;"
     },
     {
       "attributes": {
-        "show": "1:46",
-        "image": "HASD-225A.jpg"
+        "show": "1:46"
       },
       "text": "Brilha intensa e radiante luz,\nque na senda te conduz;\nOh, que b\u00ean\u00e7\u00e3os tens a flux,\nse tens amor!"
     },
     {
       "attributes": {
         "show": "2:03",
-        "image": "HASD-225B.jpg",
+
         "italic": true
       },
       "text": "Se tens amor, se tens amor,\nQu\u00e3o alegre canta o ser\nQuando tens amor;\nSe tens amor, se tens amor,\nPaz celeste aos outros levas\nSe tens amor."
@@ -47,7 +43,7 @@
   ],
   "attributes": {
     "number": "225",
-    "image": "HASD-225A.jpg",
+
     "title": "Se Tens Amor",
     "author": "Carrie Ellis Breck | William James Kirkpatrick",
     "verse": "I Jo\u00e3o 4:7",

@@ -2,45 +2,42 @@
   "text": [
     {
       "attributes": {
-        "show": "0:13",
-        "image": "HASD-509A.jpg"
+        "show": "0:13"
       },
       "text": "Em Teu nome come\u00e7amos\nEsta escola, \u00f3 Senhor!\nCom fervor n\u00f3s Te rogamos\nSejas o nosso Diretor."
     },
     {
       "attributes": {
         "show": "0:37",
-        "image": "HASD-509B.jpg",
+
         "italic": true
       },
       "text": "Cada s\u00e1bado n\u00f3s vimos\n\u00c0 Tua escola, \u00f3 Jesus!\nVem, \u00f3 Mestre, instruir-nos\nNo caminho Teu de luz."
     },
     {
       "attributes": {
-        "show": "1:02",
-        "image": "HASD-509A.jpg"
+        "show": "1:02"
       },
       "text": "Esta escola nos ensina\nEm Tua santa lei viver,\nE nos manda que sejamos\nSempre fi\u00e9is, at\u00e9 morrer."
     },
     {
       "attributes": {
         "show": "1:25",
-        "image": "HASD-509B.jpg",
+
         "italic": true
       },
       "text": "Cada s\u00e1bado n\u00f3s vimos\n\u00c0 Tua escola, \u00f3 Jesus!\nVem, \u00f3 Mestre, instruir-nos\nNo caminho Teu de luz."
     },
     {
       "attributes": {
-        "show": "1:50",
-        "image": "HASD-509A.jpg"
+        "show": "1:50"
       },
       "text": "Vem, Senhor,\nvem ensinar-nos\nTeus preceitos bem cumprir.\nEis, reunidos, esperamos\nTua presen\u00e7a aqui sentir."
     },
     {
       "attributes": {
         "show": "2:14",
-        "image": "HASD-509B.jpg",
+
         "italic": true
       },
       "text": "Cada s\u00e1bado n\u00f3s vimos\n\u00c0 Tua escola, \u00f3 Jesus!\nVem, \u00f3 Mestre, instruir-nos\nNo caminho Teu de luz."
@@ -48,7 +45,7 @@
   ],
   "attributes": {
     "number": "509",
-    "image": "HASD-509A.jpg",
+
     "title": "A Escola Sabatina",
     "author": "Desconhecido | Jean Jacques Rousseau",
     "verse": "Salmo 25:4 e 5",

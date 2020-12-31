@@ -2,45 +2,42 @@
   "text": [
     {
       "attributes": {
-        "show": "0:17",
-        "image": "HASD-219A.jpg"
+        "show": "0:17"
       },
       "text": "Seja o cora\u00e7\u00e3o alegre,\nSempre a transbordar louvor,\nPois o nosso Pai celeste\nMostra-nos o Seu amor."
     },
     {
       "attributes": {
         "show": "0:34",
-        "image": "HASD-219B.jpg",
+
         "italic": true
       },
       "text": "Sempre alegre, sempre alegre\n\u00c9 o viver do bom crist\u00e3o;\nOh! que regozijo pleno\nBrota-lhe da salva\u00e7\u00e3o!"
     },
     {
       "attributes": {
-        "show": "0:52",
-        "image": "HASD-219A.jpg"
+        "show": "0:52"
       },
       "text": "Temos prote\u00e7\u00e3o nas lutas,\nDeus nos toma pela m\u00e3o;\nSua sempiterna gra\u00e7a\nD\u00e1-nos for\u00e7as na afli\u00e7\u00e3o."
     },
     {
       "attributes": {
         "show": "1:10",
-        "image": "HASD-219B.jpg",
+
         "italic": true
       },
       "text": "Sempre alegre, sempre alegre\n\u00c9 o viver do bom crist\u00e3o;\nOh! que regozijo pleno\nBrota-lhe da salva\u00e7\u00e3o!"
     },
     {
       "attributes": {
-        "show": "1:28",
-        "image": "HASD-219A.jpg"
+        "show": "1:28"
       },
       "text": "Sempre guiar\u00e1 os justos\nCom amor, em Sua luz;\nJuntos serviremos todos\nAo amado e bom Jesus."
     },
     {
       "attributes": {
         "show": "1:47",
-        "image": "HASD-219B.jpg",
+
         "italic": true
       },
       "text": "Sempre alegre, sempre alegre\n\u00c9 o viver do bom crist\u00e3o;\nOh! que regozijo pleno\nBrota-lhe da salva\u00e7\u00e3o!"
@@ -48,7 +45,7 @@
   ],
   "attributes": {
     "number": "219",
-    "image": "HASD-219A.jpg",
+
     "title": "Sempre Alegre",
     "author": "Fanny Jane Crosby | Robert Lowry",
     "verse": "Filipenses 4:4",

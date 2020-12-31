@@ -2,45 +2,42 @@
   "text": [
     {
       "attributes": {
-        "show": "0:50",
-        "image": "HASD-295A.jpg"
+        "show": "0:50"
       },
       "text": "Tudo, \u00f3  Cristo, a Ti entrego,\nTudo, sim, por Ti darei!\nResoluto, mas submisso,\nSempre a Ti eu seguirei."
     },
     {
       "attributes": {
         "show": "1:16",
-        "image": "HASD-295B.jpg",
+
         "italic": true
       },
       "text": "Tudo entregarei!\nTudo entregarei!\nSim, por Ti, Jesus bendito,\nTudo deixarei!"
     },
     {
       "attributes": {
-        "show": "1:41",
-        "image": "HASD-295A.jpg"
+        "show": "1:41"
       },
       "text": "Tudo, \u00f3 Cristo, a Ti entrego,\nCorpo e alma eis aqui!\nEste mundo mau renego,\nQuero dedicar-me a Ti."
     },
     {
       "attributes": {
         "show": "2:07",
-        "image": "HASD-295B.jpg",
+
         "italic": true
       },
       "text": "Tudo entregarei!\nTudo entregarei!\nSim, por Ti, Jesus bendito,\nTudo deixarei!"
     },
     {
       "attributes": {
-        "show": "2:33",
-        "image": "HASD-295A.jpg"
+        "show": "2:33"
       },
       "text": "Tudo, \u00f3 Cristo, a Ti entrego,\nQue prazer, \u00f3 meu Senhor!\nPaz perfeita, paz completa!\nGl\u00f3ria, gl\u00f3ria ao Salvador."
     },
     {
       "attributes": {
         "show": "2:59",
-        "image": "HASD-295B.jpg",
+
         "italic": true
       },
       "text": "Tudo entregarei!\nTudo entregarei!\nSim, por Ti, Jesus bendito,\nTudo deixarei!"
@@ -48,7 +45,7 @@
   ],
   "attributes": {
     "number": "295",
-    "image": "HASD-295A.jpg",
+
     "title": "Tudo Entregarei",
     "author": "Judson Van DeVenter | Winfield Scott Weeden",
     "verse": "Salmo 116:12-14",

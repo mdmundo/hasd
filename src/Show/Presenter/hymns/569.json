@@ -2,45 +2,42 @@
   "text": [
     {
       "attributes": {
-        "show": "0:22",
-        "image": "HASD-569A.jpg"
+        "show": "0:22"
       },
       "text": "Oh, vale do \u00c9den, formoso,\nP\u00e1tria de amor e luz!\nTrazes aos tristes o gozo,\nFalas-nos de Jesus."
     },
     {
       "attributes": {
         "show": "0:44",
-        "image": "HASD-569B.jpg",
+
         "italic": true
       },
       "text": "Oh, vale do \u00c9den, formoso,\nP\u00e1tria que n\u00e3o tem par!\nOh! como eu me sinto saudoso\nDe ti, meu eterno lar!"
     },
     {
       "attributes": {
-        "show": "1:08",
-        "image": "HASD-569A.jpg"
+        "show": "1:08"
       },
       "text": "Bem cedo os nossos anseios\nH\u00e3o de se realizar;\nN\u00e3o mais teremos receios,\nNem afli\u00e7\u00f5es, pesar."
     },
     {
       "attributes": {
         "show": "1:31",
-        "image": "HASD-569B.jpg",
+
         "italic": true
       },
       "text": "Oh, vale do \u00c9den, formoso,\nP\u00e1tria que n\u00e3o tem par!\nOh! como eu me sinto saudoso\nDe ti, meu eterno lar!"
     },
     {
       "attributes": {
-        "show": "1:55",
-        "image": "HASD-569A.jpg"
+        "show": "1:55"
       },
       "text": "L\u00e1 junto ao trono divino,\nOs salvos cantar\u00e3o\nDoces acordes de um hino\nQue fala de perd\u00e3o."
     },
     {
       "attributes": {
         "show": "2:17",
-        "image": "HASD-569B.jpg",
+
         "italic": true
       },
       "text": "Oh, vale do \u00c9den, formoso,\nP\u00e1tria que n\u00e3o tem par!\nOh! como eu me sinto saudoso\nDe ti, meu eterno lar!"
@@ -48,7 +45,7 @@
   ],
   "attributes": {
     "number": "569",
-    "image": "HASD-569A.jpg",
+
     "title": "Oh, Vale do \u00c9den, Formoso!",
     "author": "William Orcutt Cushing | William Fisk Sherwin",
     "verse": "Isa\u00edas 51:3",

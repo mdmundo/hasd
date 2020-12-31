@@ -2,45 +2,42 @@
   "text": [
     {
       "attributes": {
-        "show": "0:20",
-        "image": "HASD-117A.jpg"
+        "show": "0:20"
       },
       "text": "Se tu buscares a Jesus,\nEncontrar\u00e1s o Salvador;\nA ti vir\u00e1 manh\u00e3 de luz\nE paz em Seu amor."
     },
     {
       "attributes": {
         "show": "0:42",
-        "image": "HASD-117B.jpg",
+
         "italic": true
       },
       "text": "Se buscares conhec\u00ea-Lo,\nOh, sim, am\u00e1-Lo-\u00e1s tamb\u00e9m!\nManh\u00e3 feliz despontar\u00e1\nPara ti no lar de al\u00e9m."
     },
     {
       "attributes": {
-        "show": "1:04",
-        "image": "HASD-117A.jpg"
+        "show": "1:04"
       },
       "text": "\u00c0 luz do que Ele prometeu,\nEm teu viver desfrutar\u00e1s\nO amor e as b\u00ean\u00e7\u00e3os\nl\u00e1 do C\u00e9u,\nDe Deus a doce paz."
     },
     {
       "attributes": {
         "show": "1:24",
-        "image": "HASD-117B.jpg",
+
         "italic": true
       },
       "text": "Se buscares conhec\u00ea-Lo,\nOh, sim, am\u00e1-Lo-\u00e1s tamb\u00e9m!\nManh\u00e3 feliz despontar\u00e1\nPara ti no lar de al\u00e9m."
     },
     {
       "attributes": {
-        "show": "1:46",
-        "image": "HASD-117A.jpg"
+        "show": "1:46"
       },
       "text": "Jesus compreende tua dor,\nE sempre quer teu bem-estar;\nCr\u00ea, pois, que junto\nao Salvador,\nConforto h\u00e1s de gozar."
     },
     {
       "attributes": {
         "show": "2:07",
-        "image": "HASD-117B.jpg",
+
         "italic": true
       },
       "text": "Se buscares conhec\u00ea-Lo,\nOh, sim, am\u00e1-Lo-\u00e1s tamb\u00e9m!\nManh\u00e3 feliz despontar\u00e1\nPara ti no lar de al\u00e9m."
@@ -48,7 +45,7 @@
   ],
   "attributes": {
     "number": "117",
-    "image": "HASD-117A.jpg",
+
     "title": "Se Tu Buscares a Jesus",
     "author": "Ina Mae Duley Ogdon | Bentley DeForest Ackley",
     "verse": "Jeremias 29:13",

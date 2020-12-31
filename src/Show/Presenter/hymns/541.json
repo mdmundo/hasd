@@ -2,45 +2,42 @@
   "text": [
     {
       "attributes": {
-        "show": "0:19",
-        "image": "HASD-541A.jpg"
+        "show": "0:19"
       },
       "text": "De Jesus, a doce voz,\nOuvi, eu, pecador.\nAceitei, de cora\u00e7\u00e3o,\nJesus, meu Salvador."
     },
     {
       "attributes": {
         "show": "0:38",
-        "image": "HASD-541B.jpg",
+
         "italic": true
       },
       "text": "Meu pecado, sim,\nJ\u00e1 na cruz pagou,\nE por gra\u00e7a sem igual,\nJesus me resgatou."
     },
     {
       "attributes": {
-        "show": "0:58",
-        "image": "HASD-541A.jpg"
+        "show": "0:58"
       },
       "text": "Retid\u00e3o em mim n\u00e3o h\u00e1,\nPor gra\u00e7a salvo sou.\nA Jesus sou devedor,\nPois j\u00e1 me perdoou."
     },
     {
       "attributes": {
         "show": "1:17",
-        "image": "HASD-541B.jpg",
+
         "italic": true
       },
       "text": "Meu pecado, sim,\nJ\u00e1 na cruz pagou,\nE por gra\u00e7a sem igual,\nJesus me resgatou."
     },
     {
       "attributes": {
-        "show": "1:38",
-        "image": "HASD-541A.jpg"
+        "show": "1:38"
       },
       "text": "Por Jesus eu gozo paz,\nE tenho Seu favor.\nNada aqui me faltar\u00e1,\nSe estou junto ao Senhor."
     },
     {
       "attributes": {
         "show": "1:57",
-        "image": "HASD-541B.jpg",
+
         "italic": true
       },
       "text": "Meu pecado, sim,\nJ\u00e1 na cruz pagou,\nE por gra\u00e7a sem igual,\nJesus me resgatou."
@@ -48,7 +45,7 @@
   ],
   "attributes": {
     "number": "541",
-    "image": "HASD-541A.jpg",
+
     "title": "De Jesus a Doce Voz",
     "author": "Elvina Mabel Hall | John Thomas Grape",
     "verse": "I Jo\u00e3o 1:9",

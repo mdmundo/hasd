@@ -2,45 +2,42 @@
   "text": [
     {
       "attributes": {
-        "show": "0:21",
-        "image": "HASD-343A.jpg"
+        "show": "0:21"
       },
       "text": "Vamos batalhar,\njuntos pelejar,\nTodos a lutar, vamos j\u00e1.\nEis que nosso Rei\ncom as hostes vem\nT\u00e3o glorioso!\nQuem O vencer\u00e1?"
     },
     {
       "attributes": {
         "show": "0:41",
-        "image": "HASD-343B.jpg",
+
         "italic": true
       },
       "text": "Vamos, crentes,\nvamos j\u00e1 avante,\nFirmes sempre,\ncom o Rei da paz.\nCristo \u00e9 nosso forte\nComandante,\nEle \u00e9 nosso General capaz."
     },
     {
       "attributes": {
-        "show": "1:04",
-        "image": "HASD-343A.jpg"
+        "show": "1:04"
       },
       "text": "Vamos avan\u00e7ar,\nsem temor al\u00e7ar,\nSim, fazer brilhar nossa luz.\nTrevas v\u00e3o fugir,\ngl\u00f3rias h\u00e3o de vir,\nVenham todos aclamar Jesus!"
     },
     {
       "attributes": {
         "show": "1:24",
-        "image": "HASD-343B.jpg",
+
         "italic": true
       },
       "text": "Vamos, crentes,\nvamos j\u00e1 avante,\nFirmes sempre,\ncom o Rei da paz.\nCristo \u00e9 nosso forte\nComandante,\nEle \u00e9 nosso General capaz."
     },
     {
       "attributes": {
-        "show": "1:47",
-        "image": "HASD-343A.jpg"
+        "show": "1:47"
       },
       "text": "Deus, glorioso Pai,\nsempre \u00e0 frente vai,\nFirmes, pois, lutai com ardor.\nQuando o fim chegar,\nfindo o batalhar,\nVem-nos coroar,\npor Teu amor!"
     },
     {
       "attributes": {
         "show": "2:07",
-        "image": "HASD-343B.jpg",
+
         "italic": true
       },
       "text": "Vamos, crentes,\nvamos j\u00e1 avante,\nFirmes sempre,\ncom o Rei da paz.\nCristo \u00e9 nosso forte\nComandante,\nEle \u00e9 nosso General capaz."
@@ -48,7 +45,7 @@
   ],
   "attributes": {
     "number": "343",
-    "image": "HASD-343A.jpg",
+
     "title": "Vamos Batalhar",
     "author": "W. F. S. | William Fisk Sherwin",
     "verse": "Salmo 144:1 e 2",

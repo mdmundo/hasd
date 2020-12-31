@@ -2,60 +2,56 @@
   "text": [
     {
       "attributes": {
-        "show": "0:28",
-        "image": "HASD-134A.jpg"
+        "show": "0:28"
       },
       "text": "Servos de Deus,\na trombeta tocai:\nBreve Jesus voltar\u00e1!\nA todo o mundo\na mensagem levai:\nBreve Jesus voltar\u00e1!"
     },
     {
       "attributes": {
         "show": "0:48",
-        "image": "HASD-134B.jpg",
+
         "italic": true
       },
       "text": "Breve vir\u00e1!\nBreve vir\u00e1!\nBreve Jesus voltar\u00e1!"
     },
     {
       "attributes": {
-        "show": "0:59",
-        "image": "HASD-134A.jpg"
+        "show": "0:59"
       },
       "text": "Ide \u00e0s na\u00e7\u00f5es\ne depressa anunciai:\nBreve Jesus voltar\u00e1!\nGratos, alegres,\nas novas cantai:\nBreve Jesus voltar\u00e1!"
     },
     {
       "attributes": {
         "show": "1:19",
-        "image": "HASD-134B.jpg",
+
         "italic": true
       },
       "text": "Breve vir\u00e1!\nBreve vir\u00e1!\nBreve Jesus voltar\u00e1!"
     },
     {
       "attributes": {
-        "show": "1:30",
-        "image": "HASD-134A.jpg"
+        "show": "1:30"
       },
       "text": "Montes e vales,\no som ecoai:\nBreve Jesus voltar\u00e1!\nOndas do mar\na can\u00e7\u00e3o entoai:\nBreve Jesus voltar\u00e1!"
     },
     {
       "attributes": {
         "show": "1:50",
-        "image": "HASD-134B.jpg",
+
         "italic": true
       },
       "text": "Breve vir\u00e1!\nBreve vir\u00e1!\nBreve Jesus voltar\u00e1!"
     },
     {
       "attributes": {
-        "show": "2:01",
-        "image": "HASD-134A.jpg"
+        "show": "2:01"
       },
       "text": "Guerras e fomes\nnos d\u00e3o a entender:\nBreve Jesus voltar\u00e1!\nGraves sinais\nj\u00e1 nos fazem saber:\nBreve Jesus voltar\u00e1!"
     },
     {
       "attributes": {
         "show": "2:21",
-        "image": "HASD-134B.jpg",
+
         "italic": true
       },
       "text": "Breve vir\u00e1!\nBreve vir\u00e1!\nBreve Jesus voltar\u00e1!"
@@ -63,7 +59,7 @@
   ],
   "attributes": {
     "number": "134",
-    "image": "HASD-134A.jpg",
+
     "title": "Breve Jesus Voltar\u00e1",
     "author": "Jessie E. Strout | George E. Lee",
     "verse": "Apocalipse 22:20",

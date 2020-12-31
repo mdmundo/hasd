@@ -2,60 +2,56 @@
   "text": [
     {
       "attributes": {
-        "show": "0:21",
-        "image": "HASD-285A.jpg"
+        "show": "0:21"
       },
       "text": "J\u00e1 o mundo n\u00e3o me prende,\nEu perten\u00e7o a Cristo!\nSua voz minh\u0027alma atende,\nPois perten\u00e7o a Cristo."
     },
     {
       "attributes": {
         "show": "0:42",
-        "image": "HASD-285B.jpg",
+
         "italic": true
       },
       "text": "A Jesus eu seguirei,\nPois \u00e9 meu Senhor e Rei;\nQuer l\u00e1 fora, quer no lar,\nEu perten\u00e7o a Cristo."
     },
     {
       "attributes": {
-        "show": "1:04",
-        "image": "HASD-285A.jpg"
+        "show": "1:04"
       },
       "text": "N\u00e3o mais temo o inimigo,\nEu perten\u00e7o a Cristo!\n\u00c9-me sempre bom abrigo,\nSim, perten\u00e7o a Cristo."
     },
     {
       "attributes": {
         "show": "1:25",
-        "image": "HASD-285B.jpg",
+
         "italic": true
       },
       "text": "A Jesus eu seguirei,\nPois \u00e9 meu Senhor e Rei;\nQuer l\u00e1 fora, quer no lar,\nEu perten\u00e7o a Cristo."
     },
     {
       "attributes": {
-        "show": "1:48",
-        "image": "HASD-285A.jpg"
+        "show": "1:48"
       },
       "text": "Desde a Terra at\u00e9 a gl\u00f3ria,\nEu perten\u00e7o a Cristo!\nSempre irei contar a hist\u00f3ria:\nEu perten\u00e7o a Cristo."
     },
     {
       "attributes": {
         "show": "2:09",
-        "image": "HASD-285B.jpg",
+
         "italic": true
       },
       "text": "A Jesus eu seguirei,\nPois \u00e9 meu Senhor e Rei;\nQuer l\u00e1 fora, quer no lar,\nEu perten\u00e7o a Cristo."
     },
     {
       "attributes": {
-        "show": "2:32",
-        "image": "HASD-285A.jpg"
+        "show": "2:32"
       },
       "text": "L\u00e1 no C\u00e9u vou contempl\u00e1-Lo,\nEu perten\u00e7o a Cristo!\nE eternamente honr\u00e1-Lo,\nPois perten\u00e7o a Cristo."
     },
     {
       "attributes": {
         "show": "2:52",
-        "image": "HASD-285B.jpg",
+
         "italic": true
       },
       "text": "A Jesus eu seguirei,\nPois \u00e9 meu Senhor e Rei;\nQuer l\u00e1 fora, quer no lar,\nEu perten\u00e7o a Cristo."
@@ -63,7 +59,7 @@
   ],
   "attributes": {
     "number": "285",
-    "image": "HASD-285A.jpg",
+
     "title": "Perten\u00e7o a Cristo",
     "author": "James Rowe | Bentley DeForest Ackley",
     "verse": "Filipenses 3:7 e 8",

@@ -2,45 +2,42 @@
   "text": [
     {
       "attributes": {
-        "show": "0:23",
-        "image": "HASD-259A.jpg"
+        "show": "0:23"
       },
       "text": "N\u00e3o sei por que\nde Deus o amor\nA mim se revelou,\nPor qual raz\u00e3o o Salvador\nPra Si me resgatou."
     },
     {
       "attributes": {
         "show": "0:47",
-        "image": "HASD-259B.jpg",
+
         "italic": true
       },
       "text": "Mas eu sei em\nquem tenho crido,\nE estou bem certo\nque \u00e9 poderoso,\nPra guardar o meu tesouro\nAt\u00e9 o fim chegar."
     },
     {
       "attributes": {
-        "show": "1:11",
-        "image": "HASD-259A.jpg"
+        "show": "1:11"
       },
       "text": "N\u00e3o sei o que de mal ou bem\nAqui enfrentarei;\nSe maus ou \u00e1ureos dias v\u00eam,\nSe lutas eu terei."
     },
     {
       "attributes": {
         "show": "1:36",
-        "image": "HASD-259B.jpg",
+
         "italic": true
       },
       "text": "Mas eu sei em\nquem tenho crido,\nE estou bem certo\nque \u00e9 poderoso,\nPra guardar o meu tesouro\nAt\u00e9 o fim chegar."
     },
     {
       "attributes": {
-        "show": "2:00",
-        "image": "HASD-259A.jpg"
+        "show": "2:00"
       },
       "text": "N\u00e3o sei tamb\u00e9m o dia em que\nVerei Jesus voltar;\nSe de manh\u00e3, se \u00e0 tarde vem\nPra me levar ao lar."
     },
     {
       "attributes": {
         "show": "2:25",
-        "image": "HASD-259B.jpg",
+
         "italic": true
       },
       "text": "Mas eu sei em\nquem tenho crido,\nE estou bem certo\nque \u00e9 poderoso,\nPra guardar o meu tesouro\nAt\u00e9 o fim chegar."
@@ -48,7 +45,7 @@
   ],
   "attributes": {
     "number": "259",
-    "image": "HASD-259A.jpg",
+
     "title": "Eu Sei em Quem Tenho Crido",
     "author": "Daniel Webster Whittle | James McGranahan",
     "verse": "II Tim\u00f3teo 1:12",

@@ -2,45 +2,42 @@
   "text": [
     {
       "attributes": {
-        "show": "0:10",
-        "image": "HASD-490A.jpg"
+        "show": "0:10"
       },
       "text": "Com gozo eu j\u00e1 vou\npara o lar celestial,\nCaminhando, caminhando,\nPois n\u00e3o me encanta mais\no prazer terreal,\nCaminhando para aquele lar."
     },
     {
       "attributes": {
         "show": "0:31",
-        "image": "HASD-490B.jpg",
+
         "italic": true
       },
       "text": "Caminhando, caminhando\nPara aquele lar\nonde est\u00e1 Jesus.\nCaminhando, caminhando,\nPela m\u00e3o divina de Jesus."
     },
     {
       "attributes": {
-        "show": "0:53",
-        "image": "HASD-490A.jpg"
+        "show": "0:53"
       },
       "text": "Eu quero pecadores\ncomigo levar,\nCaminhando, caminhando.\nQue em Cristo possam eles\na paz encontrar,\nCaminhando para aquele lar."
     },
     {
       "attributes": {
         "show": "1:14",
-        "image": "HASD-490B.jpg",
+
         "italic": true
       },
       "text": "Caminhando, caminhando\nPara aquele lar\nonde est\u00e1 Jesus.\nCaminhando, caminhando,\nPela m\u00e3o divina de Jesus."
     },
     {
       "attributes": {
-        "show": "1:35",
-        "image": "HASD-490A.jpg"
+        "show": "1:35"
       },
       "text": "Com Cristo, meu Senhor,\npara sempre estarei,\nCaminhando, caminhando.\nSeu nome eternamente\nent\u00e3o louvarei,\nCaminhando, sim, naquele lar."
     },
     {
       "attributes": {
         "show": "1:56",
-        "image": "HASD-490B.jpg",
+
         "italic": true
       },
       "text": "Caminhando, caminhando\nPara aquele lar\nonde est\u00e1 Jesus.\nCaminhando, caminhando,\nPela m\u00e3o divina de Jesus."
@@ -48,7 +45,7 @@
   ],
   "attributes": {
     "number": "490",
-    "image": "HASD-490A.jpg",
+
     "title": "Caminhando",
     "author": "Johnson Oatman, Jr. | Hampton Haygood Sewell",
     "verse": "Isa\u00edas 40:31",

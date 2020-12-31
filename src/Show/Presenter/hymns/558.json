@@ -2,45 +2,42 @@
   "text": [
     {
       "attributes": {
-        "show": "0:20",
-        "image": "HASD-558A.jpg"
+        "show": "0:20"
       },
       "text": "Pela estrada um dia ouvi\nVoz melodiosa e mui gentil:\n\u201cNo C\u00e9u Eu estou\na te preparar\nUm belo, bel\u00edssimo lar.\u201d"
     },
     {
       "attributes": {
         "show": "0:43",
-        "image": "HASD-558B.jpg",
+
         "italic": true
       },
       "text": "Doce lar, doce lar,\nOnde eu irei morar;\nEu vejo ao longe\na cidade de luz,\nMeu doce lar."
     },
     {
       "attributes": {
-        "show": "1:06",
-        "image": "HASD-558A.jpg"
+        "show": "1:06"
       },
       "text": "L\u00e1 hei de achar\nqueridos meus\nDando louvores a Jesus;\nTamb\u00e9m vou louv\u00e1-Lo\nnos altos C\u00e9us,\nNo belo, bel\u00edssimo lar."
     },
     {
       "attributes": {
         "show": "1:28",
-        "image": "HASD-558B.jpg",
+
         "italic": true
       },
       "text": "Doce lar, doce lar,\nOnde eu irei morar;\nEu vejo ao longe\na cidade de luz,\nMeu doce lar."
     },
     {
       "attributes": {
-        "show": "1:51",
-        "image": "HASD-558A.jpg"
+        "show": "1:51"
       },
       "text": "Ao lar eterno em breve irei,\nJunto ao Senhor eu morarei.\nAl\u00e9m, bela praia a convidar\nAo belo, bel\u00edssimo lar!"
     },
     {
       "attributes": {
         "show": "2:13",
-        "image": "HASD-558B.jpg",
+
         "italic": true
       },
       "text": "Doce lar, doce lar,\nOnde eu irei morar;\nEu vejo ao longe\na cidade de luz,\nMeu doce lar."
@@ -48,7 +45,7 @@
   ],
   "attributes": {
     "number": "558",
-    "image": "HASD-558A.jpg",
+
     "title": "Meu Doce Lar",
     "author": "N. B. V. | N. B. Vandall",
     "verse": "Jo\u00e3o 14:1-3",

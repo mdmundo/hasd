@@ -2,44 +2,40 @@
   "text": [
     {
       "attributes": {
-        "show": "0:12",
-        "image": "HASD-408A.jpg"
+        "show": "0:12"
       },
       "text": "D\u00e1-me Tua paz, Mestre,\nD\u00e1-me Tua paz,\nSe tristezas v\u00eam\nconturbar-me o cora\u00e7\u00e3o;"
     },
     {
       "attributes": {
-        "show": "0:34",
-        "image": "HASD-408A.jpg"
+        "show": "0:34"
       },
       "text": "N\u00e3o serei tentado,\nnem o mal verei,\nSe me deres paz,\nbom Mestre;\nd\u00e1-me Tua paz."
     },
     {
       "attributes": {
         "show": "0:55",
-        "image": "HASD-408B.jpg",
+
         "italic": true
       },
       "text": "D\u00e1-me Tua paz, Mestre,\nD\u00e1-me Tua paz, Mestre,\nPois andar sem Ti n\u00e3o posso;\nD\u00e1-me Tua paz."
     },
     {
       "attributes": {
-        "show": "1:20",
-        "image": "HASD-408A.jpg"
+        "show": "1:20"
       },
       "text": "D\u00e1-me Tua paz, Mestre,\nD\u00e1-me Tua paz,\nSim, nas horas m\u00e1s,\nquando em treva\nenvolto estou."
     },
     {
       "attributes": {
-        "show": "1:41",
-        "image": "HASD-408A.jpg"
+        "show": "1:41"
       },
       "text": "Guia, pois, meus passos,\npara eu n\u00e3o cair,\nPois andar sem Ti n\u00e3o posso;\nd\u00e1-me Tua paz."
     },
     {
       "attributes": {
         "show": "2:03",
-        "image": "HASD-408B.jpg",
+
         "italic": true
       },
       "text": "D\u00e1-me Tua paz, Mestre,\nD\u00e1-me Tua paz, Mestre,\nPois andar sem Ti n\u00e3o posso;\nD\u00e1-me Tua paz."
@@ -47,7 +43,7 @@
   ],
   "attributes": {
     "number": "408",
-    "image": "HASD-408A.jpg",
+
     "title": "D\u00e1-me Tua Paz",
     "author": "W. L. T. | Will Lamartine Thompson",
     "verse": "Jo\u00e3o 14:27",

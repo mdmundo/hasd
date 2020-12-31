@@ -2,22 +2,20 @@
   "text": [
     {
       "attributes": {
-        "show": "0:27",
-        "image": "HASD-385A.jpg"
+        "show": "0:27"
       },
       "text": "Se da noite\nas sombras te cercarem,\nE a obra finda parecer,"
     },
     {
       "attributes": {
-        "show": "0:40",
-        "image": "HASD-385A.jpg"
+        "show": "0:40"
       },
       "text": "Amanh\u00e3 risonho,\nDeus promete,\nSem mais nuvens\nnegras a temer."
     },
     {
       "attributes": {
         "show": "0:55",
-        "image": "HASD-385B.jpg",
+
         "italic": true
       },
       "text": "Sombras,\nDeus est\u00e1 nas sombras;\nFirme \u00e9 Seu amor\nem cuidar de n\u00f3s."
@@ -25,29 +23,27 @@
     {
       "attributes": {
         "show": "1:08",
-        "image": "HASD-385B.jpg",
+
         "italic": true
       },
       "text": "Sombras,\nDeus est\u00e1 nas sombras;\nN\u00e3o nos deixar\u00e1\nlutar em dor, a s\u00f3s."
     },
     {
       "attributes": {
-        "show": "1:23",
-        "image": "HASD-385A.jpg"
+        "show": "1:23"
       },
       "text": "Se a Jesus anelas\nver nas sombras,\nSe anseias dEle\nSeu amor,"
     },
     {
       "attributes": {
-        "show": "1:36",
-        "image": "HASD-385A.jpg"
+        "show": "1:36"
       },
       "text": "H\u00e1s de achar\no Salvador ao lado,\nUm constante amigo\ne protetor."
     },
     {
       "attributes": {
         "show": "1:50",
-        "image": "HASD-385B.jpg",
+
         "italic": true
       },
       "text": "Sombras,\nDeus est\u00e1 nas sombras;\nFirme \u00e9 Seu amor\nem cuidar de n\u00f3s."
@@ -55,29 +51,27 @@
     {
       "attributes": {
         "show": "2:04",
-        "image": "HASD-385B.jpg",
+
         "italic": true
       },
       "text": "Sombras,\nDeus est\u00e1 nas sombras;\nN\u00e3o nos deixar\u00e1\nlutar em dor, a s\u00f3s."
     },
     {
       "attributes": {
-        "show": "2:19",
-        "image": "HASD-385A.jpg"
+        "show": "2:19"
       },
       "text": "Quando as sombras\no meu c\u00e9u toldarem,\nMesmo que o sol\nn\u00e3o possa ver,"
     },
     {
       "attributes": {
-        "show": "2:33",
-        "image": "HASD-385A.jpg"
+        "show": "2:33"
       },
       "text": "Em Jesus encontro\nmeu ref\u00fagio,\nNas tormentas\ndeste meu viver."
     },
     {
       "attributes": {
         "show": "2:47",
-        "image": "HASD-385B.jpg",
+
         "italic": true
       },
       "text": "Sombras,\nDeus est\u00e1 nas sombras;\nFirme \u00e9 Seu amor\nem cuidar de n\u00f3s."
@@ -85,7 +79,7 @@
     {
       "attributes": {
         "show": "3:00",
-        "image": "HASD-385B.jpg",
+
         "italic": true
       },
       "text": "Sombras,\nDeus est\u00e1 nas sombras;\nN\u00e3o nos deixar\u00e1\nlutar em dor, a s\u00f3s."
@@ -93,7 +87,7 @@
   ],
   "attributes": {
     "number": "385",
-    "image": "HASD-385A.jpg",
+
     "title": "Deus Est\u00e1 nas Sombras",
     "author": "Oswald Jeffray Smith | Bentley DeForest Ackley",
     "verse": "I Pedro 5:7",

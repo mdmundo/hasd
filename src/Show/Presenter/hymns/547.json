@@ -2,15 +2,14 @@
   "text": [
     {
       "attributes": {
-        "show": "0:17",
-        "image": "HASD-547A.jpg"
+        "show": "0:17"
       },
       "text": "Pra terra aben\u00e7oada vou,\nAnsioso peregrino sou\nEm busca do feliz lugar\nNo qual eu hei de descansar."
     },
     {
       "attributes": {
         "show": "0:35",
-        "image": "HASD-547B.jpg",
+
         "italic": true
       },
       "text": "Oh, bela terra de esplendor,\nQuerida heran\u00e7a do Senhor;\nOlhando, vejo al\u00e9m do mar"
@@ -18,22 +17,21 @@
     {
       "attributes": {
         "show": "0:47",
-        "image": "HASD-547B.jpg",
+
         "italic": true
       },
       "text": "Que em breve\neu hei de atravessar,\nA linda praia perenal,\nDo eterno lar celestial."
     },
     {
       "attributes": {
-        "show": "1:02",
-        "image": "HASD-547A.jpg"
+        "show": "1:02"
       },
       "text": "Comigo vai o meu Senhor,\nDo mal me guarda com amor,\nDe paz transborda o cora\u00e7\u00e3o,\nE certo estou da salva\u00e7\u00e3o."
     },
     {
       "attributes": {
         "show": "1:20",
-        "image": "HASD-547B.jpg",
+
         "italic": true
       },
       "text": "Oh, bela terra de esplendor,\nQuerida heran\u00e7a do Senhor;\nOlhando, vejo al\u00e9m do mar"
@@ -41,22 +39,21 @@
     {
       "attributes": {
         "show": "1:32",
-        "image": "HASD-547B.jpg",
+
         "italic": true
       },
       "text": "Que em breve\neu hei de atravessar,\nA linda praia perenal,\nDo eterno lar celestial."
     },
     {
       "attributes": {
-        "show": "1:47",
-        "image": "HASD-547A.jpg"
+        "show": "1:47"
       },
       "text": "Na vastid\u00e3o celestial\nH\u00e1 de soar canto imortal\nDa triunfante multid\u00e3o\nCantando a grande reden\u00e7\u00e3o."
     },
     {
       "attributes": {
         "show": "2:05",
-        "image": "HASD-547B.jpg",
+
         "italic": true
       },
       "text": "Oh, bela terra de esplendor,\nQuerida heran\u00e7a do Senhor;\nOlhando, vejo al\u00e9m do mar"
@@ -64,7 +61,7 @@
     {
       "attributes": {
         "show": "2:17",
-        "image": "HASD-547B.jpg",
+
         "italic": true
       },
       "text": "Que em breve\neu hei de atravessar,\nA linda praia perenal,\nDo eterno lar celestial."
@@ -72,7 +69,7 @@
   ],
   "attributes": {
     "number": "547",
-    "image": "HASD-547A.jpg",
+
     "title": "Oh! Bela Terra de Esplendor",
     "author": "Edgar Page Stites | John Robson Sweney",
     "verse": "Apocalipse 21:1-5",

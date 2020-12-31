@@ -2,66 +2,60 @@
   "text": [
     {
       "attributes": {
-        "show": "0:15",
-        "image": "HASD-568A.jpg"
+        "show": "0:15"
       },
       "text": "Na p\u00e1tria celeste,\nde Deus doce lar,\nPrepara Jesus\npara os Seus um lugar;"
     },
     {
       "attributes": {
-        "show": "0:36",
-        "image": "HASD-568A.jpg"
+        "show": "0:36"
       },
       "text": "Pois longe do mal,\ndo pecado e da dor,\nConsigo pra sempre\nos quer ter o Senhor."
     },
     {
       "attributes": {
         "show": "0:55",
-        "image": "HASD-568B.jpg",
+
         "italic": true
       },
       "text": "Oh, doce, doce lar!\nAli com Jesus\nVou pra sempre morar."
     },
     {
       "attributes": {
-        "show": "1:13",
-        "image": "HASD-568A.jpg"
+        "show": "1:13"
       },
       "text": "Oh, lar sacrossanto,\nde paz e de amor;\nAli sobre o trono\nverei meu Senhor,"
     },
     {
       "attributes": {
-        "show": "1:33",
-        "image": "HASD-568A.jpg"
+        "show": "1:33"
       },
       "text": "O meigo Cordeiro,\nreinando na luz,\nPor todos louvado,\nbendito Jesus!"
     },
     {
       "attributes": {
         "show": "1:53",
-        "image": "HASD-568B.jpg",
+
         "italic": true
       },
       "text": "Oh, doce, doce lar!\nAli com Jesus\nVou pra sempre morar."
     },
     {
       "attributes": {
-        "show": "2:11",
-        "image": "HASD-568A.jpg"
+        "show": "2:11"
       },
       "text": "N\u00e3o s\u00e3o teus prazeres\nque anseio gozar,\nMas, sim, com Jesus\npara sempre morar."
     },
     {
       "attributes": {
-        "show": "2:31",
-        "image": "HASD-568A.jpg"
+        "show": "2:31"
       },
       "text": "Com Ele na gl\u00f3ria,\nfeliz, bendizer\nA quem, pra salvar-me,\npor mim quis morrer."
     },
     {
       "attributes": {
         "show": "2:51",
-        "image": "HASD-568B.jpg",
+
         "italic": true
       },
       "text": "Oh, doce, doce lar!\nAli com Jesus\nVou pra sempre morar."
@@ -69,7 +63,7 @@
   ],
   "attributes": {
     "number": "568",
-    "image": "HASD-568A.jpg",
+
     "title": "Lar, Doce Lar",
     "author": "John Howard Payne | Henry Rowley Bishop",
     "verse": "Isa\u00edas 66:22",

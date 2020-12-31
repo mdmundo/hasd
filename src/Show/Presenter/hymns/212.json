@@ -2,15 +2,14 @@
   "text": [
     {
       "attributes": {
-        "show": "0:19",
-        "image": "HASD-212A.jpg"
+        "show": "0:19"
       },
       "text": "Pecador eu era, sim, por\u00e9m,\nGra\u00e7a eu encontrei em Jesus.\nDeu-me prontamente\nSeu perd\u00e3o,\nDeu-me vida, paz e luz."
     },
     {
       "attributes": {
         "show": "0:38",
-        "image": "HASD-212B.jpg",
+
         "italic": true
       },
       "text": "H\u00e1 um novo nome l\u00e1 na gl\u00f3ria:\n\u00c9 o meu, sim, \u00e9 o meu!\nSantos anjos cantam\nessa hist\u00f3ria:\nO pr\u00f3digo volveu!"
@@ -18,22 +17,21 @@
     {
       "attributes": {
         "show": "0:58",
-        "image": "HASD-212B.jpg",
+
         "italic": true
       },
       "text": "Pois h\u00e1 um novo nome\nl\u00e1 na gl\u00f3ria:\n\u00c9 o meu, sim, \u00e9 o meu!\nPois que fui perdoado,\nsou ao C\u00e9u levado;\nL\u00e1 morar eu vou."
     },
     {
       "attributes": {
-        "show": "1:18",
-        "image": "HASD-212A.jpg"
+        "show": "1:18"
       },
       "text": "Junto \u00e0 cruz prostrei-me\ncom temor,\nAo sentir-me um vil pecador,\nMas o C\u00e9u abriu-se\ne ent\u00e3o eu vi\nO meu nome escrito ali!"
     },
     {
       "attributes": {
         "show": "1:37",
-        "image": "HASD-212B.jpg",
+
         "italic": true
       },
       "text": "H\u00e1 um novo nome l\u00e1 na gl\u00f3ria:\n\u00c9 o meu, sim, \u00e9 o meu!\nSantos anjos cantam\nessa hist\u00f3ria:\nO pr\u00f3digo volveu!"
@@ -41,22 +39,21 @@
     {
       "attributes": {
         "show": "1:56",
-        "image": "HASD-212B.jpg",
+
         "italic": true
       },
       "text": "Pois h\u00e1 um novo nome\nl\u00e1 na gl\u00f3ria:\n\u00c9 o meu, sim, \u00e9 o meu!\nPois que fui perdoado,\nsou ao C\u00e9u levado;\nL\u00e1 morar eu vou."
     },
     {
       "attributes": {
-        "show": "2:15",
-        "image": "HASD-212A.jpg"
+        "show": "2:15"
       },
       "text": "Gl\u00f3ria, aleluia, salvo estou!\nFoi Seu sangue que\nme livrou!\nPela eterna gra\u00e7a,\nlouvo a Deus!\nPara o lar celeste vou!"
     },
     {
       "attributes": {
         "show": "2:37",
-        "image": "HASD-212B.jpg",
+
         "italic": true
       },
       "text": "H\u00e1 um novo nome l\u00e1 na gl\u00f3ria:\n\u00c9 o meu, sim, \u00e9 o meu!\nSantos anjos cantam\nessa hist\u00f3ria:\nO pr\u00f3digo volveu!"
@@ -64,7 +61,7 @@
     {
       "attributes": {
         "show": "2:55",
-        "image": "HASD-212B.jpg",
+
         "italic": true
       },
       "text": "Pois h\u00e1 um novo nome\nl\u00e1 na gl\u00f3ria:\n\u00c9 o meu, sim, \u00e9 o meu!\nPois que fui perdoado,\nsou ao C\u00e9u levado;\nL\u00e1 morar eu vou."
@@ -72,7 +69,7 @@
   ],
   "attributes": {
     "number": "212",
-    "image": "HASD-212A.jpg",
+
     "title": "Um Novo Nome L\u00e1 na Gl\u00f3ria",
     "author": "C. A. M. | C. Austin Miles",
     "verse": "Apocalipse 2:17",

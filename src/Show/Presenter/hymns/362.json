@@ -2,45 +2,42 @@
   "text": [
     {
       "attributes": {
-        "show": "0:20",
-        "image": "HASD-362A.jpg"
+        "show": "0:20"
       },
       "text": "Vacilando minha f\u00e9,\nCristo ajudar\u00e1.\nPerseguido, sem merc\u00ea,\nCristo ajudar\u00e1."
     },
     {
       "attributes": {
         "show": "0:38",
-        "image": "HASD-362B.jpg",
+
         "italic": true
       },
       "text": "Cristo ajudar\u00e1,\nSim, me ajudar\u00e1!\nSeu amor por mim n\u00e3o muda;\nSempre ajudar\u00e1."
     },
     {
       "attributes": {
-        "show": "0:58",
-        "image": "HASD-362A.jpg"
+        "show": "0:58"
       },
       "text": "Crente in\u00fatil eu serei\nSe n\u00e3o me valer,\nNem servi\u00e7o prestarei,\nSem o Seu poder."
     },
     {
       "attributes": {
         "show": "1:18",
-        "image": "HASD-362B.jpg",
+
         "italic": true
       },
       "text": "Cristo ajudar\u00e1,\nSim, me ajudar\u00e1!\nSeu amor por mim n\u00e3o muda;\nSempre ajudar\u00e1."
     },
     {
       "attributes": {
-        "show": "1:38",
-        "image": "HASD-362A.jpg"
+        "show": "1:38"
       },
       "text": "Com Seu sangue\nme comprou,\nN\u00e3o me deixar\u00e1;\nVida eterna me outorgou;\nSim, me ajudar\u00e1."
     },
     {
       "attributes": {
         "show": "1:57",
-        "image": "HASD-362B.jpg",
+
         "italic": true
       },
       "text": "Cristo ajudar\u00e1,\nSim, me ajudar\u00e1!\nSeu amor por mim n\u00e3o muda;\nSempre ajudar\u00e1."
@@ -48,7 +45,7 @@
   ],
   "attributes": {
     "number": "362",
-    "image": "HASD-362A.jpg",
+
     "title": "Cristo Ajudar\u00e1",
     "author": "Ada Ruth Habershon | Robert Harkness",
     "verse": "Isa\u00edas 41:10",

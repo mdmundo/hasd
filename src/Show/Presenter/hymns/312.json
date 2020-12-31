@@ -2,22 +2,20 @@
   "text": [
     {
       "attributes": {
-        "show": "0:23",
-        "image": "HASD-312A.jpg"
+        "show": "0:23"
       },
       "text": "Semeemos todos\na semente santa,\nDesde a madrugada\nat\u00e9 o anoitecer;"
     },
     {
       "attributes": {
-        "show": "0:35",
-        "image": "HASD-312A.jpg"
+        "show": "0:35"
       },
       "text": "Calmos, aguardando\no tempo da colheita,\nQuando alegremente\nhavemos de colher."
     },
     {
       "attributes": {
         "show": "0:45",
-        "image": "HASD-312B.jpg",
+
         "italic": true
       },
       "text": "Havemos de colher!\nHavemos de colher!\nOh! qu\u00e3o jubilosos,\nhavemos de colher!"
@@ -25,29 +23,27 @@
     {
       "attributes": {
         "show": "0:56",
-        "image": "HASD-312B.jpg",
+
         "italic": true
       },
       "text": "Havemos de colher!\nHavemos de colher!\nMesses abundantes\nhavemos de trazer!"
     },
     {
       "attributes": {
-        "show": "1:10",
-        "image": "HASD-312A.jpg"
+        "show": "1:10"
       },
       "text": "Mesmo quando seres\nmaus e perniciosos\nQuerem a semente\nboa destruir,"
     },
     {
       "attributes": {
-        "show": "1:21",
-        "image": "HASD-312A.jpg"
+        "show": "1:21"
       },
       "text": "Vamos semeando,\nsempre satisfeitos,\nPois colheita santa\nhavemos de fruir."
     },
     {
       "attributes": {
         "show": "1:32",
-        "image": "HASD-312B.jpg",
+
         "italic": true
       },
       "text": "Havemos de colher!\nHavemos de colher!\nOh! qu\u00e3o jubilosos,\nhavemos de colher!"
@@ -55,29 +51,27 @@
     {
       "attributes": {
         "show": "1:43",
-        "image": "HASD-312B.jpg",
+
         "italic": true
       },
       "text": "Havemos de colher!\nHavemos de colher!\nMesses abundantes\nhavemos de trazer!"
     },
     {
       "attributes": {
-        "show": "1:56",
-        "image": "HASD-312A.jpg"
+        "show": "1:56"
       },
       "text": "Eia, pois, obreiros,\nsemeai, ousados,\nA semente viva\nda verdade e luz;"
     },
     {
       "attributes": {
-        "show": "2:07",
-        "image": "HASD-312A.jpg"
+        "show": "2:07"
       },
       "text": "Proclamando Cristo,\nSeu poder e gl\u00f3ria,\nSalva\u00e7\u00e3o perfeita\nque alcan\u00e7ou na cruz!"
     },
     {
       "attributes": {
         "show": "2:18",
-        "image": "HASD-312B.jpg",
+
         "italic": true
       },
       "text": "Havemos de colher!\nHavemos de colher!\nOh! qu\u00e3o jubilosos,\nhavemos de colher!"
@@ -85,7 +79,7 @@
     {
       "attributes": {
         "show": "2:29",
-        "image": "HASD-312B.jpg",
+
         "italic": true
       },
       "text": "Havemos de colher!\nHavemos de colher!\nMesses abundantes\nhavemos de trazer!"
@@ -93,7 +87,7 @@
   ],
   "attributes": {
     "number": "312",
-    "image": "HASD-312A.jpg",
+
     "title": "Havemos de Colher",
     "author": "Knowles Shaw | George A. Minor",
     "verse": "Salmo 126:6",

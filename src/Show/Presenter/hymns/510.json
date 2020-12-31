@@ -2,60 +2,56 @@
   "text": [
     {
       "attributes": {
-        "show": "0:25",
-        "image": "HASD-510A.jpg"
+        "show": "0:25"
       },
       "text": "Meu Jesus est\u00e1 chamando,\nCom amor me convidando,\nSua voz, solicitando:\nVem a Mim e segue-Me."
     },
     {
       "attributes": {
         "show": "0:50",
-        "image": "HASD-510B.jpg",
+
         "italic": true
       },
       "text": "Minha cruz eu tomo e sigo,\nA Jesus eu sempre sigo;\nAonde for, a Ele eu sigo;\nSeguirei a meu Jesus."
     },
     {
       "attributes": {
-        "show": "1:18",
-        "image": "HASD-510A.jpg"
+        "show": "1:18"
       },
       "text": "Se o caminho for custoso,\nE o trabalho mui penoso,\nMesmo assim fico animoso,\nQuando sigo a meu Jesus."
     },
     {
       "attributes": {
         "show": "1:44",
-        "image": "HASD-510B.jpg",
+
         "italic": true
       },
       "text": "Minha cruz eu tomo e sigo,\nA Jesus eu sempre sigo;\nAonde for, a Ele eu sigo;\nSeguirei a meu Jesus."
     },
     {
       "attributes": {
-        "show": "2:10",
-        "image": "HASD-510A.jpg"
+        "show": "2:10"
       },
       "text": "Cristo sempre vai adiante\nCom a Sua luz brilhante;\nSempre avan\u00e7o triunfante,\nQuando sigo a meu Jesus."
     },
     {
       "attributes": {
         "show": "2:35",
-        "image": "HASD-510B.jpg",
+
         "italic": true
       },
       "text": "Minha cruz eu tomo e sigo,\nA Jesus eu sempre sigo;\nAonde for, a Ele eu sigo;\nSeguirei a meu Jesus."
     },
     {
       "attributes": {
-        "show": "3:02",
-        "image": "HASD-510A.jpg"
+        "show": "3:02"
       },
       "text": "Pelo vale Cristo guia;\nQuando fraco, me auxilia;\nMinhas dores alivia;\nSeguirei a meu Jesus."
     },
     {
       "attributes": {
         "show": "3:28",
-        "image": "HASD-510B.jpg",
+
         "italic": true
       },
       "text": "Minha cruz eu tomo e sigo,\nA Jesus eu sempre sigo;\nAonde for, a Ele eu sigo;\nSeguirei a meu Jesus."
@@ -63,7 +59,7 @@
   ],
   "attributes": {
     "number": "510",
-    "image": "HASD-510A.jpg",
+
     "title": "Meu Jesus Est\u00e1 Chamando",
     "author": "Elisha Albright Hoffman | John Samuel Norris",
     "verse": "Mateus 9:9",

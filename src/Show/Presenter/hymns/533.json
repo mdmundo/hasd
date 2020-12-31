@@ -2,60 +2,56 @@
   "text": [
     {
       "attributes": {
-        "show": "0:20",
-        "image": "HASD-533A.jpg"
+        "show": "0:20"
       },
       "text": "\u00d3 vinde, v\u00f3s aflitos, j\u00e1\nAo trono do Senhor;\nAbrigo Cristo vos dar\u00e1,\nRef\u00fagio em Seu amor."
     },
     {
       "attributes": {
         "show": "0:42",
-        "image": "HASD-533B.jpg",
+
         "italic": true
       },
       "text": "Cristo salva, Cristo salva,\nSalva o pecador!\nCristo salva, Cristo salva,\nPor Seu grande amor!"
     },
     {
       "attributes": {
-        "show": "1:04",
-        "image": "HASD-533A.jpg"
+        "show": "1:04"
       },
       "text": "Seu sangue derramou\npor n\u00f3s,\nE assim nos veio abrir\nEstrada reta que conduz\nAo C\u00e9u, o bom porvir."
     },
     {
       "attributes": {
         "show": "1:25",
-        "image": "HASD-533B.jpg",
+
         "italic": true
       },
       "text": "Cristo salva, Cristo salva,\nSalva o pecador!\nCristo salva, Cristo salva,\nPor Seu grande amor!"
     },
     {
       "attributes": {
-        "show": "1:47",
-        "image": "HASD-533A.jpg"
+        "show": "1:47"
       },
       "text": "Jesus \u00e9 vida, paz e luz,\nDo mundo o Redentor;\nE tudo, enfim, Jesus concede\nAo pobre pecador."
     },
     {
       "attributes": {
         "show": "2:08",
-        "image": "HASD-533B.jpg",
+
         "italic": true
       },
       "text": "Cristo salva, Cristo salva,\nSalva o pecador!\nCristo salva, Cristo salva,\nPor Seu grande amor!"
     },
     {
       "attributes": {
-        "show": "2:30",
-        "image": "HASD-533A.jpg"
+        "show": "2:30"
       },
       "text": "\u00d3 vinde, pois, \u00f3 vinde j\u00e1\nA Cristo vos unir!\nPerd\u00e3o Jesus conceder\u00e1\nA quem a luz seguir."
     },
     {
       "attributes": {
         "show": "2:51",
-        "image": "HASD-533B.jpg",
+
         "italic": true
       },
       "text": "Cristo salva, Cristo salva,\nSalva o pecador!\nCristo salva, Cristo salva,\nPor Seu grande amor!"
@@ -63,7 +59,7 @@
   ],
   "attributes": {
     "number": "533",
-    "image": "HASD-533A.jpg",
+
     "title": "Cristo Salva",
     "author": "J. H. S. | John Hart Stockton",
     "verse": "Ef\u00e9sios 2:8",

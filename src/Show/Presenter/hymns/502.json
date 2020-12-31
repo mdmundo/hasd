@@ -2,30 +2,28 @@
   "text": [
     {
       "attributes": {
-        "show": "0:22",
-        "image": "HASD-502A.jpg"
+        "show": "0:22"
       },
       "text": "Eu quero ser,\nSenhor amado,\nComo um vaso nas m\u00e3os\ndo oleiro."
     },
     {
       "attributes": {
         "show": "0:38",
-        "image": "HASD-502B.jpg",
+
         "italic": true
       },
       "text": "Quebra minha vida\nE faze-a de novo;\nEu quero ser, eu quero ser\nUm vaso novo."
     },
     {
       "attributes": {
-        "show": "1:01",
-        "image": "HASD-502A.jpg"
+        "show": "1:01"
       },
       "text": "Faz Teu querer,\nSenhor amado;\n\u00c9s o oleiro e eu\nesse vaso."
     },
     {
       "attributes": {
         "show": "1:18",
-        "image": "HASD-502B.jpg",
+
         "italic": true
       },
       "text": "Quebra minha vida\nE faze-a de novo;\nEu quero ser, eu quero ser\nUm vaso novo."
@@ -33,7 +31,7 @@
   ],
   "attributes": {
     "number": "502",
-    "image": "HASD-502A.jpg",
+
     "title": "Vaso Novo",
     "author": "N. T. | Nilton Tuller",
     "verse": "Jeremias 18:3-6",

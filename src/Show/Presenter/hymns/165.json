@@ -2,22 +2,20 @@
   "text": [
     {
       "attributes": {
-        "show": "0:23",
-        "image": "HASD-165A.jpg"
+        "show": "0:23"
       },
       "text": "D\u00e1-me a B\u00edblia\nque eu tanto anelo,\nPor seu caminho\nquero sempre andar;"
     },
     {
       "attributes": {
-        "show": "0:34",
-        "image": "HASD-165A.jpg"
+        "show": "0:34"
       },
       "text": "Suas palavras\ns\u00e3o a doce nova\nQue nosso Mestre\nveio anunciar."
     },
     {
       "attributes": {
         "show": "0:46",
-        "image": "HASD-165B.jpg",
+
         "italic": true
       },
       "text": "D\u00e1-me a B\u00edblia,\nlivro t\u00e3o precioso!\nSanta doutrina,\nfonte \u00e9 de luz."
@@ -25,29 +23,27 @@
     {
       "attributes": {
         "show": "0:57",
-        "image": "HASD-165B.jpg",
+
         "italic": true
       },
       "text": "S\u00e3o seus ensinos\num sublime gozo;\nEles conduzem\npara o bom Jesus."
     },
     {
       "attributes": {
-        "show": "1:09",
-        "image": "HASD-165A.jpg"
+        "show": "1:09"
       },
       "text": "D\u00e1-me a B\u00edblia,\ndela eu preciso,\nPois do pecado\nh\u00e1 de me livrar;"
     },
     {
       "attributes": {
-        "show": "1:21",
-        "image": "HASD-165A.jpg"
+        "show": "1:21"
       },
       "text": "Suas palavras\nt\u00eam poder e alento\nQue minha alma\npodem renovar."
     },
     {
       "attributes": {
         "show": "1:33",
-        "image": "HASD-165B.jpg",
+
         "italic": true
       },
       "text": "D\u00e1-me a B\u00edblia,\nlivro t\u00e3o precioso!\nSanta doutrina,\nfonte \u00e9 de luz."
@@ -55,29 +51,27 @@
     {
       "attributes": {
         "show": "1:44",
-        "image": "HASD-165B.jpg",
+
         "italic": true
       },
       "text": "S\u00e3o seus ensinos\num sublime gozo;\nEles conduzem\npara o bom Jesus."
     },
     {
       "attributes": {
-        "show": "1:56",
-        "image": "HASD-165A.jpg"
+        "show": "1:56"
       },
       "text": "D\u00e1-me a B\u00edblia,\nque meu guia seja;\nPor toda a vida,\nmeu caminho e luz."
     },
     {
       "attributes": {
-        "show": "2:08",
-        "image": "HASD-165A.jpg"
+        "show": "2:08"
       },
       "text": "Seus bons ensinos\nsejam sempre o astro\nQue me conduza\npara o p\u00e9 da cruz."
     },
     {
       "attributes": {
         "show": "2:20",
-        "image": "HASD-165B.jpg",
+
         "italic": true
       },
       "text": "D\u00e1-me a B\u00edblia,\nlivro t\u00e3o precioso!\nSanta doutrina,\nfonte \u00e9 de luz."
@@ -85,7 +79,7 @@
     {
       "attributes": {
         "show": "2:31",
-        "image": "HASD-165B.jpg",
+
         "italic": true
       },
       "text": "S\u00e3o seus ensinos\num sublime gozo;\nEles conduzem\npara o bom Jesus."
@@ -93,7 +87,7 @@
   ],
   "attributes": {
     "number": "165",
-    "image": "HASD-165A.jpg",
+
     "title": "D\u00e1-me a B\u00edblia",
     "author": "Priscilla Jane Owens | Edmund Simon Lorenz",
     "verse": "II Tim\u00f3teo 3:16 e 17",

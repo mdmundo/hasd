@@ -2,15 +2,14 @@
   "text": [
     {
       "attributes": {
-        "show": "0:21",
-        "image": "HASD-562A.jpg"
+        "show": "0:21"
       },
       "text": "Qu\u00e3o doce e preciosa \na promessa de Deus,\nDe um lar com Jesus nos C\u00e9us!\nAli, peregrinos \nsem repouso ou paz,\nTer\u00e3o descanso eficaz."
     },
     {
       "attributes": {
         "show": "0:46",
-        "image": "HASD-562B.jpg",
+
         "italic": true
       },
       "text": "Anseio meu lar; \nno C\u00e9u desejo estar!\nQuando entrarei \nnas plagas de Si\u00e3o?"
@@ -18,22 +17,21 @@
     {
       "attributes": {
         "show": "0:59",
-        "image": "HASD-562B.jpg",
+
         "italic": true
       },
       "text": "Ali n\u00e3o h\u00e1 m\u00e1goa \nou morte a prantear;\nAnseio a celeste mans\u00e3o!"
     },
     {
       "attributes": {
-        "show": "1:10",
-        "image": "HASD-562A.jpg"
+        "show": "1:10"
       },
       "text": "Acima de tudo \no que ali me seduz,\n\u00c9 ver meu Senhor Jesus,\nBanhar-me na gra\u00e7a \ne aos p\u00e9s do meu Senhor,\nDepor todo o meu louvor."
     },
     {
       "attributes": {
         "show": "1:35",
-        "image": "HASD-562B.jpg",
+
         "italic": true
       },
       "text": "Anseio meu lar; \nno C\u00e9u desejo estar!\nQuando entrarei \nnas plagas de Si\u00e3o?"
@@ -41,22 +39,21 @@
     {
       "attributes": {
         "show": "1:47",
-        "image": "HASD-562B.jpg",
+
         "italic": true
       },
       "text": "Ali n\u00e3o h\u00e1 m\u00e1goa \nou morte a prantear;\nAnseio a celeste mans\u00e3o!"
     },
     {
       "attributes": {
-        "show": "1:58",
-        "image": "HASD-562A.jpg"
+        "show": "1:58"
       },
       "text": "Oh, p\u00e1tria de luz \nonde espero morar,\nE sempre com Cristo estar!\nAli, com remidos, \nsempre viverei,\nLouvando a Jesus, meu Rei!"
     },
     {
       "attributes": {
         "show": "2:22",
-        "image": "HASD-562B.jpg",
+
         "italic": true
       },
       "text": "Anseio meu lar; \nno C\u00e9u desejo estar!\nQuando entrarei \nnas plagas de Si\u00e3o?"
@@ -64,7 +61,7 @@
     {
       "attributes": {
         "show": "2:35",
-        "image": "HASD-562B.jpg",
+
         "italic": true
       },
       "text": "Ali n\u00e3o h\u00e1 m\u00e1goa \nou morte a prantear;\nAnseio a celeste mans\u00e3o!"
@@ -72,7 +69,7 @@
   ],
   "attributes": {
     "number": "562",
-    "image": "HASD-562A.jpg",
+
     "title": "Qu\u00e3o Doce \u00e9 a Promessa",
     "author": "H. F. | Henry de Fluiter",
     "verse": "Jo\u00e3o 14:1-3",

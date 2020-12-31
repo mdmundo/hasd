@@ -2,45 +2,42 @@
   "text": [
     {
       "attributes": {
-        "show": "0:25",
-        "image": "HASD-052A.jpg"
+        "show": "0:25"
       },
       "text": "Vestido em linho Jesus desceu,\nTrazendo salva\u00e7\u00e3o;\nDe mirra o b\u00e1lsamo traz do C\u00e9u,\nBeleza e perfei\u00e7\u00e3o."
     },
     {
       "attributes": {
         "show": "0:53",
-        "image": "HASD-052B.jpg",
+
         "italic": true
       },
       "text": "Vindo ao mundo, deixou no C\u00e9u\nPal\u00e1cios de marfim;\nGl\u00f3ria n\u00e3o quis; em dor morreu.\nA cruz suportou por mim."
     },
     {
       "attributes": {
-        "show": "1:21",
-        "image": "HASD-052A.jpg"
+        "show": "1:21"
       },
       "text": "Trazendo em Si de alo\u00e9s o odor,\nA morte atroz sofreu;\nProvou aqui amargura e dor;\nAo mundo abriu o C\u00e9u."
     },
     {
       "attributes": {
         "show": "1:48",
-        "image": "HASD-052B.jpg",
+
         "italic": true
       },
       "text": "Vindo ao mundo, deixou no C\u00e9u\nPal\u00e1cios de marfim;\nGl\u00f3ria n\u00e3o quis; em dor morreu.\nA cruz suportou por mim."
     },
     {
       "attributes": {
-        "show": "2:16",
-        "image": "HASD-052A.jpg"
+        "show": "2:16"
       },
       "text": "Olor de c\u00e1ssia as vestes t\u00eam:\nSim, Ele ressurgiu;\nE junto ao Pai Se assentou no al\u00e9m;\nAo homem redimiu."
     },
     {
       "attributes": {
         "show": "2:43",
-        "image": "HASD-052B.jpg",
+
         "italic": true
       },
       "text": "Vindo ao mundo, deixou no C\u00e9u\nPal\u00e1cios de marfim;\nGl\u00f3ria n\u00e3o quis; em dor morreu.\nA cruz suportou por mim."
@@ -48,7 +45,7 @@
   ],
   "attributes": {
     "number": "052",
-    "image": "HASD-052A.jpg",
+
     "title": "Vestido em Linho",
     "author": "H. B. | Henry Barraclough",
     "verse": "Salmo 45:8",

@@ -2,30 +2,28 @@
   "text": [
     {
       "attributes": {
-        "show": "0:15",
-        "image": "HASD-148A.jpg"
+        "show": "0:15"
       },
       "text": "Cristo vem\ncom grande majestade\nSua obra terminar.\nOh, louvai\no Rei da eternidade\nQue vir\u00e1 aqui reinar."
     },
     {
       "attributes": {
         "show": "0:35",
-        "image": "HASD-148B.jpg",
+
         "italic": true
       },
       "text": "Rei da paz, sim, vem reinar\nE vem levar-nos para o lar.\nVem, Senhor Jesus, reinar."
     },
     {
       "attributes": {
-        "show": "0:53",
-        "image": "HASD-148A.jpg"
+        "show": "0:53"
       },
       "text": "J\u00e1 se ouve\no clarinar nos ares\nDa trombeta angelical,\nQue anuncia\nem todos os lugares\nO chamado divinal."
     },
     {
       "attributes": {
         "show": "1:13",
-        "image": "HASD-148B.jpg",
+
         "italic": true
       },
       "text": "Rei da paz, sim, vem reinar\nE vem levar-nos para o lar.\nVem, Senhor Jesus, reinar."
@@ -33,7 +31,7 @@
   ],
   "attributes": {
     "number": "148",
-    "image": "HASD-148A.jpg",
+
     "title": "Cristo Vem",
     "author": "John R. MacDuff | John Hughes",
     "verse": "Apocalipse 11:15",

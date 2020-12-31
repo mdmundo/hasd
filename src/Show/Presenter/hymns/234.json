@@ -2,45 +2,42 @@
   "text": [
     {
       "attributes": {
-        "show": "0:19",
-        "image": "HASD-234A.jpg"
+        "show": "0:19"
       },
       "text": "Feliz o dia em que aceitei\nDo meu Senhor a salva\u00e7\u00e3o.\nA grande paz que eu alcancei\nJamais deixou meu cora\u00e7\u00e3o."
     },
     {
       "attributes": {
         "show": "0:39",
-        "image": "HASD-234B.jpg",
+
         "italic": true
       },
       "text": "Que prazer eu senti\nNo dia em que me converti!\nSeguro estou no Salvador,\nE tenho paz em Seu amor.\nSou feliz, t\u00e3o feliz,\nPois em Jesus me satisfiz!"
     },
     {
       "attributes": {
-        "show": "1:08",
-        "image": "HASD-234A.jpg"
+        "show": "1:08"
       },
       "text": "Exulta, pois, meu cora\u00e7\u00e3o,\nEm meu Jesus,\nsupremo Deus,\nPorque te deu a reden\u00e7\u00e3o,\nTrazendo a ti perd\u00e3o\ndos C\u00e9us."
     },
     {
       "attributes": {
         "show": "1:28",
-        "image": "HASD-234B.jpg",
+
         "italic": true
       },
       "text": "Que prazer eu senti\nNo dia em que me converti!\nSeguro estou no Salvador,\nE tenho paz em Seu amor.\nSou feliz, t\u00e3o feliz,\nPois em Jesus me satisfiz!"
     },
     {
       "attributes": {
-        "show": "1:57",
-        "image": "HASD-234A.jpg"
+        "show": "1:57"
       },
       "text": "O voto que eu ent\u00e3o tomei,\nMinh\u0027alma, sim, o cumprir\u00e1.\nE sem cessar eu renderei\nLouvor que a Deus exaltar\u00e1."
     },
     {
       "attributes": {
         "show": "2:16",
-        "image": "HASD-234B.jpg",
+
         "italic": true
       },
       "text": "Que prazer eu senti\nNo dia em que me converti!\nSeguro estou no Salvador,\nE tenho paz em Seu amor.\nSou feliz, t\u00e3o feliz,\nPois em Jesus me satisfiz!"
@@ -48,7 +45,7 @@
   ],
   "attributes": {
     "number": "234",
-    "image": "HASD-234A.jpg",
+
     "title": "Oh, Dia Feliz!",
     "author": "Philip Doddridge | Edward Francis Rimbaut",
     "verse": "Atos 8:35-39",

@@ -2,22 +2,20 @@
   "text": [
     {
       "attributes": {
-        "show": "0:34",
-        "image": "HASD-070A.jpg"
+        "show": "0:34"
       },
       "text": "Deus enviou\nSeu Filho amado\nPara sofrer\nem meu lugar;"
     },
     {
       "attributes": {
-        "show": "0:54",
-        "image": "HASD-070A.jpg"
+        "show": "0:54"
       },
       "text": "Na cruz morreu,\nmas vivo agora est\u00e1,\nPois ressurgiu\ne para sempre viver\u00e1."
     },
     {
       "attributes": {
         "show": "1:12",
-        "image": "HASD-070B.jpg",
+
         "italic": true
       },
       "text": "Porque Ele vive,\nposso crer no amanh\u00e3;\nPorque Ele vive,\ntemor n\u00e3o h\u00e1."
@@ -25,29 +23,27 @@
     {
       "attributes": {
         "show": "1:31",
-        "image": "HASD-070B.jpg",
+
         "italic": true
       },
       "text": "Eu sei que minha vida\nn\u00e3o ser\u00e1 mais v\u00e3,\nPois meu futuro\nem Suas m\u00e3os agora est\u00e1."
     },
     {
       "attributes": {
-        "show": "1:49",
-        "image": "HASD-070A.jpg"
+        "show": "1:49"
       },
       "text": "Qu\u00e3o grato \u00e9\nviver com Cristo,\nE desfrutar\nSeu doce amor,"
     },
     {
       "attributes": {
-        "show": "2:08",
-        "image": "HASD-070A.jpg"
+        "show": "2:08"
       },
       "text": "E certo estar\nde Sua prote\u00e7\u00e3o,\nNos dias calmos\nou nas horas de afli\u00e7\u00e3o."
     },
     {
       "attributes": {
         "show": "2:26",
-        "image": "HASD-070B.jpg",
+
         "italic": true
       },
       "text": "Porque Ele vive,\nposso crer no amanh\u00e3;\nPorque Ele vive,\ntemor n\u00e3o h\u00e1."
@@ -55,29 +51,27 @@
     {
       "attributes": {
         "show": "2:45",
-        "image": "HASD-070B.jpg",
+
         "italic": true
       },
       "text": "Eu sei que minha vida\nn\u00e3o ser\u00e1 mais v\u00e3,\nPois meu futuro\nem Suas m\u00e3os agora est\u00e1."
     },
     {
       "attributes": {
-        "show": "3:03",
-        "image": "HASD-070A.jpg"
+        "show": "3:03"
       },
       "text": "E quando, enfim,\nchegar a hora\nDe aqui cessar\no meu viver,"
     },
     {
       "attributes": {
-        "show": "3:22",
-        "image": "HASD-070A.jpg"
+        "show": "3:22"
       },
       "text": "N\u00e3o temerei,\npois Cristo vivo est\u00e1,\nE eu viverei,\npois vida nova me dar\u00e1."
     },
     {
       "attributes": {
         "show": "3:40",
-        "image": "HASD-070B.jpg",
+
         "italic": true
       },
       "text": "Porque Ele vive,\nposso crer no amanh\u00e3;\nPorque Ele vive,\ntemor n\u00e3o h\u00e1."
@@ -85,7 +79,7 @@
     {
       "attributes": {
         "show": "3:59",
-        "image": "HASD-070B.jpg",
+
         "italic": true
       },
       "text": "Eu sei que minha vida\nn\u00e3o ser\u00e1 mais v\u00e3,\nPois meu futuro\nem Suas m\u00e3os agora est\u00e1."
@@ -93,7 +87,7 @@
   ],
   "attributes": {
     "number": "070",
-    "image": "HASD-070A.jpg",
+
     "title": "Porque Ele Vive",
     "author": "Gloria Sickal Gaither e W. J. G. | William J. Gaither",
     "verse": "Jo\u00e3o 14:19",

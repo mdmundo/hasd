@@ -2,15 +2,14 @@
   "text": [
     {
       "attributes": {
-        "show": "0:20",
-        "image": "HASD-525A.jpg"
+        "show": "0:20"
       },
       "text": "Obedecer \u00e9 melhor\ndo que sacrificar;\nMelhor \u00e9 sempre\natender a Deus\ne a lei guardar."
     },
     {
       "attributes": {
         "show": "0:40",
-        "image": "HASD-525B.jpg",
+
         "italic": true
       },
       "text": "A Deus com f\u00e9,\nnossa alma volvamos,\n\u00c0 Sua lei\nobede\u00e7amos,"
@@ -18,22 +17,21 @@
     {
       "attributes": {
         "show": "1:00",
-        "image": "HASD-525B.jpg",
+
         "italic": true
       },
       "text": "Pois obedecer \u00e9 melhor\ndo que sacrificar;\nMelhor \u00e9 sempre atender\na Deus\nE a lei guardar."
     },
     {
       "attributes": {
-        "show": "1:20",
-        "image": "HASD-525A.jpg"
+        "show": "1:20"
       },
       "text": "Dizeis que n\u00e3o \u00e9\npreciso mais\na lei guardar?\nOlhai que a B\u00edblia\nem lugar algum\na faz tombar."
     },
     {
       "attributes": {
         "show": "1:40",
-        "image": "HASD-525B.jpg",
+
         "italic": true
       },
       "text": "A Deus com f\u00e9,\nnossa alma volvamos,\n\u00c0 Sua lei\nobede\u00e7amos,"
@@ -41,22 +39,21 @@
     {
       "attributes": {
         "show": "2:00",
-        "image": "HASD-525B.jpg",
+
         "italic": true
       },
       "text": "Pois obedecer \u00e9 melhor\ndo que sacrificar;\nMelhor \u00e9 sempre atender\na Deus\nE a lei guardar."
     },
     {
       "attributes": {
-        "show": "2:20",
-        "image": "HASD-525A.jpg"
+        "show": "2:20"
       },
       "text": "Vir\u00e3o as b\u00ean\u00e7\u00e3os de Deus\na quem a lei seguir;\nOh! sim, Jesus nos ajuda\na toda a lei cumprir."
     },
     {
       "attributes": {
         "show": "2:41",
-        "image": "HASD-525B.jpg",
+
         "italic": true
       },
       "text": "A Deus com f\u00e9,\nnossa alma volvamos,\n\u00c0 Sua lei\nobede\u00e7amos,"
@@ -64,7 +61,7 @@
     {
       "attributes": {
         "show": "3:01",
-        "image": "HASD-525B.jpg",
+
         "italic": true
       },
       "text": "Pois obedecer \u00e9 melhor\ndo que sacrificar;\nMelhor \u00e9 sempre atender\na Deus\nE a lei guardar."
@@ -72,7 +69,7 @@
   ],
   "attributes": {
     "number": "525",
-    "image": "HASD-525A.jpg",
+
     "title": "Obedecer \u00e9 Melhor",
     "author": "F. E. B. | Franklin Edson Belden",
     "verse": "I Samuel 15:22",

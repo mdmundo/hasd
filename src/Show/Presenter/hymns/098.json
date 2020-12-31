@@ -2,45 +2,42 @@
   "text": [
     {
       "attributes": {
-        "show": "0:20",
-        "image": "HASD-098A.jpg"
+        "show": "0:20"
       },
       "text": "Morte cruel padeceu\nmeu Jesus;\nPor que me amou assim?\nEu merecera sofrer\nnessa cruz;\nPor que me amou assim?"
     },
     {
       "attributes": {
         "show": "0:42",
-        "image": "HASD-098B.jpg",
+
         "italic": true
       },
       "text": "Por que me amou assim?\nPor que me amou assim?\nPor que sofreu meu Jesus\npor mim?\nPor que me amou assim?"
     },
     {
       "attributes": {
-        "show": "1:05",
-        "image": "HASD-098A.jpg"
+        "show": "1:05"
       },
       "text": "Foi meu pecado que\nO crucificou;\nPor que me amou assim?\nPara salvar-me,\nque dor suportou!\nPor que me amou assim?"
     },
     {
       "attributes": {
         "show": "1:27",
-        "image": "HASD-098B.jpg",
+
         "italic": true
       },
       "text": "Por que me amou assim?\nPor que me amou assim?\nPor que sofreu meu Jesus\npor mim?\nPor que me amou assim?"
     },
     {
       "attributes": {
-        "show": "1:51",
-        "image": "HASD-098A.jpg"
+        "show": "1:51"
       },
       "text": "Oh! que agonia,\nque grande afli\u00e7\u00e3o!\nPor que me amou assim?\nHei de aceitar\nt\u00e3o imenso perd\u00e3o!\nPor que me amou assim?"
     },
     {
       "attributes": {
         "show": "2:13",
-        "image": "HASD-098B.jpg",
+
         "italic": true
       },
       "text": "Por que me amou assim?\nPor que me amou assim?\nPor que sofreu meu Jesus\npor mim?\nPor que me amou assim?"
@@ -48,7 +45,7 @@
   ],
   "attributes": {
     "number": "098",
-    "image": "HASD-098A.jpg",
+
     "title": "Por Que me Amou Assim?",
     "author": "R. H. | Robert Harkness",
     "verse": "Hebreus 12:2 e 3",

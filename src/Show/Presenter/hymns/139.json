@@ -2,45 +2,42 @@
   "text": [
     {
       "attributes": {
-        "show": "0:16",
-        "image": "HASD-139A.jpg"
+        "show": "0:16"
       },
       "text": "Jesus \u00e0 Terra voltar\u00e1\nCom grande majestade,\nE neste mundo exercer\u00e1\nSuprema potestade."
     },
     {
       "attributes": {
         "show": "0:33",
-        "image": "HASD-139B.jpg",
+
         "italic": true
       },
       "text": "Saudai o Rei celestial,\nQue toma aqui poder real!\nSaudai o Rei em Seu fulgor,\nJesus, Deus santo\ne bom Senhor!"
     },
     {
       "attributes": {
-        "show": "0:52",
-        "image": "HASD-139A.jpg"
+        "show": "0:52"
       },
       "text": "Jesus dar\u00e1 justi\u00e7a e paz,\nFeliz far\u00e1 Seu povo;\nO Seu reinado gozo traz\nAo mundo feito novo."
     },
     {
       "attributes": {
         "show": "1:09",
-        "image": "HASD-139B.jpg",
+
         "italic": true
       },
       "text": "Saudai o Rei celestial,\nQue toma aqui poder real!\nSaudai o Rei em Seu fulgor,\nJesus, Deus santo\ne bom Senhor!"
     },
     {
       "attributes": {
-        "show": "1:28",
-        "image": "HASD-139A.jpg"
+        "show": "1:28"
       },
       "text": "Os santos Seus l\u00e1 fruir\u00e3o\nO Seu amor paterno;\nOs pr\u00edncipes e reis vir\u00e3o\nServir ao Rei eterno."
     },
     {
       "attributes": {
         "show": "1:46",
-        "image": "HASD-139B.jpg",
+
         "italic": true
       },
       "text": "Saudai o Rei celestial,\nQue toma aqui poder real!\nSaudai o Rei em Seu fulgor,\nJesus, Deus santo\ne bom Senhor!"
@@ -48,7 +45,7 @@
   ],
   "attributes": {
     "number": "139",
-    "image": "HASD-139A.jpg",
+
     "title": "Jesus \u00e0 Terra Voltar\u00e1",
     "author": "F. E. B. | Franklin Edson Belden",
     "verse": "Apocalipse 11:15",
