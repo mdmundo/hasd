@@ -11,7 +11,7 @@
       "attributes": {
         "show": "1:02",
         "image": "HASD-104B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cristo, nome de valor!\nCristo, forte Redentor!\nCristo, sumo e bom Pastor,\nLouvar-Te-ei pra sempre!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:45",
         "image": "HASD-104B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cristo, nome de valor!\nCristo, forte Redentor!\nCristo, sumo e bom Pastor,\nLouvar-Te-ei pra sempre!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:28",
         "image": "HASD-104B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cristo, nome de valor!\nCristo, forte Redentor!\nCristo, sumo e bom Pastor,\nLouvar-Te-ei pra sempre!"
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "3:11",
         "image": "HASD-104B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cristo, nome de valor!\nCristo, forte Redentor!\nCristo, sumo e bom Pastor,\nLouvar-Te-ei pra sempre!"
     }

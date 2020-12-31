@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:40",
         "image": "HASD-277B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eu venho como estou;\nBem sei, indigno sou,\nMas meu Jesus\npor mim morreu;\nEu venho como estou."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:23",
         "image": "HASD-277B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eu venho como estou;\nBem sei, indigno sou,\nMas meu Jesus\npor mim morreu;\nEu venho como estou."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:05",
         "image": "HASD-277B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eu venho como estou;\nBem sei, indigno sou,\nMas meu Jesus\npor mim morreu;\nEu venho como estou."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:47",
         "image": "HASD-277B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eu venho como estou;\nBem sei, indigno sou,\nMas meu Jesus\npor mim morreu;\nEu venho como estou."
     }

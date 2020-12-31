@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:34",
         "image": "HASD-159B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, chuvas de b\u00ean\u00e7\u00e3os,\nChuvas de b\u00ean\u00e7\u00e3os dos C\u00e9us!\nGotas somente n\u00f3s temos;\nChuvas rogamos a Deus."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:10",
         "image": "HASD-159B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, chuvas de b\u00ean\u00e7\u00e3os,\nChuvas de b\u00ean\u00e7\u00e3os dos C\u00e9us!\nGotas somente n\u00f3s temos;\nChuvas rogamos a Deus."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:46",
         "image": "HASD-159B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, chuvas de b\u00ean\u00e7\u00e3os,\nChuvas de b\u00ean\u00e7\u00e3os dos C\u00e9us!\nGotas somente n\u00f3s temos;\nChuvas rogamos a Deus."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:21",
         "image": "HASD-159B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, chuvas de b\u00ean\u00e7\u00e3os,\nChuvas de b\u00ean\u00e7\u00e3os dos C\u00e9us!\nGotas somente n\u00f3s temos;\nChuvas rogamos a Deus."
     }

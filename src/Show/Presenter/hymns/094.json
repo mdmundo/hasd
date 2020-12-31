@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:46",
         "image": "HASD-094B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sou de Jesus agora,\nMeu \u00e9 Jesus tamb\u00e9m;\nMeu Ele \u00e9 agora,\nMeu para sempre. Am\u00e9m."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:33",
         "image": "HASD-094B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sou de Jesus agora,\nMeu \u00e9 Jesus tamb\u00e9m;\nMeu Ele \u00e9 agora,\nMeu para sempre. Am\u00e9m."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:21",
         "image": "HASD-094B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sou de Jesus agora,\nMeu \u00e9 Jesus tamb\u00e9m;\nMeu Ele \u00e9 agora,\nMeu para sempre. Am\u00e9m."
     }

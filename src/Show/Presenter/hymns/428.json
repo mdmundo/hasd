@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:34",
         "image": "HASD-428B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, h\u00e1 de ser\ngl\u00f3ria pra mim!\nGl\u00f3ria pra mim!\nGl\u00f3ria pra mim!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "0:45",
         "image": "HASD-428B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Quando puder\no Seu rosto mirar,\nOh! h\u00e1 de ser\ngrande gl\u00f3ria pra mim!"
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "1:21",
         "image": "HASD-428B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, h\u00e1 de ser\ngl\u00f3ria pra mim!\nGl\u00f3ria pra mim!\nGl\u00f3ria pra mim!"
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "1:31",
         "image": "HASD-428B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Quando puder\no Seu rosto mirar,\nOh! h\u00e1 de ser\ngrande gl\u00f3ria pra mim!"
     },
@@ -78,7 +78,7 @@
       "attributes": {
         "show": "2:08",
         "image": "HASD-428B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, h\u00e1 de ser\ngl\u00f3ria pra mim!\nGl\u00f3ria pra mim!\nGl\u00f3ria pra mim!"
     },
@@ -86,7 +86,7 @@
       "attributes": {
         "show": "2:19",
         "image": "HASD-428B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Quando puder\no Seu rosto mirar,\nOh! h\u00e1 de ser\ngrande gl\u00f3ria pra mim!"
     }

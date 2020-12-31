@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:36",
         "image": "HASD-236B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Em meu viver cantando vou:\nGl\u00f3ria ao Senhor!\nGl\u00f3ria ao Senhor!\nEm meu viver cantando vou,\nPois Cristo meu fardo levou."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:15",
         "image": "HASD-236B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Em meu viver cantando vou:\nGl\u00f3ria ao Senhor!\nGl\u00f3ria ao Senhor!\nEm meu viver cantando vou,\nPois Cristo meu fardo levou."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:52",
         "image": "HASD-236B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Em meu viver cantando vou:\nGl\u00f3ria ao Senhor!\nGl\u00f3ria ao Senhor!\nEm meu viver cantando vou,\nPois Cristo meu fardo levou."
     }

@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:54",
         "image": "HASD-075B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Conquista, \u00f3 Cristo!\nConquista j\u00e1, \u00f3 Rei!\nCom gl\u00f3ria, grandeza,\npoder celestial!"
     },
@@ -19,7 +19,7 @@
       "attributes": {
         "show": "1:12",
         "image": "HASD-075B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Conquista, \u00f3 Cristo!\nConquista j\u00e1, \u00f3 Rei!\nDomina sobre terra e c\u00e9us,\n\u00f3 Rei universal!"
     },
@@ -34,7 +34,7 @@
       "attributes": {
         "show": "1:49",
         "image": "HASD-075B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Conquista, \u00f3 Cristo!\nConquista j\u00e1, \u00f3 Rei!\nCom gl\u00f3ria, grandeza,\npoder celestial!"
     },
@@ -42,7 +42,7 @@
       "attributes": {
         "show": "2:07",
         "image": "HASD-075B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Conquista, \u00f3 Cristo!\nConquista j\u00e1, \u00f3 Rei!\nDomina sobre terra e c\u00e9us,\n\u00f3 Rei universal!"
     },
@@ -57,7 +57,7 @@
       "attributes": {
         "show": "2:43",
         "image": "HASD-075B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Conquista, \u00f3 Cristo!\nConquista j\u00e1, \u00f3 Rei!\nCom gl\u00f3ria, grandeza,\npoder celestial!"
     },
@@ -65,7 +65,7 @@
       "attributes": {
         "show": "3:02",
         "image": "HASD-075B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Conquista, \u00f3 Cristo!\nConquista j\u00e1, \u00f3 Rei!\nDomina sobre terra e c\u00e9us,\n\u00f3 Rei universal!"
     },
@@ -80,7 +80,7 @@
       "attributes": {
         "show": "3:39",
         "image": "HASD-075B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Conquista, \u00f3 Cristo!\nConquista j\u00e1, \u00f3 Rei!\nCom gl\u00f3ria, grandeza,\npoder celestial!"
     },
@@ -88,7 +88,7 @@
       "attributes": {
         "show": "3:56",
         "image": "HASD-075B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Conquista, \u00f3 Cristo!\nConquista j\u00e1, \u00f3 Rei!\nDomina sobre terra e c\u00e9us,\n\u00f3 Rei universal!"
     }

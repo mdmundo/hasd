@@ -18,7 +18,7 @@
       "attributes": {
         "show": "1:01",
         "image": "HASD-511B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Gl\u00f3ria, anjos mil entoam l\u00e1!\nGl\u00f3ria, ouvem-se as harpas j\u00e1!\n\u00c9 o santo coro\ndando o seu louvor,\nPois se converteu um pecador."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:43",
         "image": "HASD-511B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Gl\u00f3ria, anjos mil entoam l\u00e1!\nGl\u00f3ria, ouvem-se as harpas j\u00e1!\n\u00c9 o santo coro\ndando o seu louvor,\nPois se converteu um pecador."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:25",
         "image": "HASD-511B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Gl\u00f3ria, anjos mil entoam l\u00e1!\nGl\u00f3ria, ouvem-se as harpas j\u00e1!\n\u00c9 o santo coro\ndando o seu louvor,\nPois se converteu um pecador."
     }

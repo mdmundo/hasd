@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:29",
         "image": "HASD-188B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh! quanto amor Jesus sentiu,\nPois Ele a porta j\u00e1 me abriu!\nA mim, a mim,\nA porta j\u00e1 me abriu!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:10",
         "image": "HASD-188B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh! quanto amor Jesus sentiu,\nPois Ele a porta j\u00e1 me abriu!\nA mim, a mim,\nA porta j\u00e1 me abriu!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:51",
         "image": "HASD-188B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh! quanto amor Jesus sentiu,\nPois Ele a porta j\u00e1 me abriu!\nA mim, a mim,\nA porta j\u00e1 me abriu!"
     }

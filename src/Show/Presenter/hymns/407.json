@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:52",
         "image": "HASD-407B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Ao Teu lado quero andar,\nLivre de qualquer temor;\nQuero em Ti sempre confiar,\nE viver para Ti, \u00f3 Senhor."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:46",
         "image": "HASD-407B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Ao Teu lado quero andar,\nLivre de qualquer temor;\nQuero em Ti sempre confiar,\nE viver para Ti, \u00f3 Senhor."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:40",
         "image": "HASD-407B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Ao Teu lado quero andar,\nLivre de qualquer temor;\nQuero em Ti sempre confiar,\nE viver para Ti, \u00f3 Senhor."
     }

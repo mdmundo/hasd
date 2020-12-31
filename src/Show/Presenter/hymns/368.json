@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:47",
         "image": "HASD-368B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Leva a Cristo as tuas m\u00e1goas,\nVai com Ele ter,\nvai sem mesmo te deter;\nLeva a Cristo as tuas m\u00e1goas\nQue Ele as muda todas\nem prazer."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:36",
         "image": "HASD-368B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Leva a Cristo as tuas m\u00e1goas,\nVai com Ele ter,\nvai sem mesmo te deter;\nLeva a Cristo as tuas m\u00e1goas\nQue Ele as muda todas\nem prazer."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:25",
         "image": "HASD-368B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Leva a Cristo as tuas m\u00e1goas,\nVai com Ele ter,\nvai sem mesmo te deter;\nLeva a Cristo as tuas m\u00e1goas\nQue Ele as muda todas\nem prazer."
     }

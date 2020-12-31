@@ -18,7 +18,7 @@
       "attributes": {
         "show": "1:10",
         "image": "HASD-501B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Terei u\u0027a casa,\nno alto do monte,\nCom flores lindas\npor todo o jardim;"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:27",
         "image": "HASD-501B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Aves cantando\nnas copas frondosas,\nRejubilando,\nna vida sem fim."
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "2:21",
         "image": "HASD-501B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Terei u\u0027a casa,\nno alto do monte,\nCom flores lindas\npor todo o jardim;"
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:39",
         "image": "HASD-501B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Aves cantando\nnas copas frondosas,\nRejubilando,\nna vida sem fim."
     }

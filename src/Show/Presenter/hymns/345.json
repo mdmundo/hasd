@@ -18,7 +18,7 @@
       "attributes": {
         "show": "1:02",
         "image": "HASD-345B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Lutai por Cristo,\nSoldados sois da cruz!\nAl\u00e7ai Seu estandarte;\nBem alto deixai brilhar a luz!"
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "2:04",
         "image": "HASD-345B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Lutai por Cristo,\nSoldados sois da cruz!\nAl\u00e7ai Seu estandarte;\nBem alto deixai brilhar a luz!"
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "3:06",
         "image": "HASD-345B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Lutai por Cristo,\nSoldados sois da cruz!\nAl\u00e7ai Seu estandarte;\nBem alto deixai brilhar a luz!"
     }

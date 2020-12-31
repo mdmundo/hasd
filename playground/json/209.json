@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:38",
         "image": "HASD-209B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Remiu, remiu,\nNa cruz me remiu meu Jesus.\nRemiu-me, remiu-me,\nPor isso ando agora na luz."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:18",
         "image": "HASD-209B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Remiu, remiu,\nNa cruz me remiu meu Jesus.\nRemiu-me, remiu-me,\nPor isso ando agora na luz."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:57",
         "image": "HASD-209B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Remiu, remiu,\nNa cruz me remiu meu Jesus.\nRemiu-me, remiu-me,\nPor isso ando agora na luz."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:37",
         "image": "HASD-209B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Remiu, remiu,\nNa cruz me remiu meu Jesus.\nRemiu-me, remiu-me,\nPor isso ando agora na luz."
     }

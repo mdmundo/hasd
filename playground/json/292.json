@@ -18,7 +18,7 @@
       "attributes": {
         "show": "1:07",
         "image": "HASD-292B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Onde quer, onde quer\nQue Jesus mandar,\nSempre junto dEle\nEu irei andar."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:59",
         "image": "HASD-292B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Onde quer, onde quer\nQue Jesus mandar,\nSempre junto dEle\nEu irei andar."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:52",
         "image": "HASD-292B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Onde quer, onde quer\nQue Jesus mandar,\nSempre junto dEle\nEu irei andar."
     }

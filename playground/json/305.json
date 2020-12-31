@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:39",
         "image": "HASD-305B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Que eu cumpra s\u00f3\no Teu querer,\nDisposto, assim, a obedecer;\nQue eu siga aonde me guiar\nO Teu querer, o Teu mandar."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:20",
         "image": "HASD-305B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Que eu cumpra s\u00f3\no Teu querer,\nDisposto, assim, a obedecer;\nQue eu siga aonde me guiar\nO Teu querer, o Teu mandar."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:00",
         "image": "HASD-305B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Que eu cumpra s\u00f3\no Teu querer,\nDisposto, assim, a obedecer;\nQue eu siga aonde me guiar\nO Teu querer, o Teu mandar."
     }

@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:50",
         "image": "HASD-239B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cantai! Cantai!\nA Cristo louvores dai!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:21",
         "image": "HASD-239B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cantai! Cantai!\nA Cristo louvores dai!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:53",
         "image": "HASD-239B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cantai! Cantai!\nA Cristo louvores dai!"
     }

@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:30",
         "image": "HASD-459B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cristo ama as criancinhas\nQue no mundo inteiro h\u00e1;\nDiz a todas com dul\u00e7or,\nQue Ele as quer\ncom muito amor;\nB\u00ean\u00e7\u00e3os mil a todas elas\nCristo d\u00e1."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:11",
         "image": "HASD-459B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cristo ama as criancinhas\nQue no mundo inteiro h\u00e1;\nDiz a todas com dul\u00e7or,\nQue Ele as quer\ncom muito amor;\nB\u00ean\u00e7\u00e3os mil a todas elas\nCristo d\u00e1."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "1:53",
         "image": "HASD-459B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cristo ama as criancinhas\nQue no mundo inteiro h\u00e1;\nDiz a todas com dul\u00e7or,\nQue Ele as quer\ncom muito amor;\nB\u00ean\u00e7\u00e3os mil a todas elas\nCristo d\u00e1."
     }

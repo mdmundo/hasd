@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:30",
         "image": "HASD-153B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Dai boas novas,\nsim, proclamai,\nPois logo mais\nfindar\u00e1 nossa dor."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "0:40",
         "image": "HASD-153B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "V\u00f3s, \u00f3 fi\u00e9is,\ncom fervor sempre orai:\n\u0027\u0027Ora vem, Senhor Jesus,\n\u00f3 vem, Salvador!\u0027\u0027"
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "1:11",
         "image": "HASD-153B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Dai boas novas,\nsim, proclamai,\nPois logo mais\nfindar\u00e1 nossa dor."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "1:21",
         "image": "HASD-153B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "V\u00f3s, \u00f3 fi\u00e9is,\ncom fervor sempre orai:\n\u0027\u0027Ora vem, Senhor Jesus,\n\u00f3 vem, Salvador!\u0027\u0027"
     },
@@ -78,7 +78,7 @@
       "attributes": {
         "show": "1:52",
         "image": "HASD-153B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Dai boas novas,\nsim, proclamai,\nPois logo mais\nfindar\u00e1 nossa dor."
     },
@@ -86,7 +86,7 @@
       "attributes": {
         "show": "2:02",
         "image": "HASD-153B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "V\u00f3s, \u00f3 fi\u00e9is,\ncom fervor sempre orai:\n\u0027\u0027Ora vem, Senhor Jesus,\n\u00f3 vem, Salvador!\u0027\u0027"
     }

@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:51",
         "image": "HASD-221B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eu sou de Jesus, aleluia!\nDe Cristo Jesus, meu Senhor!\nEu quero falar,\neu quero cantar\nDo amor do meu Salvador!"
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:43",
         "image": "HASD-221B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eu sou de Jesus, aleluia!\nDe Cristo Jesus, meu Senhor!\nEu quero falar,\neu quero cantar\nDo amor do meu Salvador!"
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:35",
         "image": "HASD-221B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eu sou de Jesus, aleluia!\nDe Cristo Jesus, meu Senhor!\nEu quero falar,\neu quero cantar\nDo amor do meu Salvador!"
     }

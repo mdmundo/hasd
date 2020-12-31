@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:51",
         "image": "HASD-086B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00d3 alegrai-vos,\nfilhos de Si\u00e3o!\nEis que vem raiando\nvossa reden\u00e7\u00e3o!"
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:43",
         "image": "HASD-086B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00d3 alegrai-vos,\nfilhos de Si\u00e3o!\nEis que vem raiando\nvossa reden\u00e7\u00e3o!"
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:35",
         "image": "HASD-086B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00d3 alegrai-vos,\nfilhos de Si\u00e3o!\nEis que vem raiando\nvossa reden\u00e7\u00e3o!"
     }

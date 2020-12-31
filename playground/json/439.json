@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:34",
         "image": "HASD-439B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Primeiro quero ver\nmeu Salvador,\nSim, antes dos queridos\nao redor;"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "0:46",
         "image": "HASD-439B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "E ent\u00e3o por longos dias,\nque doces alegrias!\nMas quero ver primeiro\no Salvador."
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "1:23",
         "image": "HASD-439B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Primeiro quero ver\nmeu Salvador,\nSim, antes dos queridos\nao redor;"
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "1:35",
         "image": "HASD-439B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "E ent\u00e3o por longos dias,\nque doces alegrias!\nMas quero ver primeiro\no Salvador."
     },
@@ -78,7 +78,7 @@
       "attributes": {
         "show": "2:12",
         "image": "HASD-439B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Primeiro quero ver\nmeu Salvador,\nSim, antes dos queridos\nao redor;"
     },
@@ -86,7 +86,7 @@
       "attributes": {
         "show": "2:24",
         "image": "HASD-439B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "E ent\u00e3o por longos dias,\nque doces alegrias!\nMas quero ver primeiro\no Salvador."
     }

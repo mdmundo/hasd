@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:55",
         "image": "HASD-589B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Tamb\u00e9m, Senhor, eu quero\nTrazer-Te este dom,\nIndigno, mas sincero:\nO impuro cora\u00e7\u00e3o."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:51",
         "image": "HASD-589B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Tamb\u00e9m, Senhor, eu quero\nTrazer-Te este dom,\nIndigno, mas sincero:\nO impuro cora\u00e7\u00e3o."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:48",
         "image": "HASD-589B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Tamb\u00e9m, Senhor, eu quero\nTrazer-Te este dom,\nIndigno, mas sincero:\nO impuro cora\u00e7\u00e3o."
     }

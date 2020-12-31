@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:40",
         "image": "HASD-349B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Descansando\nNos eternos bra\u00e7os\ndo meu Deus,\nVou seguro\nDescansando\nno poder de Deus."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:21",
         "image": "HASD-349B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Descansando\nNos eternos bra\u00e7os\ndo meu Deus,\nVou seguro\nDescansando\nno poder de Deus."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:02",
         "image": "HASD-349B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Descansando\nNos eternos bra\u00e7os\ndo meu Deus,\nVou seguro\nDescansando\nno poder de Deus."
     }

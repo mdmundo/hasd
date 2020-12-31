@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:42",
         "image": "HASD-264B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Um dia o Salvador vir\u00e1;\nUm dia Ele esclarecer\u00e1;\nEnt\u00e3o da dor me livrar\u00e1;\nUm dia hei de compreender."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:26",
         "image": "HASD-264B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Um dia o Salvador vir\u00e1;\nUm dia Ele esclarecer\u00e1;\nEnt\u00e3o da dor me livrar\u00e1;\nUm dia hei de compreender."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:10",
         "image": "HASD-264B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Um dia o Salvador vir\u00e1;\nUm dia Ele esclarecer\u00e1;\nEnt\u00e3o da dor me livrar\u00e1;\nUm dia hei de compreender."
     }

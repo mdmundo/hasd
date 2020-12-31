@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:49",
         "image": "HASD-179B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u0027\u0027Vinde, vinde a Mim!\nVinde, vinde a Mim!\nTristes, carregados,\nvinde, vinde a Mim!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:06",
         "image": "HASD-179B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vinde, vinde a Mim!\nVinde, vinde a Mim!\nFracos e cansados,\nvinde, vinde a Mim!\u0027\u0027"
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "1:57",
         "image": "HASD-179B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u0027\u0027Vinde, vinde a Mim!\nVinde, vinde a Mim!\nTristes, carregados,\nvinde, vinde a Mim!"
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:13",
         "image": "HASD-179B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vinde, vinde a Mim!\nVinde, vinde a Mim!\nFracos e cansados,\nvinde, vinde a Mim!\u0027\u0027"
     },
@@ -78,7 +78,7 @@
       "attributes": {
         "show": "3:04",
         "image": "HASD-179B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u0027\u0027Vinde, vinde a Mim!\nVinde, vinde a Mim!\nTristes, carregados,\nvinde, vinde a Mim!"
     },
@@ -86,7 +86,7 @@
       "attributes": {
         "show": "3:21",
         "image": "HASD-179B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vinde, vinde a Mim!\nVinde, vinde a Mim!\nFracos e cansados,\nvinde, vinde a Mim!\u0027\u0027"
     }

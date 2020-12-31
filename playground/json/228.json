@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:37",
         "image": "HASD-228B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Paz, paz, paz, paz,\nDom precioso dos C\u00e9us!\nExcelsa e dulc\u00edssima paz,\n\u00c9s dom do amor de meu Deus."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:16",
         "image": "HASD-228B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Paz, paz, paz, paz,\nDom precioso dos C\u00e9us!\nExcelsa e dulc\u00edssima paz,\n\u00c9s dom do amor de meu Deus."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:55",
         "image": "HASD-228B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Paz, paz, paz, paz,\nDom precioso dos C\u00e9us!\nExcelsa e dulc\u00edssima paz,\n\u00c9s dom do amor de meu Deus."
     }

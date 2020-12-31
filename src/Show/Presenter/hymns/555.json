@@ -18,7 +18,7 @@
       "attributes": {
         "show": "1:03",
         "image": "HASD-555B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Mas t\u00e9 ent\u00e3o,\neu seguirei cantando,\nT\u00e9 ent\u00e3o\ncontente eu hei de estar,"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:19",
         "image": "HASD-555B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "At\u00e9 o dia\nem que a cidade eu veja,\nE ou\u00e7a a Deus\nchamar-me ao lar."
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "2:09",
         "image": "HASD-555B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Mas t\u00e9 ent\u00e3o,\neu seguirei cantando,\nT\u00e9 ent\u00e3o\ncontente eu hei de estar,"
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:25",
         "image": "HASD-555B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "At\u00e9 o dia\nem que a cidade eu veja,\nE ou\u00e7a a Deus\nchamar-me ao lar."
     }

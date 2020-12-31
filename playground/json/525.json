@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:40",
         "image": "HASD-525B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "A Deus com f\u00e9,\nnossa alma volvamos,\n\u00c0 Sua lei\nobede\u00e7amos,"
     },
@@ -19,7 +19,7 @@
       "attributes": {
         "show": "1:00",
         "image": "HASD-525B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pois obedecer \u00e9 melhor\ndo que sacrificar;\nMelhor \u00e9 sempre atender\na Deus\nE a lei guardar."
     },
@@ -34,7 +34,7 @@
       "attributes": {
         "show": "1:40",
         "image": "HASD-525B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "A Deus com f\u00e9,\nnossa alma volvamos,\n\u00c0 Sua lei\nobede\u00e7amos,"
     },
@@ -42,7 +42,7 @@
       "attributes": {
         "show": "2:00",
         "image": "HASD-525B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pois obedecer \u00e9 melhor\ndo que sacrificar;\nMelhor \u00e9 sempre atender\na Deus\nE a lei guardar."
     },
@@ -57,7 +57,7 @@
       "attributes": {
         "show": "2:41",
         "image": "HASD-525B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "A Deus com f\u00e9,\nnossa alma volvamos,\n\u00c0 Sua lei\nobede\u00e7amos,"
     },
@@ -65,7 +65,7 @@
       "attributes": {
         "show": "3:01",
         "image": "HASD-525B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pois obedecer \u00e9 melhor\ndo que sacrificar;\nMelhor \u00e9 sempre atender\na Deus\nE a lei guardar."
     }

@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:46",
         "image": "HASD-572B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vou morar, vou morar,\nNesse lar perenal e feliz;\nVou morar, vou morar,\nNesse lar perenal e feliz."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:34",
         "image": "HASD-572B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vou cantar, vou cantar,\nNesse lar perenal e feliz;\nVou cantar, vou cantar,\nNesse lar perenal e feliz."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:22",
         "image": "HASD-572B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Hei de estar, hei de estar,\nNesse lar perenal e feliz;\nHei de estar, hei de estar,\nNesse lar perenal e feliz."
     }

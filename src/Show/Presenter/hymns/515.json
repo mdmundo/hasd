@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:47",
         "image": "HASD-515B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Importa renascer!\nImporta renascer!\nCom voz infal\u00edvel\no disse Jesus:\nImporta renascer!"
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:34",
         "image": "HASD-515B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Importa renascer!\nImporta renascer!\nCom voz infal\u00edvel\no disse Jesus:\nImporta renascer!"
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:22",
         "image": "HASD-515B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Importa renascer!\nImporta renascer!\nCom voz infal\u00edvel\no disse Jesus:\nImporta renascer!"
     }

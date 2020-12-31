@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:35",
         "image": "HASD-547B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, bela terra de esplendor,\nQuerida heran\u00e7a do Senhor;\nOlhando, vejo al\u00e9m do mar"
     },
@@ -19,7 +19,7 @@
       "attributes": {
         "show": "0:47",
         "image": "HASD-547B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Que em breve\neu hei de atravessar,\nA linda praia perenal,\nDo eterno lar celestial."
     },
@@ -34,7 +34,7 @@
       "attributes": {
         "show": "1:20",
         "image": "HASD-547B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, bela terra de esplendor,\nQuerida heran\u00e7a do Senhor;\nOlhando, vejo al\u00e9m do mar"
     },
@@ -42,7 +42,7 @@
       "attributes": {
         "show": "1:32",
         "image": "HASD-547B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Que em breve\neu hei de atravessar,\nA linda praia perenal,\nDo eterno lar celestial."
     },
@@ -57,7 +57,7 @@
       "attributes": {
         "show": "2:05",
         "image": "HASD-547B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, bela terra de esplendor,\nQuerida heran\u00e7a do Senhor;\nOlhando, vejo al\u00e9m do mar"
     },
@@ -65,7 +65,7 @@
       "attributes": {
         "show": "2:17",
         "image": "HASD-547B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Que em breve\neu hei de atravessar,\nA linda praia perenal,\nDo eterno lar celestial."
     }

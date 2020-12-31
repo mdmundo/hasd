@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:59",
         "image": "HASD-402B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Faze-me ouvir bem manso,\nem suave murmurar:\n\u0093\u0027\u0027Na cruz verti Meu sangue,\npara te libertar.\u0027\u0027\u0094"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:19",
         "image": "HASD-402B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Fala-me cada dia,\nfala com terno amor,\nSegreda-me ao ouvido:\n\u0093\u0027\u0027Tu tens um Salvador!\u0027\u0027\u0094"
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "2:21",
         "image": "HASD-402B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Faze-me ouvir bem manso,\nem suave murmurar:\n\u0093\u0027\u0027Na cruz verti Meu sangue,\npara te libertar.\u0027\u0027\u0094"
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:40",
         "image": "HASD-402B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Fala-me cada dia,\nfala com terno amor,\nSegreda-me ao ouvido:\n\u0093\u0027\u0027Tu tens um Salvador!\u0027\u0027\u0094"
     },
@@ -78,7 +78,7 @@
       "attributes": {
         "show": "3:41",
         "image": "HASD-402B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Faze-me ouvir bem manso,\nem suave murmurar:\n\u0093\u0027\u0027Na cruz verti Meu sangue,\npara te libertar.\u0027\u0027\u0094"
     },
@@ -86,7 +86,7 @@
       "attributes": {
         "show": "4:01",
         "image": "HASD-402B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Fala-me cada dia,\nfala com terno amor,\nSegreda-me ao ouvido:\n\u0093\u0027\u0027Tu tens um Salvador!\u0027\u0027\u0094"
     }

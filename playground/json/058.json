@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:58",
         "image": "HASD-058B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Conta-me a velha hist\u00f3ria,\nVelha e sublime hist\u00f3ria!\nConta-me, pois, a hist\u00f3ria\nDo meigo Salvador!"
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:58",
         "image": "HASD-058B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Conta-me a velha hist\u00f3ria,\nVelha e sublime hist\u00f3ria!\nConta-me, pois, a hist\u00f3ria\nDo meigo Salvador!"
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:57",
         "image": "HASD-058B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Conta-me a velha hist\u00f3ria,\nVelha e sublime hist\u00f3ria!\nConta-me, pois, a hist\u00f3ria\nDo meigo Salvador!"
     }

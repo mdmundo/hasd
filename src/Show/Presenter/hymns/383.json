@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:44",
         "image": "HASD-383B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh! sim, eu sei, Jesus bem v\u00ea\nO que eu estou a sofrer!\nEm cruel peleja, pavor, inveja,\nJesus me quer valer."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:30",
         "image": "HASD-383B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh! sim, eu sei, Jesus bem v\u00ea\nO que eu estou a sofrer!\nEm cruel peleja, pavor, inveja,\nJesus me quer valer."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:16",
         "image": "HASD-383B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh! sim, eu sei, Jesus bem v\u00ea\nO que eu estou a sofrer!\nEm cruel peleja, pavor, inveja,\nJesus me quer valer."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "3:01",
         "image": "HASD-383B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh! sim, eu sei, Jesus bem v\u00ea\nO que eu estou a sofrer!\nEm cruel peleja, pavor, inveja,\nJesus me quer valer."
     }

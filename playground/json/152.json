@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:43",
         "image": "HASD-152B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Gl\u00f3ria, gl\u00f3ria! Aleluia!\nGl\u00f3ria, gl\u00f3ria! Aleluia!\nGl\u00f3ria, gl\u00f3ria! Aleluia!\nVencendo vem Jesus!"
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:26",
         "image": "HASD-152B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Gl\u00f3ria, gl\u00f3ria! Aleluia!\nGl\u00f3ria, gl\u00f3ria! Aleluia!\nGl\u00f3ria, gl\u00f3ria! Aleluia!\nVencendo vem Jesus!"
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:10",
         "image": "HASD-152B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Gl\u00f3ria, gl\u00f3ria! Aleluia!\nGl\u00f3ria, gl\u00f3ria! Aleluia!\nGl\u00f3ria, gl\u00f3ria! Aleluia!\nVencido tem Jesus!"
     }

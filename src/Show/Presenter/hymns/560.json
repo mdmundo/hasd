@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:45",
         "image": "HASD-560B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Irei para aquela cidade\nQue Deus para mim preparou;\nAli todos os redimidos\nS\u00f3 cantam can\u00e7\u00f5es de louvor."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:03",
         "image": "HASD-560B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00c0s vezes eu sinto saudade\nDessa terra gloriosa e eternal;\nQue alegria ser\u00e1\nver o meu Salvador,\nNa cidade de ouro e cristal."
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "2:01",
         "image": "HASD-560B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Irei para aquela cidade\nQue Deus para mim preparou;\nAli todos os redimidos\nS\u00f3 cantam can\u00e7\u00f5es de louvor."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:19",
         "image": "HASD-560B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00c0s vezes eu sinto saudade\nDessa terra gloriosa e eternal;\nQue alegria ser\u00e1 ver\no meu Salvador,\nNa cidade de ouro e cristal."
     },
@@ -78,7 +78,7 @@
       "attributes": {
         "show": "3:18",
         "image": "HASD-560B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Irei para aquela cidade\nQue Deus para mim preparou;\nAli todos os redimidos\nS\u00f3 cantam can\u00e7\u00f5es de louvor."
     },
@@ -86,7 +86,7 @@
       "attributes": {
         "show": "3:36",
         "image": "HASD-560B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00c0s vezes eu sinto saudade\nDessa terra gloriosa e eternal;\nQue alegria ser\u00e1 ver\no meu Salvador,\nNa cidade de ouro e cristal."
     }

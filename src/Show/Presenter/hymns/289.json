@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:42",
         "image": "HASD-289B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Mais perto da Tua cruz,\nQuero estar, \u00f3 Salvador!\nMais perto da Tua cruz,\nSempre quero estar, Senhor!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:29",
         "image": "HASD-289B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Mais perto da Tua cruz,\nQuero estar, \u00f3 Salvador!\nMais perto da Tua cruz,\nSempre quero estar, Senhor!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:15",
         "image": "HASD-289B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Mais perto da Tua cruz,\nQuero estar, \u00f3 Salvador!\nMais perto da Tua cruz,\nSempre quero estar, Senhor!"
     }

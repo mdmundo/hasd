@@ -11,7 +11,7 @@
       "attributes": {
         "show": "1:08",
         "image": "HASD-327B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pois Jesus, nosso Rei, em breve\nVoltar\u00e1 Rei dos reis, Senhor;\nVir\u00e1 Seu reino de luz fundar,\nUm reino de paz e amor."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:52",
         "image": "HASD-327B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pois Jesus, nosso Rei, em breve\nVoltar\u00e1 Rei dos reis, Senhor;\nVir\u00e1 Seu reino de luz fundar,\nUm reino de paz e amor."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:37",
         "image": "HASD-327B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pois Jesus, nosso Rei, em breve\nVoltar\u00e1 Rei dos reis, Senhor;\nVir\u00e1 Seu reino de luz fundar,\nUm reino de paz e amor."
     }

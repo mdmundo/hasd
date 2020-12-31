@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:32",
         "image": "HASD-378B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Algu\u00e9m me v\u00ea, Algu\u00e9m me v\u00ea,\nQuando me oprimem\nas vis tenta\u00e7\u00f5es.\nNunca me encontro sozinho,\nAlgu\u00e9m me v\u00ea: \u00e9 Cristo."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:16",
         "image": "HASD-378B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Algu\u00e9m me v\u00ea, Algu\u00e9m me v\u00ea,\nQuando me oprimem\nas vis tenta\u00e7\u00f5es.\nNunca me encontro sozinho,\nAlgu\u00e9m me v\u00ea: \u00e9 Cristo."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:01",
         "image": "HASD-378B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Algu\u00e9m me v\u00ea, Algu\u00e9m me v\u00ea,\nQuando me oprimem\nas vis tenta\u00e7\u00f5es.\nNunca me encontro sozinho,\nAlgu\u00e9m me v\u00ea: \u00e9 Cristo."
     }

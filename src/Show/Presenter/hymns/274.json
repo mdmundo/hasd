@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:41",
         "image": "HASD-274B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Firme, firme,\nFirme nas promessas\nde Jesus, meu Mestre;\nFirme, firme,\nSim, firme nas promessas\nde Jesus."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:21",
         "image": "HASD-274B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Firme, firme,\nFirme nas promessas\nde Jesus, meu Mestre;\nFirme, firme,\nSim, firme nas promessas\nde Jesus."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:01",
         "image": "HASD-274B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Firme, firme,\nFirme nas promessas\nde Jesus, meu Mestre;\nFirme, firme,\nSim, firme nas promessas\nde Jesus."
     }

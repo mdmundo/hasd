@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:50",
         "image": "HASD-091B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pode ser um rei\ncom poder nas m\u00e3os,\nMas do mal escravo, sim.\nMil vezes prefiro o meu Jesus,\nE servi-Lo at\u00e9 o fim."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:59",
         "image": "HASD-091B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pode ser um rei\ncom poder nas m\u00e3os,\nMas do mal escravo, sim.\nMil vezes prefiro o meu Jesus,\nE servi-Lo at\u00e9 o fim."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "3:08",
         "image": "HASD-091B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pode ser um rei\ncom poder nas m\u00e3os,\nMas do mal escravo, sim.\nMil vezes prefiro o meu Jesus,\nE servi-Lo at\u00e9 o fim."
     }

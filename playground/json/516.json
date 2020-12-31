@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:42",
         "image": "HASD-516B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, fonte, sim, de vida e amor,\nQue vem tirar o mal e a dor!\nOh, gra\u00e7as mil ao bom Jesus\nQue a vida deu por mim\nna cruz!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:25",
         "image": "HASD-516B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, fonte, sim, de vida e amor,\nQue vem tirar o mal e a dor!\nOh, gra\u00e7as mil ao bom Jesus\nQue a vida deu por mim\nna cruz!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:10",
         "image": "HASD-516B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, fonte, sim, de vida e amor,\nQue vem tirar o mal e a dor!\nOh, gra\u00e7as mil ao bom Jesus\nQue a vida deu por mim\nna cruz!"
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:54",
         "image": "HASD-516B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, fonte, sim, de vida e amor,\nQue vem tirar o mal e a dor!\nOh, gra\u00e7as mil ao bom Jesus\nQue a vida deu por mim\nna cruz!"
     }

@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:28",
         "image": "HASD-543B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, na balan\u00e7a do Senhor\nFoste pesado?\nPela palavra do Senhor,\nFoste aprovado?"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:07",
         "image": "HASD-543B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, na balan\u00e7a do Senhor\nFoste pesado?\nPela palavra do Senhor,\nFoste aprovado?"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:45",
         "image": "HASD-543B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, na balan\u00e7a do Senhor\nFoste pesado?\nPela palavra do Senhor,\nFoste aprovado?"
     }

@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:45",
         "image": "HASD-267B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Permane\u00e7o em meu Senhor,\nMeu Amigo e Salvador;\nE me escondo, sim, me escondo\nEm Seus bra\u00e7os, Seu amor."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:31",
         "image": "HASD-267B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Permane\u00e7o em meu Senhor,\nMeu Amigo e Salvador;\nE me escondo, sim, me escondo\nEm Seus bra\u00e7os, Seu amor."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:18",
         "image": "HASD-267B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Permane\u00e7o em meu Senhor,\nMeu Amigo e Salvador;\nE me escondo, sim, me escondo\nEm Seus bra\u00e7os, Seu amor."
     }

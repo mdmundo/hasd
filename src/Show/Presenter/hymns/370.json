@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:43",
         "image": "HASD-370B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cada momento\nme guia o Senhor,\nCada momento dispensa favor.\nSua presen\u00e7a\nme outorga vigor;\nCada momento sou Teu,\n\u00f3 Senhor."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:43",
         "image": "HASD-370B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cada momento\nme guia o Senhor,\nCada momento dispensa favor.\nSua presen\u00e7a\nme outorga vigor;\nCada momento sou Teu,\n\u00f3 Senhor."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:42",
         "image": "HASD-370B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cada momento\nme guia o Senhor,\nCada momento dispensa favor.\nSua presen\u00e7a\nme outorga vigor;\nCada momento sou Teu,\n\u00f3 Senhor."
     }

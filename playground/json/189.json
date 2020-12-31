@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:58",
         "image": "HASD-189B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Junto \u00e0 cruz h\u00e1 lugar pra ti,\nJunto \u00e0 cruz h\u00e1 lugar pra ti;\nSalvou a milh\u00f5es\ne ainda h\u00e1 lugar,\nJunto \u00e0 cruz h\u00e1 lugar pra ti."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:58",
         "image": "HASD-189B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Junto \u00e0 cruz h\u00e1 lugar pra ti,\nJunto \u00e0 cruz h\u00e1 lugar pra ti;\nSalvou a milh\u00f5es\ne ainda h\u00e1 lugar,\nJunto \u00e0 cruz h\u00e1 lugar pra ti."
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "2:58",
         "image": "HASD-189B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Junto \u00e0 cruz h\u00e1 lugar pra ti,\nJunto \u00e0 cruz h\u00e1 lugar pra ti;\nSalvou a milh\u00f5es\ne ainda h\u00e1 lugar,\nJunto \u00e0 cruz h\u00e1 lugar pra ti."
     }

@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:45",
         "image": "HASD-190B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Seu maravilhoso olhar!\nSeu maravilhoso olhar!\nTransformou meu ser,\ntodo o meu viver,\nSeu maravilhoso olhar!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:33",
         "image": "HASD-190B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Seu maravilhoso olhar!\nSeu maravilhoso olhar!\nTransformou meu ser,\ntodo o meu viver,\nSeu maravilhoso olhar!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:22",
         "image": "HASD-190B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Seu maravilhoso olhar!\nSeu maravilhoso olhar!\nTransformou meu ser,\ntodo o meu viver,\nSeu maravilhoso olhar!"
     }

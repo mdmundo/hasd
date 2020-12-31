@@ -18,7 +18,7 @@
       "attributes": {
         "show": "1:10",
         "image": "HASD-035B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Tu \u00e9s fiel, Senhor!\nTu \u00e9s fiel, Senhor!\nDia ap\u00f3s dia\nTuas b\u00ean\u00e7\u00e3os nos d\u00e1s."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:27",
         "image": "HASD-035B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Tua merc\u00ea\nnos sustenta e nos guarda;\nSim, para sempre, \u00f3 Deus,\nfiel ser\u00e1s."
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "2:25",
         "image": "HASD-035B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Tu \u00e9s fiel, Senhor!\nTu \u00e9s fiel, Senhor!\nDia ap\u00f3s dia\nTuas b\u00ean\u00e7\u00e3os nos d\u00e1s."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:43",
         "image": "HASD-035B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Tua merc\u00ea\nnos sustenta e nos guarda;\nSim, para sempre, \u00f3 Deus,\nfiel ser\u00e1s."
     },
@@ -78,7 +78,7 @@
       "attributes": {
         "show": "3:43",
         "image": "HASD-035B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Tu \u00e9s fiel, Senhor!\nTu \u00e9s fiel, Senhor!\nDia ap\u00f3s dia\nTuas b\u00ean\u00e7\u00e3os nos d\u00e1s."
     },
@@ -86,7 +86,7 @@
       "attributes": {
         "show": "04:01",
         "image": "HASD-035B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Tua merc\u00ea\nnos sustenta e nos guarda;\nSim, para sempre, \u00f3 Deus,\nfiel ser\u00e1s."
     }

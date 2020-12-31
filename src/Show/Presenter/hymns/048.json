@@ -11,7 +11,7 @@
       "attributes": {
         "show": "1:12",
         "image": "HASD-048B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00d3 vinde, adoremos!\n\u00d3 vinde, adoremos!\n\u00d3 vinde, adoremos\nO Rei Salvador!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:59",
         "image": "HASD-048B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00d3 vinde, adoremos!\n\u00d3 vinde, adoremos!\n\u00d3 vinde, adoremos\nO Rei Salvador!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:46",
         "image": "HASD-048B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00d3 vinde, adoremos!\n\u00d3 vinde, adoremos!\n\u00d3 vinde, adoremos\nO Rei Salvador!"
     }

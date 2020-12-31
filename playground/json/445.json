@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:45",
         "image": "HASD-445B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Foi escrito por Ti,\nO meu nome no C\u00e9u;\nSim, no livro da vida,\nFoi escrito por Ti."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:33",
         "image": "HASD-445B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Foi escrito por Ti,\nO meu nome no C\u00e9u;\nSim, no livro da vida,\nFoi escrito por Ti."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:21",
         "image": "HASD-445B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Foi escrito por Ti,\nO meu nome no C\u00e9u;\nSim, no livro da vida,\nFoi escrito por Ti."
     }

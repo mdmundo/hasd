@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:38",
         "image": "HASD-541B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Meu pecado, sim,\nJ\u00e1 na cruz pagou,\nE por gra\u00e7a sem igual,\nJesus me resgatou."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:17",
         "image": "HASD-541B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Meu pecado, sim,\nJ\u00e1 na cruz pagou,\nE por gra\u00e7a sem igual,\nJesus me resgatou."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:57",
         "image": "HASD-541B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Meu pecado, sim,\nJ\u00e1 na cruz pagou,\nE por gra\u00e7a sem igual,\nJesus me resgatou."
     }

@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:52",
         "image": "HASD-171B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00c1gua da vida,\nCristo quer dar;\n\u00d3 vem \u00e0 fonte,\nTua alma restaurar!"
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:44",
         "image": "HASD-171B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00c1gua da vida,\nCristo quer dar;\n\u00d3 vem \u00e0 fonte,\nTua alma restaurar!"
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:38",
         "image": "HASD-171B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00c1gua da vida,\nCristo quer dar;\n\u00d3 vem \u00e0 fonte,\nTua alma restaurar!"
     }

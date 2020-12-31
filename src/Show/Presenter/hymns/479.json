@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:50",
         "image": "HASD-479B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00d3 meu querido Salvador,\nHei de amar-Te at\u00e9 morrer;\nE leva-me, enfim,\nao Teu lar de amor,\nNo lindo alvorecer."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:43",
         "image": "HASD-479B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00d3 meu querido Salvador,\nHei de amar-Te at\u00e9 morrer;\nE leva-me, enfim,\nao Teu lar de amor,\nNo lindo alvorecer."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:37",
         "image": "HASD-479B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00d3 meu querido Salvador,\nHei de amar-Te at\u00e9 morrer;\nE leva-me, enfim,\nao Teu lar de amor,\nNo lindo alvorecer."
     }

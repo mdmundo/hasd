@@ -25,7 +25,7 @@
       "attributes": {
         "show": "1:11",
         "image": "HASD-045B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Nasce Jesus, fonte de luz!\nOh! gl\u00f3ria a Deus nas alturas!\nPaz na Terra, aos homens\nA quem quer Ele bem."
     },
@@ -54,7 +54,7 @@
       "attributes": {
         "show": "2:26",
         "image": "HASD-045B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Nasce Jesus, fonte de luz!\nOh! gl\u00f3ria a Deus nas alturas!\nPaz na Terra, aos homens\nA quem quer Ele bem."
     }

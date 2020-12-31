@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:37",
         "image": "HASD-485B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Lealdade, \u00f3 jovens crentes,\nA Jesus, Senhor!\nFirmes, sempre, nos preceitos\nDo bom Redentor."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:14",
         "image": "HASD-485B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Lealdade, \u00f3 jovens crentes,\nA Jesus, Senhor!\nFirmes, sempre, nos preceitos\nDo bom Redentor."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:54",
         "image": "HASD-485B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Lealdade, \u00f3 jovens crentes,\nA Jesus, Senhor!\nFirmes, sempre, nos preceitos\nDo bom Redentor."
     }

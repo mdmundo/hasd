@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:44",
         "image": "HASD-498B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Nada imposs\u00edvel \u00e9,\nSe a f\u00e9 em Deus tu tens;\nNada imposs\u00edvel \u00e9,\nSe na B\u00edblia cr\u00eas tamb\u00e9m."
     },
@@ -19,7 +19,7 @@
       "attributes": {
         "show": "1:03",
         "image": "HASD-498B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eis a voz de Deus falando a ti:\n\u0093Nada \u00e9 imposs\u00edvel para Mim\u0094!\nConfia, pois, somente em Deus\nE na Palavra cr\u00ea,"
     },
@@ -27,7 +27,7 @@
       "attributes": {
         "show": "1:22",
         "image": "HASD-498B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pois tudo, sim,\noh, tudo enfim,\nSim, sempre bem poss\u00edvel \u00e9\ncom Deus."
     },
@@ -49,7 +49,7 @@
       "attributes": {
         "show": "2:06",
         "image": "HASD-498B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Nada imposs\u00edvel \u00e9,\nSe a f\u00e9 em Deus tu tens;\nNada imposs\u00edvel \u00e9,\nSe na B\u00edblia cr\u00eas tamb\u00e9m."
     },
@@ -57,7 +57,7 @@
       "attributes": {
         "show": "2:27",
         "image": "HASD-498B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eis a voz de Deus falando a ti:\n\u0093Nada \u00e9 imposs\u00edvel para Mim\u0094!\nConfia, pois, somente em Deus\nE na Palavra cr\u00ea,"
     },
@@ -65,7 +65,7 @@
       "attributes": {
         "show": "2:46",
         "image": "HASD-498B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pois tudo, sim,\noh, tudo enfim,\nSim, sempre bem poss\u00edvel \u00e9\ncom Deus."
     }

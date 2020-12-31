@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:42",
         "image": "HASD-110B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Metade nunca se contou,\nDo amor de Deus Jeov\u00e1.\nMetade nunca se contou,\nDa paz que aos salvos d\u00e1."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:27",
         "image": "HASD-110B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Metade nunca se contou,\nDo amor de Deus Jeov\u00e1.\nMetade nunca se contou,\nDa paz que aos salvos d\u00e1."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:10",
         "image": "HASD-110B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Metade nunca se contou,\nDo amor de Deus Jeov\u00e1.\nMetade nunca se contou,\nDa paz que aos salvos d\u00e1."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:54",
         "image": "HASD-110B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Metade nunca se contou,\nDo amor de Deus Jeov\u00e1.\nMetade nunca se contou,\nDa paz que aos salvos d\u00e1."
     }

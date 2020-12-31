@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:48",
         "image": "HASD-387B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pelo Seu poder e no Seu amor,\nT\u00e9 nos encontrarmos\ncom Jesus.\nPelo Seu poder e no Seu amor,\nOh, que Deus vos guarde\nem Sua luz!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:36",
         "image": "HASD-387B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pelo Seu poder e no Seu amor,\nT\u00e9 nos encontrarmos\ncom Jesus.\nPelo Seu poder e no Seu amor,\nOh, que Deus vos guarde\nem Sua luz!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:25",
         "image": "HASD-387B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pelo Seu poder e no Seu amor,\nT\u00e9 nos encontrarmos\ncom Jesus.\nPelo Seu poder e no Seu amor,\nOh, que Deus vos guarde\nem Sua luz!"
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "3:13",
         "image": "HASD-387B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pelo Seu poder e no Seu amor,\nT\u00e9 nos encontrarmos\ncom Jesus.\nPelo Seu poder e no Seu amor,\nOh, que Deus vos guarde\nem Sua luz!"
     }

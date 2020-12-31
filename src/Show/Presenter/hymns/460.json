@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:40",
         "image": "HASD-460B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, que prazer,\nJesus me quer bem!\nSim, me quer bem,\nsim, me quer bem!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "0:51",
         "image": "HASD-460B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, que prazer,\nJesus me quer bem!\nSim, Ele me quer bem!"
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "1:23",
         "image": "HASD-460B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, que prazer,\nJesus me quer bem!\nSim, me quer bem,\nsim, me quer bem!"
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "1:33",
         "image": "HASD-460B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, que prazer,\nJesus me quer bem!\nSim, Ele me quer bem!"
     },
@@ -78,7 +78,7 @@
       "attributes": {
         "show": "2:05",
         "image": "HASD-460B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, que prazer,\nJesus me quer bem!\nSim, me quer bem,\nsim, me quer bem!"
     },
@@ -86,7 +86,7 @@
       "attributes": {
         "show": "2:15",
         "image": "HASD-460B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, que prazer,\nJesus me quer bem!\nSim, Ele me quer bem!"
     }

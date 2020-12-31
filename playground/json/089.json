@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:44",
         "image": "HASD-089B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Tenho saudades de Ti,\nmeu Jesus!\nRaie depressa Teu dia de luz!\nJuntos no lar, sempre morar!\nOh! que saudades,\nque anseios!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:28",
         "image": "HASD-089B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Tenho saudades de Ti,\nmeu Jesus!\nRaie depressa Teu dia de luz!\nJuntos no lar, sempre morar!\nOh! que saudades,\nque anseios!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:15",
         "image": "HASD-089B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Tenho saudades de Ti,\nmeu Jesus!\nRaie depressa Teu dia de luz!\nJuntos no lar, sempre morar!\nOh! que saudades,\nque anseios!"
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "3:00",
         "image": "HASD-089B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Tenho saudades de Ti,\nmeu Jesus!\nRaie depressa Teu dia de luz!\nJuntos no lar, sempre morar!\nOh! que saudades,\nque anseios!"
     }

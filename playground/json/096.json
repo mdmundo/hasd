@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:43",
         "image": "HASD-096B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "A Cristo eu amo;\noh, quanto O amo!\nNa cruz a vida Ele deu!\nCom Seu sangue,\nJesus me salvou, assim,\nE em gratid\u00e3o sou Seu."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:28",
         "image": "HASD-096B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "A Cristo eu amo;\noh, quanto O amo!\nNa cruz a vida Ele deu!\nCom Seu sangue,\nJesus me salvou, assim,\nE em gratid\u00e3o sou Seu."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:13",
         "image": "HASD-096B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "A Cristo eu amo;\noh, quanto O amo!\nNa cruz a vida Ele deu!\nCom Seu sangue,\nJesus me salvou, assim,\nE em gratid\u00e3o sou Seu."
     }

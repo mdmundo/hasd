@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:32",
         "image": "HASD-542B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Jesus, Jesus \u00e9 o Salvador,\nE n\u00e3o h\u00e1 outro mediador.\nFoi Ele quem por n\u00f3s morreu,\nE vivo est\u00e1 por n\u00f3s no C\u00e9u."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:15",
         "image": "HASD-542B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Jesus, Jesus \u00e9 o Salvador,\nE n\u00e3o h\u00e1 outro mediador.\nFoi Ele quem por n\u00f3s morreu,\nE vivo est\u00e1 por n\u00f3s no C\u00e9u."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:59",
         "image": "HASD-542B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Jesus, Jesus \u00e9 o Salvador,\nE n\u00e3o h\u00e1 outro mediador.\nFoi Ele quem por n\u00f3s morreu,\nE vivo est\u00e1 por n\u00f3s no C\u00e9u."
     }

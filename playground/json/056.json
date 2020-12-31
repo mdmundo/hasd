@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:38",
         "image": "HASD-056B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh! belas m\u00e3os,\nas m\u00e3os do Senhor,\nCrucificadas por ti!\nM\u00e3os que serviram\nem santo labor,\nM\u00e3os que inda velam por ti!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:19",
         "image": "HASD-056B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh! belas m\u00e3os,\nas m\u00e3os do Senhor,\nCrucificadas por ti!\nM\u00e3os que serviram\nem santo labor,\nM\u00e3os que inda velam por ti!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:00",
         "image": "HASD-056B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh! belas m\u00e3os,\nas m\u00e3os do Senhor,\nCrucificadas por ti!\nM\u00e3os que serviram\nem santo labor,\nM\u00e3os que inda velam por ti!"
     }

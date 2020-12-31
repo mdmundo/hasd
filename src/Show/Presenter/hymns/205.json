@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:59",
         "image": "HASD-205B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Alvo mais que a neve!\nAlvo mais que a neve!\nSim, nesse sangue lavado,\nMais alvo que a neve serei."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "2:00",
         "image": "HASD-205B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Alvo mais que a neve!\nAlvo mais que a neve!\nSim, nesse sangue lavado,\nMais alvo que a neve serei."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "3:00",
         "image": "HASD-205B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Alvo mais que a neve!\nAlvo mais que a neve!\nSim, nesse sangue lavado,\nMais alvo que a neve serei."
     }

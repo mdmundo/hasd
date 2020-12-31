@@ -60,7 +60,7 @@
       "attributes": {
         "show": "2:04",
         "image": "HASD-021B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Bem de manh\u00e3,\ne sem cessar,\nVigiar, sim, e orar."
     },
@@ -82,7 +82,7 @@
       "attributes": {
         "show": "2:48",
         "image": "HASD-021B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Bem de manh\u00e3,\ne sem cessar,\nVigiar, sim, e orar."
     }

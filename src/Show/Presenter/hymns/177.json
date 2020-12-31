@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:44",
         "image": "HASD-177B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00d3 vem sem demora\nao Salvador!\nPor que vacilar e ter temor?\n\u00d3 vem! Vem j\u00e1!\nDescanso te dar\u00e1!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:30",
         "image": "HASD-177B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00d3 vem sem demora\nao Salvador!\nPor que vacilar e ter temor?\n\u00d3 vem! Vem j\u00e1!\nDescanso te dar\u00e1!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:16",
         "image": "HASD-177B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00d3 vem sem demora\nao Salvador!\nPor que vacilar e ter temor?\n\u00d3 vem! Vem j\u00e1!\nDescanso te dar\u00e1!"
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "3:02",
         "image": "HASD-177B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00d3 vem sem demora\nao Salvador!\nPor que vacilar e ter temor?\n\u00d3 vem! Vem j\u00e1!\nDescanso te dar\u00e1!"
     }

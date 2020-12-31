@@ -61,6 +61,10 @@ const useStyles = makeStyles((theme) => ({
   text: {
     marginBottom: theme.spacing(0.5)
   },
+  textChorus: {
+    marginBottom: theme.spacing(0.5),
+    fontStyle: 'italic'
+  },
   caption: {
     marginBottom: theme.spacing(2)
   },
@@ -151,7 +155,14 @@ const App = () => {
                 }`}
               </Typography>
               {hymn.text[current].text.split('\n').map((str, index) => (
-                <Typography className={classes.text} key={index} variant='h4'>
+                <Typography
+                  className={
+                    hymn.text[current].attributes.italic
+                      ? classes.textChorus
+                      : classes.text
+                  }
+                  key={index}
+                  variant='h4'>
                   {str}
                 </Typography>
               ))}

@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:48",
         "image": "HASD-134B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Breve vir\u00e1!\nBreve vir\u00e1!\nBreve Jesus voltar\u00e1!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:19",
         "image": "HASD-134B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Breve vir\u00e1!\nBreve vir\u00e1!\nBreve Jesus voltar\u00e1!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:50",
         "image": "HASD-134B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Breve vir\u00e1!\nBreve vir\u00e1!\nBreve Jesus voltar\u00e1!"
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:21",
         "image": "HASD-134B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Breve vir\u00e1!\nBreve vir\u00e1!\nBreve Jesus voltar\u00e1!"
     }

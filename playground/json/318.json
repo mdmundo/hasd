@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:52",
         "image": "HASD-318B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Ao Mestre alegremente,\nIrm\u00e3os, deveis servir;\nA Cristo, Rei bendito,\nCom f\u00e9 deveis seguir."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:46",
         "image": "HASD-318B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Ao Mestre alegremente,\nIrm\u00e3os, deveis servir;\nA Cristo, Rei bendito,\nCom f\u00e9 deveis seguir."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:41",
         "image": "HASD-318B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Ao Mestre alegremente,\nIrm\u00e3os, deveis servir;\nA Cristo, Rei bendito,\nCom f\u00e9 deveis seguir."
     }

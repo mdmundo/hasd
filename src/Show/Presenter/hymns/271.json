@@ -11,7 +11,7 @@
       "attributes": {
         "show": "1:01",
         "image": "HASD-271B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cristo! Cristo! J\u00e1 confio\nEm Teu nome, em Teu poder.\nCristo! Cristo, bem-amado,\nFaze em mim a f\u00e9 crescer."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:43",
         "image": "HASD-271B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cristo! Cristo! J\u00e1 confio\nEm Teu nome, em Teu poder.\nCristo! Cristo, bem-amado,\nFaze em mim a f\u00e9 crescer."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:26",
         "image": "HASD-271B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cristo! Cristo! J\u00e1 confio\nEm Teu nome, em Teu poder.\nCristo! Cristo, bem-amado,\nFaze em mim a f\u00e9 crescer."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "3:08",
         "image": "HASD-271B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cristo! Cristo! J\u00e1 confio\nEm Teu nome, em Teu poder.\nCristo! Cristo, bem-amado,\nFaze em mim a f\u00e9 crescer."
     }

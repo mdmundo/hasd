@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:38",
         "image": "HASD-178B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, cr\u00ea! Sim, cr\u00ea!\nOh, cr\u00ea! Sim, cr\u00ea!\nA gra\u00e7a de Deus\nte chama dos C\u00e9us.\nOh, cr\u00ea nesse amor\nsem igual!"
     },
@@ -33,7 +33,7 @@
       "attributes": {
         "show": "1:31",
         "image": "HASD-178B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, cr\u00ea! Sim, cr\u00ea!\nOh, cr\u00ea! Sim, cr\u00ea!\nA gra\u00e7a de Deus\nte chama dos C\u00e9us.\nOh, cr\u00ea nesse amor\nsem igual!"
     },
@@ -55,7 +55,7 @@
       "attributes": {
         "show": "2:22",
         "image": "HASD-178B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, cr\u00ea! Sim, cr\u00ea!\nOh, cr\u00ea! Sim, cr\u00ea!\nA gra\u00e7a de Deus\nte chama dos C\u00e9us.\nOh, cr\u00ea nesse amor\nsem igual!"
     },
@@ -77,7 +77,7 @@
       "attributes": {
         "show": "3:15",
         "image": "HASD-178B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, cr\u00ea! Sim, cr\u00ea!\nOh, cr\u00ea! Sim, cr\u00ea!\nA gra\u00e7a de Deus\nte chama dos C\u00e9us.\nOh, cr\u00ea nesse amor\nsem igual!"
     }

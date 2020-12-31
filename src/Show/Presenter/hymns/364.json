@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:34",
         "image": "HASD-364B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cristo \u00e9 o Sol\nque resplandece\nem nossa estrada;\nSombras vemos\nao as costas Lhe voltar;"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "0:45",
         "image": "HASD-364B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vamos, pois,\nolhar a Cristo na jornada,\nE veremos toda sombra\nse afastar."
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "1:20",
         "image": "HASD-364B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cristo \u00e9 o Sol\nque resplandece\nem nossa estrada;\nSombras vemos\nao as costas Lhe voltar;"
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "1:31",
         "image": "HASD-364B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vamos, pois,\nolhar a Cristo na jornada,\nE veremos toda sombra\nse afastar."
     },
@@ -78,7 +78,7 @@
       "attributes": {
         "show": "2:05",
         "image": "HASD-364B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cristo \u00e9 o Sol\nque resplandece\nem nossa estrada;\nSombras vemos\nao as costas Lhe voltar;"
     },
@@ -86,7 +86,7 @@
       "attributes": {
         "show": "2:15",
         "image": "HASD-364B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vamos, pois,\nolhar a Cristo na jornada,\nE veremos toda sombra\nse afastar."
     }

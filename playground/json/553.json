@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:44",
         "image": "HASD-553B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, \u00e0s margens desse rio,\nNa mans\u00e3o de gl\u00f3ria e luz,\nCom os santos cantaremos\nEm louvor ao Rei Jesus!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:31",
         "image": "HASD-553B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, \u00e0s margens desse rio,\nNa mans\u00e3o de gl\u00f3ria e luz,\nCom os santos cantaremos\nEm louvor ao Rei Jesus!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:18",
         "image": "HASD-553B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, \u00e0s margens desse rio,\nNa mans\u00e3o de gl\u00f3ria e luz,\nCom os santos cantaremos\nEm louvor ao Rei Jesus!"
     }

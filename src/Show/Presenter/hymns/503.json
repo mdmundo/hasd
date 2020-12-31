@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:40",
         "image": "HASD-503B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Meu Deus, meu Deus,\nEis-me ao Teu lado!\nS\u00f3 contigo quero caminhar,\nPois confio em Ti, Senhor!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:21",
         "image": "HASD-503B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Meu Deus, meu Deus,\nEis-me ao Teu lado!\nS\u00f3 contigo quero caminhar,\nPois confio em Ti, Senhor!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:02",
         "image": "HASD-503B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Meu Deus, meu Deus,\nEis-me ao Teu lado!\nS\u00f3 contigo quero caminhar,\nPois confio em Ti, Senhor!"
     }

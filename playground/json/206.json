@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:41",
         "image": "HASD-206B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "H\u00e1 poder, sim, for\u00e7a sem igual\nS\u00f3 no sangue de Jesus.\nH\u00e1 poder, sim, vem, \u00f3 pecador,\nE aceita o dom de Jesus."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:23",
         "image": "HASD-206B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "H\u00e1 poder, sim, for\u00e7a sem igual\nS\u00f3 no sangue de Jesus.\nH\u00e1 poder, sim, vem, \u00f3 pecador,\nE aceita o dom de Jesus."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:05",
         "image": "HASD-206B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "H\u00e1 poder, sim, for\u00e7a sem igual\nS\u00f3 no sangue de Jesus.\nH\u00e1 poder, sim, vem, \u00f3 pecador,\nE aceita o dom de Jesus."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:48",
         "image": "HASD-206B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "H\u00e1 poder, sim, for\u00e7a sem igual\nS\u00f3 no sangue de Jesus.\nH\u00e1 poder, sim, vem, \u00f3 pecador,\nE aceita o dom de Jesus."
     }

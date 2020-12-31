@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:43",
         "image": "HASD-016B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Exultai! Exultai!\nVinde todos louvar\nA Jesus, Salvador,\na Jesus, Redentor."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "0:58",
         "image": "HASD-016B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "A Deus demos gl\u00f3ria,\nporquanto do C\u00e9u\nSeu Filho bendito\npor n\u00f3s todos deu."
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "1:42",
         "image": "HASD-016B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Exultai! Exultai!\nVinde todos louvar\nA Jesus, Salvador,\na Jesus, Redentor."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "1:57",
         "image": "HASD-016B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "A Deus demos gl\u00f3ria,\nporquanto do C\u00e9u\nSeu Filho bendito\npor n\u00f3s todos deu."
     },
@@ -78,7 +78,7 @@
       "attributes": {
         "show": "2:42",
         "image": "HASD-016B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Exultai! Exultai!\nVinde todos louvar\nA Jesus, Salvador,\na Jesus, Redentor."
     },
@@ -86,7 +86,7 @@
       "attributes": {
         "show": "2:56",
         "image": "HASD-016B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "A Deus demos gl\u00f3ria,\nporquanto do C\u00e9u\nSeu Filho bendito\npor n\u00f3s todos deu."
     }

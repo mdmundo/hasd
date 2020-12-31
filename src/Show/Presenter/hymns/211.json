@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:59",
         "image": "HASD-211B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, eu amo\na mensagem da cruz;\nT\u00e9 morrer eu a vou proclamar.\nLevarei eu tamb\u00e9m\nminha cruz,\nT\u00e9 por uma coroa trocar."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:59",
         "image": "HASD-211B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, eu amo\na mensagem da cruz;\nT\u00e9 morrer eu a vou proclamar.\nLevarei eu tamb\u00e9m\nminha cruz,\nT\u00e9 por uma coroa trocar."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:59",
         "image": "HASD-211B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, eu amo\na mensagem da cruz;\nT\u00e9 morrer eu a vou proclamar.\nLevarei eu tamb\u00e9m\nminha cruz,\nT\u00e9 por uma coroa trocar."
     },
@@ -84,7 +84,7 @@
       "attributes": {
         "show": "4:00",
         "image": "HASD-211B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, eu amo\na mensagem da cruz;\nT\u00e9 morrer eu a vou proclamar.\nLevarei eu tamb\u00e9m\nminha cruz,\nT\u00e9 por uma coroa trocar."
     }

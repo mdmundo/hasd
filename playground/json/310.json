@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:47",
         "image": "HASD-310B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eis que O ou\u00e7o a me chamar,\nEis que O ou\u00e7o a me chamar!\nO Senhor procura obreiros,\nEis que O ou\u00e7o a me chamar!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:36",
         "image": "HASD-310B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eis que O ou\u00e7o a me chamar,\nEis que O ou\u00e7o a me chamar!\nO Senhor procura obreiros,\nEis que O ou\u00e7o a me chamar!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:25",
         "image": "HASD-310B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eis que O ou\u00e7o a me chamar,\nEis que O ou\u00e7o a me chamar!\nO Senhor procura obreiros,\nEis que O ou\u00e7o a me chamar!"
     }

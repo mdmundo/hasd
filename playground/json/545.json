@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:28",
         "image": "HASD-545B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u0091Stais v\u00f3s prontos?\n\u0091Stais v\u00f3s prontos?\n\u0091Stais v\u00f3s prontos\npara o dia final?"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "0:38",
         "image": "HASD-545B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u0091Stais v\u00f3s prontos?\n\u0091Stais v\u00f3s prontos\nPara o dia final?"
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "1:08",
         "image": "HASD-545B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u0091Stais v\u00f3s prontos?\n\u0091Stais v\u00f3s prontos?\n\u0091Stais v\u00f3s prontos\npara o dia final?"
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "1:18",
         "image": "HASD-545B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u0091Stais v\u00f3s prontos?\n\u0091Stais v\u00f3s prontos\nPara o dia final?"
     },
@@ -78,7 +78,7 @@
       "attributes": {
         "show": "1:47",
         "image": "HASD-545B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u0091Stais v\u00f3s prontos?\n\u0091Stais v\u00f3s prontos?\n\u0091Stais v\u00f3s prontos\npara o dia final?"
     },
@@ -86,7 +86,7 @@
       "attributes": {
         "show": "1:57",
         "image": "HASD-545B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u0091Stais v\u00f3s prontos?\n\u0091Stais v\u00f3s prontos\nPara o dia final?"
     }

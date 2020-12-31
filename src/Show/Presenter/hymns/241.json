@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:40",
         "image": "HASD-241B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cantarei que Jesus Cristo\nCom amor me resgatou!\nEle sobre a cruz foi morto;\nMeus pecados perdoou."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:21",
         "image": "HASD-241B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cantarei que Jesus Cristo\nCom amor me resgatou!\nEle sobre a cruz foi morto;\nMeus pecados perdoou."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:01",
         "image": "HASD-241B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cantarei que Jesus Cristo\nCom amor me resgatou!\nEle sobre a cruz foi morto;\nMeus pecados perdoou."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:42",
         "image": "HASD-241B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cantarei que Jesus Cristo\nCom amor me resgatou!\nEle sobre a cruz foi morto;\nMeus pecados perdoou."
     }

@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:57",
         "image": "HASD-394B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Jesus, meu Salvador,\nS\u00ea comigo aqui,\nBendize-me agora;\nEu creio em Ti."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:36",
         "image": "HASD-394B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Jesus, meu Salvador,\nS\u00ea comigo aqui,\nBendize-me agora;\nEu creio em Ti."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:16",
         "image": "HASD-394B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Jesus, meu Salvador,\nS\u00ea comigo aqui,\nBendize-me agora;\nEu creio em Ti."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:55",
         "image": "HASD-394B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Jesus, meu Salvador,\nS\u00ea comigo aqui,\nBendize-me agora;\nEu creio em Ti."
     }

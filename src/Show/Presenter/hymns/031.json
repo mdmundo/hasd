@@ -18,7 +18,7 @@
       "attributes": {
         "show": "1:04",
         "image": "HASD-031B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sublime amor,\no amor de Deus!\nOh! maravilha sem-par!\nPor esse amor, eternamente,\nA Deus iremos louvar."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "2:10",
         "image": "HASD-031B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sublime amor,\no amor de Deus!\nOh! maravilha sem-par!\nPor esse amor, eternamente,\nA Deus iremos louvar."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "3:16",
         "image": "HASD-031B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sublime amor,\no amor de Deus!\nOh! maravilha sem-par!\nPor esse amor, eternamente,\nA Deus iremos louvar."
     }

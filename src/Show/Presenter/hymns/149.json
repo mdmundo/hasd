@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:46",
         "image": "HASD-149B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eu espero mui ansioso,\nMeu Jesus aqui voltar.\nEu aguardo as boas-vindas\nDe Jesus, na praia\nde outro mar."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:35",
         "image": "HASD-149B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eu espero mui ansioso,\nMeu Jesus aqui voltar.\nEu aguardo as boas-vindas\nDe Jesus, na praia\nde outro mar."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:23",
         "image": "HASD-149B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eu espero mui ansioso,\nMeu Jesus aqui voltar.\nEu aguardo as boas-vindas\nDe Jesus, na praia\nde outro mar."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "3:11",
         "image": "HASD-149B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eu espero mui ansioso,\nMeu Jesus aqui voltar.\nEu aguardo as boas-vindas\nDe Jesus, na praia\nde outro mar."
     }

@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:50",
         "image": "HASD-510B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Minha cruz eu tomo e sigo,\nA Jesus eu sempre sigo;\nAonde for, a Ele eu sigo;\nSeguirei a meu Jesus."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:44",
         "image": "HASD-510B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Minha cruz eu tomo e sigo,\nA Jesus eu sempre sigo;\nAonde for, a Ele eu sigo;\nSeguirei a meu Jesus."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:35",
         "image": "HASD-510B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Minha cruz eu tomo e sigo,\nA Jesus eu sempre sigo;\nAonde for, a Ele eu sigo;\nSeguirei a meu Jesus."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "3:28",
         "image": "HASD-510B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Minha cruz eu tomo e sigo,\nA Jesus eu sempre sigo;\nAonde for, a Ele eu sigo;\nSeguirei a meu Jesus."
     }

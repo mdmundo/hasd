@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:38",
         "image": "HASD-212B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "H\u00e1 um novo nome l\u00e1 na gl\u00f3ria:\n\u00c9 o meu, sim, \u00e9 o meu!\nSantos anjos cantam\nessa hist\u00f3ria:\nO pr\u00f3digo volveu!"
     },
@@ -19,7 +19,7 @@
       "attributes": {
         "show": "0:58",
         "image": "HASD-212B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pois h\u00e1 um novo nome\nl\u00e1 na gl\u00f3ria:\n\u00c9 o meu, sim, \u00e9 o meu!\nPois que fui perdoado,\nsou ao C\u00e9u levado;\nL\u00e1 morar eu vou."
     },
@@ -34,7 +34,7 @@
       "attributes": {
         "show": "1:37",
         "image": "HASD-212B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "H\u00e1 um novo nome l\u00e1 na gl\u00f3ria:\n\u00c9 o meu, sim, \u00e9 o meu!\nSantos anjos cantam\nessa hist\u00f3ria:\nO pr\u00f3digo volveu!"
     },
@@ -42,7 +42,7 @@
       "attributes": {
         "show": "1:56",
         "image": "HASD-212B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pois h\u00e1 um novo nome\nl\u00e1 na gl\u00f3ria:\n\u00c9 o meu, sim, \u00e9 o meu!\nPois que fui perdoado,\nsou ao C\u00e9u levado;\nL\u00e1 morar eu vou."
     },
@@ -57,7 +57,7 @@
       "attributes": {
         "show": "2:37",
         "image": "HASD-212B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "H\u00e1 um novo nome l\u00e1 na gl\u00f3ria:\n\u00c9 o meu, sim, \u00e9 o meu!\nSantos anjos cantam\nessa hist\u00f3ria:\nO pr\u00f3digo volveu!"
     },
@@ -65,7 +65,7 @@
       "attributes": {
         "show": "2:55",
         "image": "HASD-212B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pois h\u00e1 um novo nome\nl\u00e1 na gl\u00f3ria:\n\u00c9 o meu, sim, \u00e9 o meu!\nPois que fui perdoado,\nsou ao C\u00e9u levado;\nL\u00e1 morar eu vou."
     }

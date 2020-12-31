@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:40",
         "image": "HASD-376B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Guia, guia,\nSempre guia, Salvador!\nCom ternura, com amor,\nGuia-me, meu Redentor!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:23",
         "image": "HASD-376B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Guia, guia,\nSempre guia, Salvador!\nCom ternura, com amor,\nGuia-me, meu Redentor!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:06",
         "image": "HASD-376B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Guia, guia,\nSempre guia, Salvador!\nCom ternura, com amor,\nGuia-me, meu Redentor!"
     }

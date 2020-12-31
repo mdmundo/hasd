@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:41",
         "image": "HASD-431B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, gl\u00f3ria haver\u00e1 no final,\nSim, gl\u00f3ria sublime, eternal;\nOh! quanto prazer,\nquanto amor\nL\u00e1 no C\u00e9u junto ao Senhor!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:23",
         "image": "HASD-431B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, gl\u00f3ria haver\u00e1 no final,\nSim, gl\u00f3ria sublime, eternal;\nOh! quanto prazer,\nquanto amor\nL\u00e1 no C\u00e9u junto ao Senhor!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:06",
         "image": "HASD-431B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, gl\u00f3ria haver\u00e1 no final,\nSim, gl\u00f3ria sublime, eternal;\nOh! quanto prazer,\nquanto amor\nL\u00e1 no C\u00e9u junto ao Senhor!"
     }

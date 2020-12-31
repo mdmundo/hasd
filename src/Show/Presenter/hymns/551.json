@@ -18,7 +18,7 @@
       "attributes": {
         "show": "1:03",
         "image": "HASD-551B.jpg",
-        "italic": "true",
+        "italic": true,
         "repeat": 2
       },
       "text": "Muito al\u00e9m do Sol,\nmuito al\u00e9m do Sol\nEst\u00e1 o meu lar, um belo lugar,\nmuito al\u00e9m do Sol."
@@ -27,7 +27,7 @@
       "attributes": {
         "show": "1:20",
         "image": "HASD-551B.jpg",
-        "italic": "true",
+        "italic": true,
         "repeat": 2
       },
       "text": "Muito al\u00e9m do Sol,\nmuito al\u00e9m do Sol\nEst\u00e1 o meu lar, um belo lugar,\nmuito al\u00e9m do Sol."
@@ -50,7 +50,7 @@
       "attributes": {
         "show": "2:08",
         "image": "HASD-551B.jpg",
-        "italic": "true",
+        "italic": true,
         "repeat": 2
       },
       "text": "Muito al\u00e9m do Sol,\nmuito al\u00e9m do Sol\nEst\u00e1 o meu lar, um belo lugar,\nmuito al\u00e9m do Sol."
@@ -59,7 +59,7 @@
       "attributes": {
         "show": "2:24",
         "image": "HASD-551B.jpg",
-        "italic": "true",
+        "italic": true,
         "repeat": 2
       },
       "text": "Muito al\u00e9m do Sol,\nmuito al\u00e9m do Sol\nEst\u00e1 o meu lar, um belo lugar,\nmuito al\u00e9m do Sol."
@@ -82,7 +82,7 @@
       "attributes": {
         "show": "3:12",
         "image": "HASD-551B.jpg",
-        "italic": "true",
+        "italic": true,
         "repeat": 2
       },
       "text": "Muito al\u00e9m do Sol,\nmuito al\u00e9m do Sol\nEst\u00e1 o meu lar, um belo lugar,\nmuito al\u00e9m do Sol."
@@ -91,7 +91,7 @@
       "attributes": {
         "show": "3:29",
         "image": "HASD-551B.jpg",
-        "italic": "true",
+        "italic": true,
         "repeat": 2
       },
       "text": "Muito al\u00e9m do Sol,\nmuito al\u00e9m do Sol\nEst\u00e1 o meu lar, um belo lugar,\nmuito al\u00e9m do Sol."

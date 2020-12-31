@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:45",
         "image": "HASD-426B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Que alegria\nsempre essa voz ouvir:\n\u0093\u0027\u0027Eu te amo, \u00f3 pecador!\nMesmo a morte l\u00e1\nsobre a cruz sofri,\nPara ser o teu Salvador.\u0027\u0027\u0094"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:31",
         "image": "HASD-426B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Que alegria\nsempre essa voz ouvir:\n\u0093\u0027\u0027Eu te amo, \u00f3 pecador!\nMesmo a morte l\u00e1\nsobre a cruz sofri,\nPara ser o teu Salvador.\u0027\u0027\u0094"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:17",
         "image": "HASD-426B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Que alegria\nsempre essa voz ouvir:\n\u0093\u0027\u0027Eu te amo, \u00f3 pecador!\nMesmo a morte l\u00e1\nsobre a cruz sofri,\nPara ser o teu Salvador.\u0027\u0027\u0094"
     }

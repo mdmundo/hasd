@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:52",
         "image": "HASD-556B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Jamais se contou ao mortal;\nJamais se contou ao mortal;\nMetade da gl\u00f3ria celeste\nJamais se contou ao mortal!"
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:56",
         "image": "HASD-556B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Jamais se contou ao mortal;\nJamais se contou ao mortal;\nMetade da gl\u00f3ria celeste\nJamais se contou ao mortal!"
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "3:00",
         "image": "HASD-556B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Jamais se contou ao mortal;\nJamais se contou ao mortal;\nMetade da gl\u00f3ria celeste\nJamais se contou ao mortal!"
     }

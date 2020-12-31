@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:34",
         "image": "HASD-219B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sempre alegre, sempre alegre\n\u00c9 o viver do bom crist\u00e3o;\nOh! que regozijo pleno\nBrota-lhe da salva\u00e7\u00e3o!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:10",
         "image": "HASD-219B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sempre alegre, sempre alegre\n\u00c9 o viver do bom crist\u00e3o;\nOh! que regozijo pleno\nBrota-lhe da salva\u00e7\u00e3o!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:47",
         "image": "HASD-219B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sempre alegre, sempre alegre\n\u00c9 o viver do bom crist\u00e3o;\nOh! que regozijo pleno\nBrota-lhe da salva\u00e7\u00e3o!"
     }

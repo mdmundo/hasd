@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:38",
         "image": "HASD-564B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Jamais se diz adeus ali,\nJamais se diz adeus;\nNo eterno lar de amor e paz,\nJamais se diz adeus."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:17",
         "image": "HASD-564B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Jamais se diz adeus ali,\nJamais se diz adeus;\nNo eterno lar de amor e paz,\nJamais se diz adeus."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:56",
         "image": "HASD-564B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Jamais se diz adeus ali,\nJamais se diz adeus;\nNo eterno lar de amor e paz,\nJamais se diz adeus."
     }

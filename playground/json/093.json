@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:45",
         "image": "HASD-093B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Precioso \u00e9 Jesus para mim,\nPrecioso \u00e9 Jesus para mim.\n\u00c9 meu Redentor, meu fiel Protetor;\nPrecioso \u00e9 Jesus para mim."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:31",
         "image": "HASD-093B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Precioso \u00e9 Jesus para mim,\nPrecioso \u00e9 Jesus para mim.\n\u00c9 meu Redentor, meu fiel Protetor;\nPrecioso \u00e9 Jesus para mim."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:18",
         "image": "HASD-093B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Precioso \u00e9 Jesus para mim,\nPrecioso \u00e9 Jesus para mim.\n\u00c9 meu Redentor, meu fiel Protetor;\nPrecioso \u00e9 Jesus para mim."
     }

@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:57",
         "image": "HASD-496B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cristo, \u00f3 Cristo,\nD\u00e1-nos Tua paz!\nCristo, \u00f3 Cristo,\nD\u00e1-nos Tua paz!"
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "2:14",
         "image": "HASD-496B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cristo, \u00f3 Cristo,\nD\u00e1-nos Tua paz!\nCristo, \u00f3 Cristo,\nD\u00e1-nos Tua paz!"
     }

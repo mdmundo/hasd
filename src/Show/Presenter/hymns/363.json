@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:50",
         "image": "HASD-363B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vivo no alto da montanha,\nSob um c\u00e9u de puro azul,\nJunto \u00e0 fonte de \u00e1guas vivas,\nQue nunca secar\u00e1,"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:06",
         "image": "HASD-363B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "E me alimento cada dia\nDesse bom man\u00e1 do C\u00e9u,\nPois habito\nem Terra de Beul\u00e1."
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "1:57",
         "image": "HASD-363B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vivo no alto da montanha,\nSob um c\u00e9u de puro azul,\nJunto \u00e0 fonte de \u00e1guas vivas,\nQue nunca secar\u00e1,"
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:13",
         "image": "HASD-363B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "E me alimento cada dia\nDesse bom man\u00e1 do C\u00e9u,\nPois habito\nem Terra de Beul\u00e1."
     },
@@ -78,7 +78,7 @@
       "attributes": {
         "show": "3:05",
         "image": "HASD-363B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vivo no alto da montanha,\nSob um c\u00e9u de puro azul,\nJunto \u00e0 fonte de \u00e1guas vivas,\nQue nunca secar\u00e1,"
     },
@@ -86,7 +86,7 @@
       "attributes": {
         "show": "3:21",
         "image": "HASD-363B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "E me alimento cada dia\nDesse bom man\u00e1 do C\u00e9u,\nPois habito\nem Terra de Beul\u00e1."
     },
@@ -108,7 +108,7 @@
       "attributes": {
         "show": "4:12",
         "image": "HASD-363B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vivo no alto da montanha,\nSob um c\u00e9u de puro azul,\nJunto \u00e0 fonte de \u00e1guas vivas,\nQue nunca secar\u00e1,"
     },
@@ -116,7 +116,7 @@
       "attributes": {
         "show": "4:28",
         "image": "HASD-363B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "E me alimento cada dia\nDesse bom man\u00e1 do C\u00e9u,\nPois habito\nem Terra de Beul\u00e1."
     }

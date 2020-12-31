@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:53",
         "image": "HASD-436B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh! que ser\u00e1 ver a Cristo!\nVer a meu bom Salvador!\nSurpresas sem fim\nali h\u00e1 pra mim,\nMas oh! que ser\u00e1\nver a Cristo?!"
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:43",
         "image": "HASD-436B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh! que ser\u00e1 ver a Cristo!\nVer a meu bom Salvador!\nSurpresas sem fim\nali h\u00e1 pra mim,\nMas oh! que ser\u00e1\nver a Cristo?!"
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:34",
         "image": "HASD-436B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh! que ser\u00e1 ver a Cristo!\nVer a meu bom Salvador!\nSurpresas sem fim\nali h\u00e1 pra mim,\nMas oh! que ser\u00e1\nver a Cristo?!"
     },
@@ -84,7 +84,7 @@
       "attributes": {
         "show": "3:25",
         "image": "HASD-436B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh! que ser\u00e1 ver a Cristo!\nVer a meu bom Salvador!\nSurpresas sem fim\nali h\u00e1 pra mim,\nMas oh! que ser\u00e1\nver a Cristo?!"
     }

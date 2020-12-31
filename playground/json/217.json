@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:30",
         "image": "HASD-217B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eu alegre vou na Sua luz,\nPois agora Cristo me conduz.\nDesde que me achou,\nda morte me livrou.\nAndo sempre alegre,\nCristo me salvou!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:03",
         "image": "HASD-217B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eu alegre vou na Sua luz,\nPois agora Cristo me conduz.\nDesde que me achou,\nda morte me livrou.\nAndo sempre alegre,\nCristo me salvou!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:36",
         "image": "HASD-217B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eu alegre vou na Sua luz,\nPois agora Cristo me conduz.\nDesde que me achou,\nda morte me livrou.\nAndo sempre alegre,\nCristo me salvou!"
     }

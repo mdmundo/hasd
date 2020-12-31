@@ -11,7 +11,7 @@
       "attributes": {
         "show": "1:11",
         "image": "HASD-427B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eis meu constante orar:\nMais perto quero estar,\nMais perto quero estar,\nMeu Deus, de Ti."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "2:00",
         "image": "HASD-427B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eis meu constante orar:\nMais perto quero estar,\nMais perto quero estar,\nMeu Deus, de Ti."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:49",
         "image": "HASD-427B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eis meu constante orar:\nMais perto quero estar,\nMais perto quero estar,\nMeu Deus, de Ti."
     }

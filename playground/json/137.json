@@ -4,7 +4,7 @@
       "attributes": {
         "show": "0:18",
         "image": "HASD-137A.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Anunciai pelas montanhas,\nE proclamai por terra e mar;\nAnunciai pelas montanhas\nQue Cristo vai voltar."
     },
@@ -19,7 +19,7 @@
       "attributes": {
         "show": "0:57",
         "image": "HASD-137A.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Anunciai pelas montanhas,\nE proclamai por terra e mar;\nAnunciai pelas montanhas\nQue Cristo vai voltar."
     },
@@ -34,7 +34,7 @@
       "attributes": {
         "show": "1:36",
         "image": "HASD-137A.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Anunciai pelas montanhas,\nE proclamai por terra e mar;\nAnunciai pelas montanhas\nQue Cristo vai voltar."
     },
@@ -49,7 +49,7 @@
       "attributes": {
         "show": "2:14",
         "image": "HASD-137A.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Anunciai pelas montanhas,\nE proclamai por terra e mar;\nAnunciai pelas montanhas\nQue Cristo vai voltar."
     }

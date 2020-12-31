@@ -18,7 +18,7 @@
       "attributes": {
         "show": "1:16",
         "image": "HASD-309B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vamos j\u00e1 obedecer;\nvamos \u00e0 colheita!\nPara quando anoitecer,\nver a obra feita."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:35",
         "image": "HASD-309B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pouco tempo ainda h\u00e1,\nbreve o prazo acabar\u00e1;\nBreve, breve,\nbreve acabar\u00e1."
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "2:33",
         "image": "HASD-309B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vamos j\u00e1 obedecer;\nvamos \u00e0 colheita!\nPara quando anoitecer,\nver a obra feita."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:51",
         "image": "HASD-309B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pouco tempo ainda h\u00e1,\nbreve o prazo acabar\u00e1;\nBreve, breve,\nbreve acabar\u00e1."
     },
@@ -78,7 +78,7 @@
       "attributes": {
         "show": "3:49",
         "image": "HASD-309B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vamos j\u00e1 obedecer;\nvamos \u00e0 colheita!\nPara quando anoitecer,\nver a obra feita."
     },
@@ -86,7 +86,7 @@
       "attributes": {
         "show": "4:07",
         "image": "HASD-309B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pouco tempo ainda h\u00e1,\nbreve o prazo acabar\u00e1;\nBreve, breve,\nbreve acabar\u00e1."
     }

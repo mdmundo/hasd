@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:50",
         "image": "HASD-304B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Veem os outros Cristo em mim?\nVeem os outros Cristo em ti?\n\u00c9 sincero o teu amor\npor Jesus, o Salvador?\nVeem os outros Cristo em ti?"
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:39",
         "image": "HASD-304B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Veem os outros Cristo em mim?\nVeem os outros Cristo em ti?\n\u00c9 sincero o teu amor\npor Jesus, o Salvador?\nVeem os outros Cristo em ti?"
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:29",
         "image": "HASD-304B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Veem os outros Cristo em mim?\nVeem os outros Cristo em ti?\n\u00c9 sincero o teu amor\npor Jesus, o Salvador?\nVeem os outros Cristo em ti?"
     }

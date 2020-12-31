@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:46",
         "image": "HASD-381B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Jesus prover\u00e1!\nSim, cr\u00ea, pecador,\nNas ricas promessas\nDo teu Redentor!"
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:33",
         "image": "HASD-381B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Jesus prover\u00e1!\nSim, cr\u00ea, pecador,\nNas ricas promessas\nDo teu Redentor!"
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:21",
         "image": "HASD-381B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Jesus prover\u00e1!\nSim, cr\u00ea, pecador,\nNas ricas promessas\nDo teu Redentor!"
     }

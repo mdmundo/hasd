@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:40",
         "image": "HASD-424B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Como a brisa suave\nTua voz \u00e9, Senhor,\nComo a brisa\nde um claro arrebol;"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "0:54",
         "image": "HASD-424B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Dos momentos de sombras\nliberto j\u00e1 estou,\nPois ouvi Tua voz me falar."
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "1:36",
         "image": "HASD-424B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Como a brisa suave\nTua voz \u00e9, Senhor,\nComo a brisa\nde um claro arrebol;"
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "1:49",
         "image": "HASD-424B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Dos momentos de sombras\nliberto j\u00e1 estou,\nPois ouvi Tua voz me falar."
     }

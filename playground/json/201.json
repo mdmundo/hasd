@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:54",
         "image": "HASD-201B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "O meu c\u00e1lice\neu ergo a Ti, Senhor;\nVem minh\u0027alma\nsedenta saciar."
     },
@@ -19,7 +19,7 @@
       "attributes": {
         "show": "1:07",
         "image": "HASD-201B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Minha vida anseia\npelo Teu amor,\nFaz meu ser dessa \u00e1gua\ntransbordar."
     },
@@ -34,7 +34,7 @@
       "attributes": {
         "show": "1:50",
         "image": "HASD-201B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "O meu c\u00e1lice\neu ergo a Ti, Senhor;\nVem minh\u0027alma\nsedenta saciar."
     },
@@ -42,7 +42,7 @@
       "attributes": {
         "show": "2:03",
         "image": "HASD-201B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Minha vida anseia\npelo Teu amor,\nFaz meu ser dessa \u00e1gua\ntransbordar."
     },
@@ -57,7 +57,7 @@
       "attributes": {
         "show": "2:46",
         "image": "HASD-201B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "O meu c\u00e1lice\neu ergo a Ti, Senhor;\nVem minh\u0027alma\nsedenta saciar."
     },
@@ -65,7 +65,7 @@
       "attributes": {
         "show": "2:59",
         "image": "HASD-201B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Minha vida anseia\npelo Teu amor,\nFaz meu ser dessa \u00e1gua\ntransbordar."
     }

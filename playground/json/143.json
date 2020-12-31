@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:55",
         "image": "HASD-143B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, Jesus, Salvador! Senhor,\nQuando vamos cantar:\nCristo volta, aleluia,\naleluia, am\u00e9m!\nAleluia, am\u00e9m?"
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:51",
         "image": "HASD-143B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, Jesus, Salvador! Senhor,\nQuando vamos cantar:\nCristo volta, aleluia,\naleluia, am\u00e9m!\nAleluia, am\u00e9m?"
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:47",
         "image": "HASD-143B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, Jesus, Salvador! Senhor,\nQuando vamos cantar:\nCristo volta, aleluia,\naleluia, am\u00e9m!\nAleluia, am\u00e9m?"
     }

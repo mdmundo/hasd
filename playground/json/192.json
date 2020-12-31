@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:54",
         "image": "HASD-192B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Mais uma vez\neu sinto meu pecado,\nQue \u00e9 contra Ti,\n\u00f3 Pai de amor."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:08",
         "image": "HASD-192B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Concede, \u00f3 Deus,\na mim, miseric\u00f3rdia,\nE entoarei a Ti\no meu louvor."
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "1:50",
         "image": "HASD-192B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Mais uma vez\neu sinto meu pecado,\nQue \u00e9 contra Ti,\n\u00f3 Pai de amor."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:04",
         "image": "HASD-192B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Concede, \u00f3 Deus,\na mim, miseric\u00f3rdia,\nE entoarei\na Ti o meu louvor."
     }

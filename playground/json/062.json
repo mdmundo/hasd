@@ -18,7 +18,7 @@
       "attributes": {
         "show": "1:03",
         "image": "HASD-062B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Monte, monte do Calv\u00e1rio,\nOnde meu Jesus\nmorreu por mim!\nTriste, ei-Lo assim ferido;\nS\u00f3, em agonia pereceu."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:29",
         "image": "HASD-062B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Puro, carregou meu fardo,\nPara libertar-me do pecar.\nEste foi o dia mais feliz:\nPois morreu pra me salvar!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:35",
         "image": "HASD-062B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Monte, monte do Calv\u00e1rio,\nOnde meu Jesus\nmorreu por mim!\nTriste, ei-Lo assim ferido;\nS\u00f3, em agonia pereceu."
     },
@@ -49,7 +49,7 @@
       "attributes": {
         "show": "3:01",
         "image": "HASD-062B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Puro, carregou meu fardo,\nPara libertar-me do pecar.\nEste foi o dia mais feliz:\nPois morreu pra me salvar!"
     }

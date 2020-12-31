@@ -18,7 +18,7 @@
       "attributes": {
         "show": "1:30",
         "image": "HASD-344B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00d3 crist\u00e3os, avante!\nMarchar, marchar, marchar!\nPela cruz de Cristo,\nCom ardor lutar!"
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "2:24",
         "image": "HASD-344B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00d3 crist\u00e3os, avante!\nMarchar, marchar, marchar!\nPela cruz de Cristo,\nCom ardor lutar!"
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "3:19",
         "image": "HASD-344B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00d3 crist\u00e3os, avante!\nMarchar, marchar, marchar!\nPela cruz de Cristo,\nCom ardor lutar!"
     }

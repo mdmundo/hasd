@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:43",
         "image": "HASD-465B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pequenos raios somos\nDa verdadeira luz;\nEm todos os lugares,\nBrilhemos por Jesus."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:27",
         "image": "HASD-465B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pequenos raios somos\nDa verdadeira luz;\nEm todos os lugares,\nBrilhemos por Jesus."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:12",
         "image": "HASD-465B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pequenos raios somos\nDa verdadeira luz;\nEm todos os lugares,\nBrilhemos por Jesus."
     }

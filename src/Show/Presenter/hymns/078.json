@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:38",
         "image": "HASD-078B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Coroai-O, v\u00f3s, remidos,\nCoroai-O Rei dos reis!\nCoroai-O, v\u00f3s, remidos,\nCoroai-O Rei dos reis!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:17",
         "image": "HASD-078B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Coroai-O, v\u00f3s, remidos,\nCoroai-O Rei dos reis!\nCoroai-O, v\u00f3s, remidos,\nCoroai-O Rei dos reis!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:56",
         "image": "HASD-078B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Coroai-O, v\u00f3s, remidos,\nCoroai-O Rei dos reis!\nCoroai-O, v\u00f3s, remidos,\nCoroai-O Rei dos reis!"
     }

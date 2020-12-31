@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:55",
         "image": "HASD-067B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Jesus a este mundo desceu,\nPara ser Salvador\nde um qual eu."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:10",
         "image": "HASD-067B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "E o fardo cair\u00e1\nde quem turbado est\u00e1,\nRecorrendo a Jesus\nque morreu."
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "1:53",
         "image": "HASD-067B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Jesus a este mundo desceu,\nPara ser Salvador\nde um qual eu."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:07",
         "image": "HASD-067B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "E o fardo cair\u00e1\nde quem turbado est\u00e1,\nRecorrendo a Jesus\nque morreu."
     },
@@ -78,7 +78,7 @@
       "attributes": {
         "show": "2:50",
         "image": "HASD-067B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Jesus a este mundo desceu,\nPara ser Salvador\nde um qual eu."
     },
@@ -86,7 +86,7 @@
       "attributes": {
         "show": "3:05",
         "image": "HASD-067B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "E o fardo cair\u00e1\nde quem turbado est\u00e1,\nRecorrendo a Jesus\nque morreu."
     }

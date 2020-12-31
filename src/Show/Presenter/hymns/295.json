@@ -11,7 +11,7 @@
       "attributes": {
         "show": "1:16",
         "image": "HASD-295B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Tudo entregarei!\nTudo entregarei!\nSim, por Ti, Jesus bendito,\nTudo deixarei!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "2:07",
         "image": "HASD-295B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Tudo entregarei!\nTudo entregarei!\nSim, por Ti, Jesus bendito,\nTudo deixarei!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:59",
         "image": "HASD-295B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Tudo entregarei!\nTudo entregarei!\nSim, por Ti, Jesus bendito,\nTudo deixarei!"
     }

@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:55",
         "image": "HASD-133B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sem tardar,\neis que Cristo volta!\nEle vem, para os Seus buscar.\nEle vem na Sua gl\u00f3ria.\nCom poder ir\u00e1 reinar."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:54",
         "image": "HASD-133B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sem tardar,\neis que Cristo volta!\nEle vem, para os Seus buscar.\nEle vem na Sua gl\u00f3ria.\nCom poder ir\u00e1 reinar."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:52",
         "image": "HASD-133B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sem tardar,\neis que Cristo volta!\nEle vem, para os Seus buscar.\nEle vem na Sua gl\u00f3ria.\nCom poder ir\u00e1 reinar."
     }

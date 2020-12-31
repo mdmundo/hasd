@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:35",
         "image": "HASD-537B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Confiai em Seu poder;\nConfiai em Seu amor;\nCrede, sim, que Cristo quer\nLibertar o pecador."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:23",
         "image": "HASD-537B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Confiai em Seu poder;\nConfiai em Seu amor;\nCrede, sim, que Cristo quer\nLibertar o pecador."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:12",
         "image": "HASD-537B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Confiai em Seu poder;\nConfiai em Seu amor;\nCrede, sim, que Cristo quer\nLibertar o pecador."
     }

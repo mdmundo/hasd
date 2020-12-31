@@ -18,7 +18,7 @@
       "attributes": {
         "show": "1:15",
         "image": "HASD-437B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vit\u00f3ria em Cristo,\neterna vit\u00f3ria!\nBuscou-me, salvou-me,\nna cruz por mim morreu."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:33",
         "image": "HASD-437B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Que paz e alegria!\nRaiou um novo dia!\nVit\u00f3ria Jesus me deu,\nno sangue que verteu!"
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "2:29",
         "image": "HASD-437B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vit\u00f3ria em Cristo,\neterna vit\u00f3ria!\nBuscou-me, salvou-me,\nna cruz por mim morreu."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:48",
         "image": "HASD-437B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Que paz e alegria!\nRaiou um novo dia!\nVit\u00f3ria Jesus me deu,\nno sangue que verteu!"
     },
@@ -78,7 +78,7 @@
       "attributes": {
         "show": "3:44",
         "image": "HASD-437B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vit\u00f3ria em Cristo,\neterna vit\u00f3ria!\nBuscou-me, salvou-me,\nna cruz por mim morreu."
     },
@@ -86,7 +86,7 @@
       "attributes": {
         "show": "4:02",
         "image": "HASD-437B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Que paz e alegria!\nRaiou um novo dia!\nVit\u00f3ria Jesus me deu,\nno sangue que verteu!"
     }

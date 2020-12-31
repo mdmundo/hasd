@@ -18,7 +18,7 @@
       "attributes": {
         "show": "1:03",
         "image": "HASD-223B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "A presen\u00e7a de Jesus\nD\u00e1-me paz, prazer e luz.\nCada dia cresce,\nmais se enriquece\nEsta vida com Jesus."
     },
@@ -61,7 +61,7 @@
       "attributes": {
         "show": "2:51",
         "image": "HASD-223B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "A presen\u00e7a de Jesus\nD\u00e1-me paz, prazer e luz.\nCada dia cresce,\nmais se enriquece\nEsta vida com Jesus."
     }

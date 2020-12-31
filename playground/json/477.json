@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:55",
         "image": "HASD-477B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eu Te amo\nmais que tudo;\nQuando forte,\nquando fraco,\nAo meu lado est\u00e1s."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:12",
         "image": "HASD-477B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Agrade\u00e7o,\nPai querido,\nPor ligar a nossa vida\nNum s\u00f3 cora\u00e7\u00e3o."
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "2:07",
         "image": "HASD-477B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eu Te amo\nmais que tudo;\nQuando fraco,\nTua for\u00e7a\nNunca falhar\u00e1."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:24",
         "image": "HASD-477B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Por tua Gra\u00e7a, Pai imploro\nTransformar a minha vida\nEm uma can\u00e7\u00e3o."
     }

@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:39",
         "image": "HASD-218B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "A doce paz de meu Jesus,\nQue j\u00e1 morreu por mim\nna cruz,\nP\u00f5e-me nos l\u00e1bios a can\u00e7\u00e3o\nDe Seu amor e salva\u00e7\u00e3o."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:21",
         "image": "HASD-218B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "A doce paz de meu Jesus,\nQue j\u00e1 morreu por mim\nna cruz,\nP\u00f5e-me nos l\u00e1bios a can\u00e7\u00e3o\nDe Seu amor e salva\u00e7\u00e3o."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:02",
         "image": "HASD-218B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "A doce paz de meu Jesus,\nQue j\u00e1 morreu por mim\nna cruz,\nP\u00f5e-me nos l\u00e1bios a can\u00e7\u00e3o\nDe Seu amor e salva\u00e7\u00e3o."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:43",
         "image": "HASD-218B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "A doce paz de meu Jesus,\nQue j\u00e1 morreu por mim\nna cruz,\nP\u00f5e-me nos l\u00e1bios a can\u00e7\u00e3o\nDe Seu amor e salva\u00e7\u00e3o."
     }

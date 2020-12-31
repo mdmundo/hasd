@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:27",
         "image": "HASD-210B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "H\u00e1 perd\u00e3o, poder e paz,\nE gra\u00e7a e luz, e amor gentil\nEm Cristo, a fonte de prazer.\nA Ele demos gl\u00f3rias\ne honras mil!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:10",
         "image": "HASD-210B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "H\u00e1 perd\u00e3o, poder e paz,\nE gra\u00e7a e luz, e amor gentil\nEm Cristo, a fonte de prazer.\nA Ele demos gl\u00f3rias\ne honras mil!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:51",
         "image": "HASD-210B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "H\u00e1 perd\u00e3o, poder e paz,\nE gra\u00e7a e luz, e amor gentil\nEm Cristo, a fonte de prazer.\nA Ele demos gl\u00f3rias\ne honras mil!"
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:34",
         "image": "HASD-210B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "H\u00e1 perd\u00e3o, poder e paz,\nE gra\u00e7a e luz, e amor gentil\nEm Cristo, a fonte de prazer.\nA Ele demos gl\u00f3rias\ne honras mil!"
     }

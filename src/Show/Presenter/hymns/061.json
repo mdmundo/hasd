@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:54",
         "image": "HASD-061B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vejo o Calv\u00e1rio,\no monte t\u00e3o cruel!\nAli, Jesus,\npregado foi na cruz."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:07",
         "image": "HASD-061B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vejo o Calv\u00e1rio,\no monte do amor!\nA minha culpa\nali Jesus pagou."
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "1:49",
         "image": "HASD-061B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vejo o Calv\u00e1rio,\no monte t\u00e3o cruel!\nAli, Jesus,\npregado foi na cruz."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:03",
         "image": "HASD-061B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vejo o Calv\u00e1rio,\no monte do amor!\nA minha culpa\nali Jesus pagou."
     },
@@ -78,7 +78,7 @@
       "attributes": {
         "show": "2:46",
         "image": "HASD-061B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vejo o Calv\u00e1rio,\no monte t\u00e3o cruel!\nAli, Jesus,\npregado foi na cruz."
     },
@@ -86,7 +86,7 @@
       "attributes": {
         "show": "3:00",
         "image": "HASD-061B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vejo o Calv\u00e1rio,\no monte do amor!\nA minha culpa\nali Jesus pagou."
     }

@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:56",
         "image": "HASD-207B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "V\u00ea, v\u00ea \u0096 viver\u00e1s!\nVida tens em olhar a Jesus,\nSalvador.\nEle diz: \u0093Vida em Mim\nachar\u00e1s.\u0094"
     },
@@ -33,7 +33,7 @@
       "attributes": {
         "show": "1:33",
         "image": "HASD-207B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "V\u00ea, v\u00ea \u0096 viver\u00e1s!\nVida tens em olhar a Jesus,\nSalvador.\nEle diz: \u0093Vida em Mim\nachar\u00e1s.\u0094"
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "2:10",
         "image": "HASD-207B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "V\u00ea, v\u00ea \u0096 viver\u00e1s!\nVida tens em olhar a Jesus,\nSalvador.\nEle diz: \u0093Vida em Mim\nachar\u00e1s.\u0094"
     }

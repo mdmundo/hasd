@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:46",
         "image": "HASD-562B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Anseio meu lar; \nno C\u00e9u desejo estar!\nQuando entrarei \nnas plagas de Si\u00e3o?"
     },
@@ -19,7 +19,7 @@
       "attributes": {
         "show": "0:59",
         "image": "HASD-562B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Ali n\u00e3o h\u00e1 m\u00e1goa \nou morte a prantear;\nAnseio a celeste mans\u00e3o!"
     },
@@ -34,7 +34,7 @@
       "attributes": {
         "show": "1:35",
         "image": "HASD-562B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Anseio meu lar; \nno C\u00e9u desejo estar!\nQuando entrarei \nnas plagas de Si\u00e3o?"
     },
@@ -42,7 +42,7 @@
       "attributes": {
         "show": "1:47",
         "image": "HASD-562B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Ali n\u00e3o h\u00e1 m\u00e1goa \nou morte a prantear;\nAnseio a celeste mans\u00e3o!"
     },
@@ -57,7 +57,7 @@
       "attributes": {
         "show": "2:22",
         "image": "HASD-562B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Anseio meu lar; \nno C\u00e9u desejo estar!\nQuando entrarei \nnas plagas de Si\u00e3o?"
     },
@@ -65,7 +65,7 @@
       "attributes": {
         "show": "2:35",
         "image": "HASD-562B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Ali n\u00e3o h\u00e1 m\u00e1goa \nou morte a prantear;\nAnseio a celeste mans\u00e3o!"
     }

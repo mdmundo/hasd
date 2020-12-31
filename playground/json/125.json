@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:34",
         "image": "HASD-125B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Que amplid\u00e3o, que profundeza\nTem o amor de meu Jesus!\nEste amor nos d\u00e1 certeza\nDe habitar na eterna luz."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:09",
         "image": "HASD-125B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Que amplid\u00e3o, que profundeza\nTem o amor de meu Jesus!\nEste amor nos d\u00e1 certeza\nDe habitar na eterna luz."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:45",
         "image": "HASD-125B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Que amplid\u00e3o, que profundeza\nTem o amor de meu Jesus!\nEste amor nos d\u00e1 certeza\nDe habitar na eterna luz."
     }

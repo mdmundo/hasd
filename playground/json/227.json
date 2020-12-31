@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:39",
         "image": "HASD-227B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Luz bendita, luz gloriosa\nConcedida l\u00e1 dos altos C\u00e9us!\nS\u00f3 o crente goza esta luz,\nEsta luz que vem de Deus."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:19",
         "image": "HASD-227B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Luz bendita, luz gloriosa\nConcedida l\u00e1 dos altos C\u00e9us!\nS\u00f3 o crente goza esta luz,\nEsta luz que vem de Deus."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:59",
         "image": "HASD-227B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Luz bendita, luz gloriosa\nConcedida l\u00e1 dos altos C\u00e9us!\nS\u00f3 o crente goza esta luz,\nEsta luz que vem de Deus."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:39",
         "image": "HASD-227B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Luz bendita, luz gloriosa\nConcedida l\u00e1 dos altos C\u00e9us!\nS\u00f3 o crente goza esta luz,\nEsta luz que vem de Deus."
     }

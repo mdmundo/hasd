@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:41",
         "image": "HASD-343B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vamos, crentes,\nvamos j\u00e1 avante,\nFirmes sempre,\ncom o Rei da paz.\nCristo \u00e9 nosso forte\nComandante,\nEle \u00e9 nosso General capaz."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:24",
         "image": "HASD-343B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vamos, crentes,\nvamos j\u00e1 avante,\nFirmes sempre,\ncom o Rei da paz.\nCristo \u00e9 nosso forte\nComandante,\nEle \u00e9 nosso General capaz."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:07",
         "image": "HASD-343B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vamos, crentes,\nvamos j\u00e1 avante,\nFirmes sempre,\ncom o Rei da paz.\nCristo \u00e9 nosso forte\nComandante,\nEle \u00e9 nosso General capaz."
     }

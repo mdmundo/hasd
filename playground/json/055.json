@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:36",
         "image": "HASD-055B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cantarei a linda hist\u00f3ria\nDe Jesus e Seu amor;\nCom fervor, na Sua gl\u00f3ria,\nLouvarei ao Salvador."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:18",
         "image": "HASD-055B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cantarei a linda hist\u00f3ria\nDe Jesus e Seu amor;\nCom fervor, na Sua gl\u00f3ria,\nLouvarei ao Salvador."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:01",
         "image": "HASD-055B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cantarei a linda hist\u00f3ria\nDe Jesus e Seu amor;\nCom fervor, na Sua gl\u00f3ria,\nLouvarei ao Salvador."
     }

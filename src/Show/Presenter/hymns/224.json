@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:53",
         "image": "HASD-224B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Satisfeito estou,\nsatisfeito estou,\nSatisfeito estou\ncom Cristo."
     },
@@ -19,7 +19,7 @@
       "attributes": {
         "show": "1:09",
         "image": "HASD-224B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "A pergunta ent\u00e3o me vem,\nAo pensar na cruz al\u00e9m:\nTem Jesus, em mim,\nprazer tamb\u00e9m?"
     },
@@ -34,7 +34,7 @@
       "attributes": {
         "show": "1:47",
         "image": "HASD-224B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Satisfeito estou,\nsatisfeito estou,\nSatisfeito estou\ncom Cristo."
     },
@@ -42,7 +42,7 @@
       "attributes": {
         "show": "2:03",
         "image": "HASD-224B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "A pergunta ent\u00e3o me vem,\nAo pensar na cruz al\u00e9m:\nTem Jesus, em mim,\nprazer tamb\u00e9m?"
     },
@@ -57,7 +57,7 @@
       "attributes": {
         "show": "2:42",
         "image": "HASD-224B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Satisfeito estou,\nsatisfeito estou,\nSatisfeito estou\ncom Cristo."
     },
@@ -65,7 +65,7 @@
       "attributes": {
         "show": "2:58",
         "image": "HASD-224B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "A pergunta ent\u00e3o me vem,\nAo pensar na cruz al\u00e9m:\nTem Jesus, em mim,\nprazer tamb\u00e9m?"
     }

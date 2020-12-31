@@ -18,7 +18,7 @@
       "attributes": {
         "show": "1:20",
         "image": "HASD-324B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "M\u00e3os consagradas para\na causa em prol do amor;\nM\u00e3os dedicadas ao servi\u00e7o\ndo Senhor;"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:33",
         "image": "HASD-324B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "M\u00e3os preocupadas\nem se unir \u00e0s de Jesus;\nM\u00e3os que n\u00e3o temem\no encontro com a luz."
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "2:14",
         "image": "HASD-324B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "M\u00e3os consagradas para\na causa em prol do amor;\nM\u00e3os dedicadas ao servi\u00e7o\ndo Senhor;"
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:27",
         "image": "HASD-324B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "M\u00e3os preocupadas\nem se unir \u00e0s de Jesus;\nM\u00e3os que n\u00e3o temem\no encontro com a luz."
     },
@@ -78,7 +78,7 @@
       "attributes": {
         "show": "3:08",
         "image": "HASD-324B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "M\u00e3os consagradas para\na causa em prol do amor;\nM\u00e3os dedicadas ao servi\u00e7o\ndo Senhor;"
     },
@@ -86,7 +86,7 @@
       "attributes": {
         "show": "3:22",
         "image": "HASD-324B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "M\u00e3os preocupadas\nem se unir \u00e0s de Jesus;\nM\u00e3os que n\u00e3o temem\no encontro com a luz."
     }

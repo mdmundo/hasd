@@ -18,7 +18,7 @@
       "attributes": {
         "show": "1:09",
         "image": "HASD-371B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Feliz e mui alegre,\nCantando viverei;\nSe Deus protege as aves,\nCuidar\u00e1 de mim tamb\u00e9m."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "2:19",
         "image": "HASD-371B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Feliz e mui alegre,\nCantando viverei;\nSe Deus protege as aves,\nCuidar\u00e1 de mim tamb\u00e9m."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "3:30",
         "image": "HASD-371B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Feliz e mui alegre,\nCantando viverei;\nSe Deus protege as aves,\nCuidar\u00e1 de mim tamb\u00e9m."
     }

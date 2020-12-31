@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:37",
         "image": "HASD-130B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Perto est\u00e1, perto est\u00e1,\nSim, \u00e0s portas Ele j\u00e1 est\u00e1;\nVem depressa, vem depressa!\nSim, o Rei j\u00e1 perto est\u00e1."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:17",
         "image": "HASD-130B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Perto est\u00e1, perto est\u00e1,\nSim, \u00e0s portas Ele j\u00e1 est\u00e1;\nVem depressa, vem depressa!\nSim, o Rei j\u00e1 perto est\u00e1."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:56",
         "image": "HASD-130B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Perto est\u00e1, perto est\u00e1,\nSim, \u00e0s portas Ele j\u00e1 est\u00e1;\nVem depressa, vem depressa!\nSim, o Rei j\u00e1 perto est\u00e1."
     }

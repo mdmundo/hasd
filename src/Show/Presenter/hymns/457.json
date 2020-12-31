@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:42",
         "image": "HASD-457B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, Cristo me ama,\nSim, Cristo me ama,\nSim, Cristo me ama,\nA B\u00edblia assim me diz."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:25",
         "image": "HASD-457B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, Cristo me ama,\nSim, Cristo me ama,\nSim, Cristo me ama,\nA B\u00edblia assim me diz."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:08",
         "image": "HASD-457B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, Cristo me ama,\nSim, Cristo me ama,\nSim, Cristo me ama,\nA B\u00edblia assim me diz."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:51",
         "image": "HASD-457B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, Cristo me ama,\nSim, Cristo me ama,\nSim, Cristo me ama,\nA B\u00edblia assim me diz."
     }

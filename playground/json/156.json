@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:37",
         "image": "HASD-156B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vem, \u00f3 vem! Sim, vem j\u00e1!\nVem, \u00f3 vem, Consolador.\nEnche-me com Tua presen\u00e7a,\nE renova meu fervor."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:17",
         "image": "HASD-156B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vem, \u00f3 vem! Sim, vem j\u00e1!\nVem, \u00f3 vem, Consolador.\nEnche-me com Tua presen\u00e7a,\nE renova meu fervor."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:57",
         "image": "HASD-156B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Vem, \u00f3 vem! Sim, vem j\u00e1!\nVem, \u00f3 vem, Consolador.\nEnche-me com Tua presen\u00e7a,\nE renova meu fervor."
     }

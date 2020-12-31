@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:42",
         "image": "HASD-168B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Meu amigo,\nhoje tu tens a escolha:\nVida ou morte,\nqual vais aceitar?\nAmanh\u00e3 pode ser muito tarde,\nHoje Cristo te quer libertar."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:40",
         "image": "HASD-168B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Meu amigo,\nhoje tu tens a escolha:\nVida ou morte,\nqual vais aceitar?\nAmanh\u00e3 pode ser muito tarde,\nHoje Cristo te quer libertar."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:38",
         "image": "HASD-168B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Meu amigo,\nhoje tu tens a escolha:\nVida ou morte,\nqual vais aceitar?\nAmanh\u00e3 pode ser muito tarde,\nHoje Cristo te quer libertar."
     },
@@ -63,7 +63,7 @@
       "attributes": {
         "show": "3:36",
         "image": "HASD-168B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Meu amigo,\nhoje tu tens a escolha:\nVida ou morte,\nqual vais aceitar?\nAmanh\u00e3 pode ser muito tarde,\nHoje Cristo te quer libertar."
     }

@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:53",
         "image": "HASD-240B.jpg",
-        "italic": "true",
+        "italic": true,
         "repeat": 2
       },
       "text": "Canta, minh\u0027alma!\nCanta ao Senhor!\nRende-Lhe sempre\nhonra e louvor!"
@@ -27,7 +27,7 @@
       "attributes": {
         "show": "1:06",
         "image": "HASD-240B.jpg",
-        "italic": "true",
+        "italic": true,
         "repeat": 2
       },
       "text": "Canta, minh\u0027alma!\nCanta ao Senhor!\nRende-Lhe sempre\nhonra e louvor!"
@@ -50,7 +50,7 @@
       "attributes": {
         "show": "1:47",
         "image": "HASD-240B.jpg",
-        "italic": "true",
+        "italic": true,
         "repeat": 2
       },
       "text": "Canta, minh\u0027alma!\nCanta ao Senhor!\nRende-Lhe sempre\nhonra e louvor!"
@@ -59,7 +59,7 @@
       "attributes": {
         "show": "2:01",
         "image": "HASD-240B.jpg",
-        "italic": "true",
+        "italic": true,
         "repeat": 2
       },
       "text": "Canta, minh\u0027alma!\nCanta ao Senhor!\nRende-Lhe sempre\nhonra e louvor!"
@@ -82,7 +82,7 @@
       "attributes": {
         "show": "2:42",
         "image": "HASD-240B.jpg",
-        "italic": "true",
+        "italic": true,
         "repeat": 2
       },
       "text": "Canta, minh\u0027alma!\nCanta ao Senhor!\nRende-Lhe sempre\nhonra e louvor!"
@@ -91,7 +91,7 @@
       "attributes": {
         "show": "2:55",
         "image": "HASD-240B.jpg",
-        "italic": "true",
+        "italic": true,
         "repeat": 2
       },
       "text": "Canta, minh\u0027alma!\nCanta ao Senhor!\nRende-Lhe sempre\nhonra e louvor!"

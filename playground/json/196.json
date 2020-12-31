@@ -32,7 +32,7 @@
       "attributes": {
         "show": "0:58",
         "image": "HASD-196B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cristo est\u00e1 pronto\npra te perdoar,\nPra te perdoar, pra te perdoar!\n\u00d3 pecador,\npor que n\u00e3o aceitar?\nEm Deus h\u00e1 livre perd\u00e3o!"
     },
@@ -68,7 +68,7 @@
       "attributes": {
         "show": "1:59",
         "image": "HASD-196B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cristo est\u00e1 pronto\npra te perdoar,\nPra te perdoar, pra te perdoar!\n\u00d3 pecador,\npor que n\u00e3o aceitar?\nEm Deus h\u00e1 livre perd\u00e3o!"
     },
@@ -97,7 +97,7 @@
       "attributes": {
         "show": "3:00",
         "image": "HASD-196B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cristo est\u00e1 pronto\npra te perdoar,\nPra te perdoar, pra te perdoar!\n\u00d3 pecador,\npor que n\u00e3o aceitar?\nEm Deus h\u00e1 livre perd\u00e3o!"
     }

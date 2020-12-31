@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:45",
         "image": "HASD-486B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "V\u00f3s sois o sal da Terra;\nV\u00f3s sois o sal da Terra,\nRestaurando o sabor\nE a alegria de viver.\nV\u00f3s sois o sal da Terra."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:49",
         "image": "HASD-486B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "V\u00f3s sois o sal da Terra;\nV\u00f3s sois o sal da Terra,\nRestaurando o sabor\nE a alegria de viver.\nV\u00f3s sois o sal da Terra."
     }

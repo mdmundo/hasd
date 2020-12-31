@@ -18,7 +18,7 @@
       "attributes": {
         "show": "1:07",
         "image": "HASD-054B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh! doce e bela hist\u00f3ria\nDe Cristo, o Salvador!\nDe Sua eterna gra\u00e7a,\nDe Seu imenso amor!"
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "2:14",
         "image": "HASD-054B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh! doce e bela hist\u00f3ria\nDe Cristo, o Salvador!\nDe Sua eterna gra\u00e7a,\nDe Seu imenso amor!"
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "3:22",
         "image": "HASD-054B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh! doce e bela hist\u00f3ria\nDe Cristo, o Salvador!\nDe Sua eterna gra\u00e7a,\nDe Seu imenso amor!"
     }

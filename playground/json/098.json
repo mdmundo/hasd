@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:42",
         "image": "HASD-098B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Por que me amou assim?\nPor que me amou assim?\nPor que sofreu meu Jesus\npor mim?\nPor que me amou assim?"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:27",
         "image": "HASD-098B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Por que me amou assim?\nPor que me amou assim?\nPor que sofreu meu Jesus\npor mim?\nPor que me amou assim?"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:13",
         "image": "HASD-098B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Por que me amou assim?\nPor que me amou assim?\nPor que sofreu meu Jesus\npor mim?\nPor que me amou assim?"
     }

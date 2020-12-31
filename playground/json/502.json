@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:38",
         "image": "HASD-502B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Quebra minha vida\nE faze-a de novo;\nEu quero ser, eu quero ser\nUm vaso novo."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:18",
         "image": "HASD-502B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Quebra minha vida\nE faze-a de novo;\nEu quero ser, eu quero ser\nUm vaso novo."
     }

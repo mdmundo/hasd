@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:46",
         "image": "HASD-044B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Natal, feliz natal!\nNatal, Natal!\nEis que nasceu\nNosso Rei divinal!"
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:35",
         "image": "HASD-044B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Natal, feliz natal!\nNatal, Natal!\nEis que nasceu\nNosso Rei divinal!"
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:22",
         "image": "HASD-044B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Natal, feliz natal!\nNatal, Natal!\nEis que nasceu\nNosso Rei divinal!"
     }

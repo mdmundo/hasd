@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:53",
         "image": "HASD-538B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00d3 vem a Jesus!\n\u00d3 vem a Jesus!\nEterna ventura\nter\u00e1s pela cruz!"
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:47",
         "image": "HASD-538B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00d3 vem a Jesus!\n\u00d3 vem a Jesus!\nEterna ventura\nter\u00e1s pela cruz!"
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:41",
         "image": "HASD-538B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00d3 vem a Jesus!\n\u00d3 vem a Jesus!\nEterna ventura\nter\u00e1s pela cruz!"
     },
@@ -84,7 +84,7 @@
       "attributes": {
         "show": "3:36",
         "image": "HASD-538B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00d3 vem a Jesus!\n\u00d3 vem a Jesus!\nEterna ventura\nter\u00e1s pela cruz!"
     }

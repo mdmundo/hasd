@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:33",
         "image": "HASD-435B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Na coroa de luz\neu estrelas terei,\nQuando o Sol\nn\u00e3o aqui mais raiar?"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "0:44",
         "image": "HASD-435B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Quando Deus me levar\npara o reino dos C\u00e9us,\nNa coroa eu estrelas terei?"
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "1:22",
         "image": "HASD-435B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Na coroa de luz\neu estrelas terei,\nQuando o Sol\nn\u00e3o aqui mais raiar?"
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "1:34",
         "image": "HASD-435B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Quando Deus me levar\npara o reino dos C\u00e9us,\nNa coroa eu estrelas terei?"
     },
@@ -78,7 +78,7 @@
       "attributes": {
         "show": "2:11",
         "image": "HASD-435B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Na coroa de luz\neu estrelas terei,\nQuando o Sol\nn\u00e3o aqui mais raiar?"
     },
@@ -86,7 +86,7 @@
       "attributes": {
         "show": "2:23",
         "image": "HASD-435B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Quando Deus me levar\npara o reino dos C\u00e9us,\nNa coroa eu estrelas terei?"
     }

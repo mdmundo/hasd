@@ -4,7 +4,7 @@
       "attributes": {
         "show": "0:17",
         "image": "HASD-037A.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Tudo que h\u00e1 em terra e mar,\nBelezas que h\u00e1 no c\u00e9u;\nTudo que o bom Deus criou\nTraz honra ao nome Seu."
     },
@@ -19,7 +19,7 @@
       "attributes": {
         "show": "0:57",
         "image": "HASD-037A.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Tudo que h\u00e1 em terra e mar,\nBelezas que h\u00e1 no c\u00e9u;\nTudo que o bom Deus criou\nTraz honra ao nome Seu."
     },
@@ -34,7 +34,7 @@
       "attributes": {
         "show": "1:36",
         "image": "HASD-037A.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Tudo que h\u00e1 em terra e mar,\nBelezas que h\u00e1 no c\u00e9u;\nTudo que o bom Deus criou\nTraz honra ao nome Seu."
     },
@@ -49,7 +49,7 @@
       "attributes": {
         "show": "2:15",
         "image": "HASD-037A.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Tudo que h\u00e1 em terra e mar,\nBelezas que h\u00e1 no c\u00e9u;\nTudo que o bom Deus criou\nTraz honra ao nome Seu."
     }

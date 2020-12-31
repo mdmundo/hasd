@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:38",
         "image": "HASD-463B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Brilhando, brilhando,\nQuero brilhar como a luz!\nBrilhando, brilhando,\nSempre brilhar por Jesus!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:17",
         "image": "HASD-463B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Brilhando, brilhando,\nQuero brilhar como a luz!\nBrilhando, brilhando,\nSempre brilhar por Jesus!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:57",
         "image": "HASD-463B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Brilhando, brilhando,\nQuero brilhar como a luz!\nBrilhando, brilhando,\nSempre brilhar por Jesus!"
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:37",
         "image": "HASD-463B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Brilhando, brilhando,\nQuero brilhar como a luz!\nBrilhando, brilhando,\nSempre brilhar por Jesus!"
     }

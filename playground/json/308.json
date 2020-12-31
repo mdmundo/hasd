@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:43",
         "image": "HASD-308B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Brilha no meio do teu viver;\nBrilha no meio do teu viver,\nPois talvez algum aflito\npossas socorrer;\nBrilha no meio do teu viver."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:28",
         "image": "HASD-308B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Brilha no meio do teu viver;\nBrilha no meio do teu viver,\nPois talvez algum aflito\npossas socorrer;\nBrilha no meio do teu viver."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:12",
         "image": "HASD-308B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Brilha no meio do teu viver;\nBrilha no meio do teu viver,\nPois talvez algum aflito\npossas socorrer;\nBrilha no meio do teu viver."
     }

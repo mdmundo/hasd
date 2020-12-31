@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:38",
         "image": "HASD-199B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, olhai, e ent\u00e3o vivei!\nConfiai s\u00f3 em Jesus.\nEle salva o pecador, Aleluia!\nSim, por n\u00f3s a vida deu\nna cruz."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:18",
         "image": "HASD-199B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, olhai, e ent\u00e3o vivei!\nConfiai s\u00f3 em Jesus.\nEle salva o pecador, Aleluia!\nSim, por n\u00f3s a vida deu\nna cruz."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:58",
         "image": "HASD-199B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, olhai, e ent\u00e3o vivei!\nConfiai s\u00f3 em Jesus.\nEle salva o pecador, Aleluia!\nSim, por n\u00f3s a vida deu\nna cruz."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:37",
         "image": "HASD-199B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, olhai, e ent\u00e3o vivei!\nConfiai s\u00f3 em Jesus.\nEle salva o pecador, Aleluia!\nSim, por n\u00f3s a vida deu\nna cruz."
     }

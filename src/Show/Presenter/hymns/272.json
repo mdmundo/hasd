@@ -11,7 +11,7 @@
       "attributes": {
         "show": "1:03",
         "image": "HASD-272B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sempre! Sempre!\nOlha com f\u00e9 para cima,\nOnde Jesus resplandece \u00e0 luz!\nOlha com f\u00e9 para cima!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:48",
         "image": "HASD-272B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sempre! Sempre!\nOlha com f\u00e9 para cima,\nOnde Jesus resplandece \u00e0 luz!\nOlha com f\u00e9 para cima!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:33",
         "image": "HASD-272B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sempre! Sempre!\nOlha com f\u00e9 para cima,\nOnde Jesus resplandece \u00e0 luz!\nOlha com f\u00e9 para cima!"
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "3:17",
         "image": "HASD-272B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sempre! Sempre!\nOlha com f\u00e9 para cima,\nOnde Jesus resplandece \u00e0 luz!\nOlha com f\u00e9 para cima!"
     }

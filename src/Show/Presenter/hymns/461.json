@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:21",
         "image": "HASD-461B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Por isso canto\nO amor divino;\nSer\u00e1 meu hino\nO amor de Deus."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "0:42",
         "image": "HASD-461B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Por isso canto\nO amor divino;\nSer\u00e1 meu hino\nO amor de Deus."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:04",
         "image": "HASD-461B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Por isso canto\nO amor divino;\nSer\u00e1 meu hino\nO amor de Deus."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "1:25",
         "image": "HASD-461B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Por isso canto\nO amor divino;\nSer\u00e1 meu hino\nO amor de Deus."
     }

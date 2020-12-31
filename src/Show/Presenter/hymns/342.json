@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:40",
         "image": "HASD-342B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sempre avante!\nmanda o General.\nSempre avante!\nguerra contra o mal!\nFirmes, fortes, nunca vacilar!\nCom Jesus havemos de ganhar!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:21",
         "image": "HASD-342B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sempre avante!\nmanda o General.\nSempre avante!\nguerra contra o mal!\nFirmes, fortes, nunca vacilar!\nCom Jesus havemos de ganhar!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:03",
         "image": "HASD-342B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sempre avante!\nmanda o General.\nSempre avante!\nguerra contra o mal!\nFirmes, fortes, nunca vacilar!\nCom Jesus havemos de ganhar!"
     }

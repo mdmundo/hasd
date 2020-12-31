@@ -18,7 +18,7 @@
       "attributes": {
         "show": "1:05",
         "image": "HASD-286B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pai, eu me achego a Ti,\nSou pecador;\nQue me conforte aqui\nTeu santo amor."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "2:13",
         "image": "HASD-286B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pai, eu me achego a Ti,\nSou pecador;\nQue me conforte aqui\nTeu santo amor."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "3:19",
         "image": "HASD-286B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pai, eu me achego a Ti,\nSou pecador;\nQue me conforte aqui\nTeu santo amor."
     }

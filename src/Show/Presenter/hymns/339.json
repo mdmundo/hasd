@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:55",
         "image": "HASD-339B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u0027Stamos fracos,\nt\u00e3o cansados! \u0085\nJ\u00e1 viajamos por valados,\npor deserto abrasador!\n\u0091\u0027Stamos fracos, t\u00e3o cansados!\nEstar\u00e1 inda longe Cana\u00e3?"
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:51",
         "image": "HASD-339B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u0091\u0027Stamos fracos,\nt\u00e3o cansados! \u0085\nJ\u00e1 viajamos por valados,\npor deserto abrasador!\n\u0091\u0027Stamos fracos, t\u00e3o cansados!\nEstar\u00e1 inda longe Cana\u00e3?"
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:48",
         "image": "HASD-339B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u0091\u0027Stamos fracos,\nt\u00e3o cansados! \u0085\nJ\u00e1 viajamos por valados,\npor deserto abrasador!\n\u0091\u0027Stamos fracos, t\u00e3o cansados!\nEstar\u00e1 inda longe Cana\u00e3?"
     }

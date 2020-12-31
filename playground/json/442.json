@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:40",
         "image": "HASD-442B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cada vez mais\nPerto do lar,\nPerto do meu eterno lar\nEm que morar eu vou."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:17",
         "image": "HASD-442B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cada vez mais\nPerto do lar,\nPerto do meu eterno lar\nEm que morar eu vou."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:55",
         "image": "HASD-442B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cada vez mais\nPerto do lar,\nPerto do meu eterno lar\nEm que morar eu vou."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:31",
         "image": "HASD-442B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cada vez mais\nPerto do lar,\nPerto do meu eterno lar\nEm que morar eu vou."
     }

@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:46",
         "image": "HASD-013B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Aleluia! Toda a gl\u00f3ria\nTe rendemos sem fim.\nAleluia! Tua gra\u00e7a\nImploramos. Am\u00e9m."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:18",
         "image": "HASD-013B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Aleluia! Toda a gl\u00f3ria\nTe rendemos sem fim.\nAleluia! Tua gra\u00e7a\nImploramos. Am\u00e9m."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:50",
         "image": "HASD-013B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Aleluia! Toda a gl\u00f3ria\nTe rendemos sem fim.\nAleluia! Tua gra\u00e7a\nImploramos. Am\u00e9m."
     }

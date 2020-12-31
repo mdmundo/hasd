@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:55",
         "image": "HASD-568B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, doce, doce lar!\nAli com Jesus\nVou pra sempre morar."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:53",
         "image": "HASD-568B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, doce, doce lar!\nAli com Jesus\nVou pra sempre morar."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:51",
         "image": "HASD-568B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Oh, doce, doce lar!\nAli com Jesus\nVou pra sempre morar."
     }

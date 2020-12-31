@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:34",
         "image": "HASD-126B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eis que vem, sim, Cristo vem!\nVem reinar em grande gl\u00f3ria,\nCom os santos em vit\u00f3ria!\nEis que vem, sim, Cristo vem!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:27",
         "image": "HASD-126B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eis que vem, sim, Cristo vem!\nVem reinar em grande gl\u00f3ria,\nCom os santos em vit\u00f3ria!\nEis que vem, sim, Cristo vem!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:01",
         "image": "HASD-126B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eis que vem, sim, Cristo vem!\nVem reinar em grande gl\u00f3ria,\nCom os santos em vit\u00f3ria!\nEis que vem, sim, Cristo vem!"
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:46",
         "image": "HASD-126B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eis que vem, sim, Cristo vem!\nVem reinar em grande gl\u00f3ria,\nCom os santos em vit\u00f3ria!\nEis que vem, sim, Cristo vem!"
     }

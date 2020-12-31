@@ -18,7 +18,7 @@
       "attributes": {
         "show": "1:08",
         "image": "HASD-261B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "F\u00e9 \u00e9 a vit\u00f3ria,\nSim, f\u00e9 sempre tem poder.\nF\u00e9 \u00e9 a vit\u00f3ria:\nAo mundo ir\u00e1 vencer."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "2:00",
         "image": "HASD-261B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "F\u00e9 \u00e9 a vit\u00f3ria,\nSim, f\u00e9 sempre tem poder.\nF\u00e9 \u00e9 a vit\u00f3ria:\nAo mundo ir\u00e1 vencer."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:52",
         "image": "HASD-261B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "F\u00e9 \u00e9 a vit\u00f3ria,\nSim, f\u00e9 sempre tem poder.\nF\u00e9 \u00e9 a vit\u00f3ria:\nAo mundo ir\u00e1 vencer."
     }

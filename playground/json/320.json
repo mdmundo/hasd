@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:57",
         "image": "HASD-320B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Falarei de Deus\nE do Seu amor.\nPara o mundo mostrarei Jesus,\nCom maior fervor."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:36",
         "image": "HASD-320B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Falarei de Deus\nE do Seu amor.\nPara o mundo mostrarei Jesus,\nCom maior fervor."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:13",
         "image": "HASD-320B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Falarei de Deus\nE do Seu amor.\nPara o mundo mostrarei Jesus,\nCom maior fervor."
     }

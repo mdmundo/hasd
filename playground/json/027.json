@@ -18,7 +18,7 @@
       "attributes": {
         "show": "1:09",
         "image": "HASD-027B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Perto do lar, perto do lar,\nPerto, sim, do lar dos C\u00e9us!\nDesse t\u00e3o lindo lar\nCom fontes de cristal,\nDo pa\u00eds do eterno Deus."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "2:20",
         "image": "HASD-027B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Perto do lar, perto do lar,\nPerto, sim, do lar dos C\u00e9us!\nDesse t\u00e3o lindo lar\nCom fontes de cristal,\nDo pa\u00eds do eterno Deus."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "3:31",
         "image": "HASD-027B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Perto do lar, perto do lar,\nPerto, sim, do lar dos C\u00e9us!\nDesse t\u00e3o lindo lar\nCom fontes de cristal,\nDo pa\u00eds do eterno Deus."
     }

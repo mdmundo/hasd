@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:42",
         "image": "HASD-550B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Si\u00e3o \u00e9 a nossa\nSanta e gloriosa cidade,\nTamb\u00e9m perene morada\nDos salvos em Cristo Jesus."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:26",
         "image": "HASD-550B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Si\u00e3o \u00e9 a nossa\nSanta e gloriosa cidade,\nTamb\u00e9m perene morada\nDos salvos em Cristo Jesus."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:10",
         "image": "HASD-550B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Si\u00e3o \u00e9 a nossa\nSanta e gloriosa cidade,\nTamb\u00e9m perene morada\nDos salvos em Cristo Jesus."
     }

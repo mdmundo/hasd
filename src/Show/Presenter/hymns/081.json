@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:41",
         "image": "HASD-081B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "O sangue de Jesus me lavou,\nme lavou!\nO sangue de Jesus me lavou,\nme lavou!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "0:52",
         "image": "HASD-081B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Alegre cantarei louvores\na meu Rei,\nA meu Senhor Jesus\nque me salvou!"
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "1:22",
         "image": "HASD-081B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "O sangue de Jesus me lavou,\nme lavou!\nO sangue de Jesus me lavou,\nme lavou!"
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "1:33",
         "image": "HASD-081B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Alegre cantarei louvores\na meu Rei,\nA meu Senhor Jesus\nque me salvou!"
     },
@@ -78,7 +78,7 @@
       "attributes": {
         "show": "2:04",
         "image": "HASD-081B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "O sangue de Jesus me lavou,\nme lavou!\nO sangue de Jesus me lavou,\nme lavou!"
     },
@@ -86,7 +86,7 @@
       "attributes": {
         "show": "2:16",
         "image": "HASD-081B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Alegre cantarei louvores\na meu Rei,\nA meu Senhor Jesus\nque me salvou!"
     }

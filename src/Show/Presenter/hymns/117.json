@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:42",
         "image": "HASD-117B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Se buscares conhec\u00ea-Lo,\nOh, sim, am\u00e1-Lo-\u00e1s tamb\u00e9m!\nManh\u00e3 feliz despontar\u00e1\nPara ti no lar de al\u00e9m."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:24",
         "image": "HASD-117B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Se buscares conhec\u00ea-Lo,\nOh, sim, am\u00e1-Lo-\u00e1s tamb\u00e9m!\nManh\u00e3 feliz despontar\u00e1\nPara ti no lar de al\u00e9m."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:07",
         "image": "HASD-117B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Se buscares conhec\u00ea-Lo,\nOh, sim, am\u00e1-Lo-\u00e1s tamb\u00e9m!\nManh\u00e3 feliz despontar\u00e1\nPara ti no lar de al\u00e9m."
     }

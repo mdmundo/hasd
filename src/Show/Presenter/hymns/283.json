@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:52",
         "image": "HASD-283B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Do Teu querer,\nconserva-me bem perto,\nAt\u00e9 que eu tenha Teu poder.\nDo Teu querer,\nconserva-me bem perto,\nAt\u00e9 que eu possa, em Ti, viver."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:59",
         "image": "HASD-283B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Do Teu querer,\nconserva-me bem perto,\nAt\u00e9 que eu tenha Teu poder.\nDo Teu querer,\nconserva-me bem perto,\nAt\u00e9 que eu possa, em Ti, viver."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "3:06",
         "image": "HASD-283B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Do Teu querer,\nconserva-me bem perto,\nAt\u00e9 que eu tenha Teu poder.\nDo Teu querer,\nconserva-me bem perto,\nAt\u00e9 que eu possa, em Ti, viver."
     }

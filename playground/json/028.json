@@ -11,7 +11,7 @@
       "attributes": {
         "show": "1:10",
         "image": "HASD-028B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Santo, santo, santo\n\u00e9s, nosso Deus!\nToda a Terra e altos C\u00e9us\nD\u00e3o-Te gra\u00e7as e louvor,\nA Ti, Senhor."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "2:21",
         "image": "HASD-028B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Santo, santo, santo\n\u00e9s, nosso Deus!\nToda a Terra e altos C\u00e9us\nD\u00e3o-Te gra\u00e7as e louvor,\nA Ti, Senhor."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "3:33",
         "image": "HASD-028B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Santo, santo, santo\n\u00e9s, nosso Deus!\nToda a Terra e altos C\u00e9us\nD\u00e3o-Te gra\u00e7as e louvor,\nA Ti, Senhor."
     }

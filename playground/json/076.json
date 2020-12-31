@@ -18,7 +18,7 @@
       "attributes": {
         "show": "1:11",
         "image": "HASD-076B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Exaltai-O\npelas excelsas grandezas\nDesta gra\u00e7a que hoje\naos perdidos d\u00e1."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "2:10",
         "image": "HASD-076B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Exaltai-O\npelas excelsas grandezas\nDesta gra\u00e7a que hoje\naos perdidos d\u00e1."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "3:09",
         "image": "HASD-076B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Exaltai-O\npelas excelsas grandezas\nDesta gra\u00e7a que hoje\naos perdidos d\u00e1."
     }

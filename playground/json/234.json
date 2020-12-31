@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:39",
         "image": "HASD-234B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Que prazer eu senti\nNo dia em que me converti!\nSeguro estou no Salvador,\nE tenho paz em Seu amor.\nSou feliz, t\u00e3o feliz,\nPois em Jesus me satisfiz!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:28",
         "image": "HASD-234B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Que prazer eu senti\nNo dia em que me converti!\nSeguro estou no Salvador,\nE tenho paz em Seu amor.\nSou feliz, t\u00e3o feliz,\nPois em Jesus me satisfiz!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:16",
         "image": "HASD-234B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Que prazer eu senti\nNo dia em que me converti!\nSeguro estou no Salvador,\nE tenho paz em Seu amor.\nSou feliz, t\u00e3o feliz,\nPois em Jesus me satisfiz!"
     }

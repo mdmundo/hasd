@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:36",
         "image": "HASD-265B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eu creio, sim, que meu Jesus\nPor mim morreu na cruz;\nSeu sangue ali por mim verteu,\nE abriu-me a porta ao C\u00e9u."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:13",
         "image": "HASD-265B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eu creio, sim, que meu Jesus\nPor mim morreu na cruz;\nSeu sangue ali por mim verteu,\nE abriu-me a porta ao C\u00e9u."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:51",
         "image": "HASD-265B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Eu creio, sim, que meu Jesus\nPor mim morreu na cruz;\nSeu sangue ali por mim verteu,\nE abriu-me a porta ao C\u00e9u."
     }

@@ -18,7 +18,7 @@
       "attributes": {
         "show": "1:10",
         "image": "HASD-351B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Nunca me deixar!\nNunca me deixar!\nPois Ele mesmo promete\ncomigo caminhar."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:28",
         "image": "HASD-351B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Nunca me deixar!\nNunca me deixar!\nPois Ele mesmo promete\nque nunca me h\u00e1 de deixar."
     },
@@ -48,7 +48,7 @@
       "attributes": {
         "show": "2:22",
         "image": "HASD-351B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Nunca me deixar!\nNunca me deixar!\nPois Ele mesmo promete\ncomigo caminhar."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:40",
         "image": "HASD-351B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Nunca me deixar!\nNunca me deixar!\nPois Ele mesmo promete\nque nunca me h\u00e1 de deixar."
     },
@@ -78,7 +78,7 @@
       "attributes": {
         "show": "3:34",
         "image": "HASD-351B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Nunca me deixar!\nNunca me deixar!\nPois Ele mesmo promete\ncomigo caminhar."
     },
@@ -86,7 +86,7 @@
       "attributes": {
         "show": "3:51",
         "image": "HASD-351B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Nunca me deixar!\nNunca me deixar!\nPois Ele mesmo promete\nque nunca me h\u00e1 de deixar."
     }

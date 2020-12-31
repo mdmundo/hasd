@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:37",
         "image": "HASD-531B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00d3 Mestre amado,\nCriador divino,\nDo santo s\u00e1bado,\nTu \u00e9s Senhor."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:16",
         "image": "HASD-531B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00d3 Mestre amado,\nCriador divino,\nDo santo s\u00e1bado,\nTu \u00e9s Senhor."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:54",
         "image": "HASD-531B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00d3 Mestre amado,\nCriador divino,\nDo santo s\u00e1bado,\nTu \u00e9s Senhor."
     }

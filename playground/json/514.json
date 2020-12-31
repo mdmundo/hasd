@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:42",
         "image": "HASD-514B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00d3 meu Jesus, me guia, sim,\nCom Tua luz e amor sem fim,\nE me sust\u00e9m at\u00e9 chegar\n\u00c0s portas do celeste lar."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:24",
         "image": "HASD-514B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00d3 meu Jesus, me guia, sim,\nCom Tua luz e amor sem fim,\nE me sust\u00e9m at\u00e9 chegar\n\u00c0s portas do celeste lar."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:07",
         "image": "HASD-514B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "\u00d3 meu Jesus, me guia, sim,\nCom Tua luz e amor sem fim,\nE me sust\u00e9m at\u00e9 chegar\n\u00c0s portas do celeste lar."
     }

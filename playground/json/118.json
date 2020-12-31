@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:36",
         "image": "HASD-118B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "No lar feliz e eterno,\nDe paz, amor e luz,\nMorar tamb\u00e9m iremos,\nCom nosso bom Jesus."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:14",
         "image": "HASD-118B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "No lar feliz e eterno,\nDe paz, amor e luz,\nMorar tamb\u00e9m iremos,\nCom nosso bom Jesus."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:53",
         "image": "HASD-118B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "No lar feliz e eterno,\nDe paz, amor e luz,\nMorar tamb\u00e9m iremos,\nCom nosso bom Jesus."
     }

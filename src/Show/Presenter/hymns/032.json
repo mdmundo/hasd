@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:57",
         "image": "HASD-032B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Deus \u00e9 nosso Pai amado,\nQue das aves zela bem;\nD\u00e1 ao l\u00edrio tanta gl\u00f3ria!\nSim, te atender\u00e1 tamb\u00e9m."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:57",
         "image": "HASD-032B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Deus \u00e9 nosso Pai amado,\nQue das aves zela bem;\nD\u00e1 ao l\u00edrio tanta gl\u00f3ria!\nSim, te atender\u00e1 tamb\u00e9m."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:57",
         "image": "HASD-032B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Deus \u00e9 nosso Pai amado,\nQue das aves zela bem;\nD\u00e1 ao l\u00edrio tanta gl\u00f3ria!\nSim, te atender\u00e1 tamb\u00e9m."
     }

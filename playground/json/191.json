@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:46",
         "image": "HASD-191B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, na cruz, sim, na cruz\nSempre me glorio,\nT\u00e9 que ao fim v\u00e1 descansar,\nSalvo, al\u00e9m do rio."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:33",
         "image": "HASD-191B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, na cruz, sim, na cruz\nSempre me glorio,\nT\u00e9 que ao fim v\u00e1 descansar,\nSalvo, al\u00e9m do rio."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:21",
         "image": "HASD-191B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, na cruz, sim, na cruz\nSempre me glorio,\nT\u00e9 que ao fim v\u00e1 descansar,\nSalvo, al\u00e9m do rio."
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "3:09",
         "image": "HASD-191B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, na cruz, sim, na cruz\nSempre me glorio,\nT\u00e9 que ao fim v\u00e1 descansar,\nSalvo, al\u00e9m do rio."
     }

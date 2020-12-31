@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:31",
         "image": "HASD-430B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Dentro em breve, sim,\nDentro em breve, sim,\nEstaremos l\u00e1 no lar;\nSim, depois de o mar\nDeste mundo atravessar,\nN\u00f3s iremos para o eterno lar!"
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:14",
         "image": "HASD-430B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Dentro em breve, sim,\nDentro em breve, sim,\nEstaremos l\u00e1 no lar;\nSim, depois de o mar\nDeste mundo atravessar,\nN\u00f3s iremos para o eterno lar!"
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "1:57",
         "image": "HASD-430B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Dentro em breve, sim,\nDentro em breve, sim,\nEstaremos l\u00e1 no lar;\nSim, depois de o mar\nDeste mundo atravessar,\nN\u00f3s iremos para o eterno lar!"
     }

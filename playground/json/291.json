@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:38",
         "image": "HASD-291B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pois muitos h\u00e1,\nSenhor, que me contemplam,\nSim, meu Senhor,\nque olham para mim.\nSim, meu Senhor,\nque olham para mim!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:18",
         "image": "HASD-291B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pois muitos h\u00e1,\nSenhor, que me contemplam,\nSim, meu Senhor,\nque olham para mim.\nSim, meu Senhor,\nque olham para mim!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:58",
         "image": "HASD-291B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Pois muitos h\u00e1,\nSenhor, que me contemplam,\nSim, meu Senhor,\nque olham para mim.\nSim, meu Senhor,\nque olham para mim!"
     }

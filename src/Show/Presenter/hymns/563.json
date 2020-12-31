@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:41",
         "image": "HASD-563B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Querido lar, oh, doce lar!\nOnde eu pra sempre\nirei morar.\nUm pouco mais e eu partirei;\nNo eterno lar descansarei."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:23",
         "image": "HASD-563B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Querido lar, oh, doce lar!\nOnde eu pra sempre\nirei morar.\nUm pouco mais e eu partirei;\nNo eterno lar descansarei."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:06",
         "image": "HASD-563B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Querido lar, oh, doce lar!\nOnde eu pra sempre\nirei morar.\nUm pouco mais e eu partirei;\nNo eterno lar descansarei."
     }

@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:41",
         "image": "HASD-487B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, Cristo,\nconta comigo agora!\nConta comigo agora!\nEu n\u00e3o posso me esquivar\nAo ouvir o Teu chamar!\nConta comigo j\u00e1!"
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:33",
         "image": "HASD-487B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, Cristo,\nconta comigo agora!\nConta comigo agora!\nEis-me aqui, meu Salvador,\nEu estou ao Teu dispor;\nConta comigo j\u00e1!"
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:26",
         "image": "HASD-487B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, Cristo,\nconta comigo agora!\nConta comigo agora!\nSe Deus quer\ndesprendimento,\nQue me importa\no sofrimento?"
     },
@@ -70,7 +70,7 @@
       "attributes": {
         "show": "2:48",
         "image": "HASD-487B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Conta comigo,\nconta comigo,\nConta comigo j\u00e1!"
     }

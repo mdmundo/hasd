@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:38",
         "image": "HASD-023B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Ele me ama, Ele me ama,\nCristo me ama, bem o sei.\nTenho a prova no Calv\u00e1rio;\nPara sempre am\u00e1-Lo-ei."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:18",
         "image": "HASD-023B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Ele me ama, Ele me ama,\nCristo me ama, bem o sei.\nTenho a prova no Calv\u00e1rio;\nPara sempre am\u00e1-Lo-ei."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:58",
         "image": "HASD-023B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Ele me ama, Ele me ama,\nCristo me ama, bem o sei.\nTenho a prova no Calv\u00e1rio;\nPara sempre am\u00e1-Lo-ei."
     }

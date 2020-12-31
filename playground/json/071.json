@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:36",
         "image": "HASD-071B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Com gl\u00f3ria, gl\u00f3ria, gl\u00f3ria,\nGl\u00f3ria, com gl\u00f3ria coroai!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:14",
         "image": "HASD-071B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Com gl\u00f3ria, gl\u00f3ria, gl\u00f3ria,\nGl\u00f3ria, com gl\u00f3ria coroai!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:54",
         "image": "HASD-071B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Com gl\u00f3ria, gl\u00f3ria, gl\u00f3ria,\nGl\u00f3ria, com gl\u00f3ria coroai!"
     },
@@ -56,7 +56,7 @@
       "attributes": {
         "show": "2:33",
         "image": "HASD-071B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Com gl\u00f3ria, gl\u00f3ria, gl\u00f3ria,\nGl\u00f3ria, com gl\u00f3ria coroai!"
     }

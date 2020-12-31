@@ -18,7 +18,7 @@
       "attributes": {
         "show": "1:08",
         "image": "HASD-109B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cristo me amou e me livrou;\nO Seu imenso amor\nme transformou.\nFoi Seu poder, foi Seu querer,\nSim, Cristo, meu Senhor,\nme transformou."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "2:17",
         "image": "HASD-109B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cristo me amou e me livrou;\nO Seu imenso amor\nme transformou.\nFoi Seu poder, foi Seu querer,\nSim, Cristo, meu Senhor,\nme transformou."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "3:27",
         "image": "HASD-109B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Cristo me amou e me livrou;\nO Seu imenso amor\nme transformou.\nFoi Seu poder, foi Seu querer,\nSim, Cristo, meu Senhor,\nme transformou."
     }

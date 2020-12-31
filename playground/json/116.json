@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:54",
         "image": "HASD-116B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "O nome \u00e9 Jesus, o Filho da luz,\nO nosso Salvador.\nO nome santo e doce \u00e9 Jesus,\nO nosso Salvador."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:48",
         "image": "HASD-116B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "O nome \u00e9 Jesus, o Filho da luz,\nO nosso Salvador.\nO nome santo e doce \u00e9 Jesus,\nO nosso Salvador."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:43",
         "image": "HASD-116B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "O nome \u00e9 Jesus, o Filho da luz,\nO nosso Salvador.\nO nome santo e doce \u00e9 Jesus,\nO nosso Salvador."
     }

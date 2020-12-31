@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:37",
         "image": "HASD-238B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Deus \u00e9 bom,\nSeus filhinhos somos.\nDeus \u00e9 bom,\nquer o nosso amor."
     },
@@ -19,7 +19,7 @@
       "attributes": {
         "show": "0:48",
         "image": "HASD-238B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Amor nos faz contentes,\nAmor nos d\u00e1 prazer,\nE para a lei cumprirmos,\nO amor nos d\u00e1 poder."
     },
@@ -34,7 +34,7 @@
       "attributes": {
         "show": "1:14",
         "image": "HASD-238B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Deus \u00e9 bom,\nSeus filhinhos somos.\nDeus \u00e9 bom,\nquer o nosso amor."
     },
@@ -42,7 +42,7 @@
       "attributes": {
         "show": "1:26",
         "image": "HASD-238B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Amor nos faz contentes,\nAmor nos d\u00e1 prazer,\nE para a lei cumprirmos,\nO amor nos d\u00e1 poder."
     },
@@ -57,7 +57,7 @@
       "attributes": {
         "show": "1:53",
         "image": "HASD-238B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Deus \u00e9 bom,\nSeus filhinhos somos.\nDeus \u00e9 bom,\nquer o nosso amor."
     },
@@ -65,7 +65,7 @@
       "attributes": {
         "show": "2:04",
         "image": "HASD-238B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Amor nos faz contentes,\nAmor nos d\u00e1 prazer,\nE para a lei cumprirmos,\nO amor nos d\u00e1 poder."
     }

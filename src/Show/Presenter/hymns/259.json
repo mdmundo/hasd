@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:47",
         "image": "HASD-259B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Mas eu sei em\nquem tenho crido,\nE estou bem certo\nque \u00e9 poderoso,\nPra guardar o meu tesouro\nAt\u00e9 o fim chegar."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:36",
         "image": "HASD-259B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Mas eu sei em\nquem tenho crido,\nE estou bem certo\nque \u00e9 poderoso,\nPra guardar o meu tesouro\nAt\u00e9 o fim chegar."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:25",
         "image": "HASD-259B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Mas eu sei em\nquem tenho crido,\nE estou bem certo\nque \u00e9 poderoso,\nPra guardar o meu tesouro\nAt\u00e9 o fim chegar."
     }

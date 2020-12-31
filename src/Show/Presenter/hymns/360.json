@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:51",
         "image": "HASD-360B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Fixa teus olhos no Mestre,\nConfia no bom Salvador;\nFruir\u00e1s, na luta terrestre,\nMaravilhas do Seu doce amor."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:44",
         "image": "HASD-360B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Fixa teus olhos no Mestre,\nConfia no bom Salvador;\nFruir\u00e1s, na luta terrestre,\nMaravilhas do Seu doce amor."
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "2:36",
         "image": "HASD-360B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Fixa teus olhos no Mestre,\nConfia no bom Salvador;\nFruir\u00e1s, na luta terrestre,\nMaravilhas do Seu doce amor."
     }

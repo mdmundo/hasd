@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:35",
         "image": "HASD-148B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Rei da paz, sim, vem reinar\nE vem levar-nos para o lar.\nVem, Senhor Jesus, reinar."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:13",
         "image": "HASD-148B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Rei da paz, sim, vem reinar\nE vem levar-nos para o lar.\nVem, Senhor Jesus, reinar."
     }

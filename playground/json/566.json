@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:38",
         "image": "HASD-566B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Doce lar! Doce lar!\nDoce lar! Doce lar!\nNo lar habitaremos\nCom o nosso Jesus."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:25",
         "image": "HASD-566B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Doce lar! Doce lar!\nDoce lar! Doce lar!\nNo lar habitaremos\nCom o nosso Jesus."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:11",
         "image": "HASD-566B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Doce lar! Doce lar!\nDoce lar! Doce lar!\nNo lar habitaremos\nCom o nosso Jesus."
     }

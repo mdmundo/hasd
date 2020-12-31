@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:33",
         "image": "HASD-139B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Saudai o Rei celestial,\nQue toma aqui poder real!\nSaudai o Rei em Seu fulgor,\nJesus, Deus santo\ne bom Senhor!"
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:09",
         "image": "HASD-139B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Saudai o Rei celestial,\nQue toma aqui poder real!\nSaudai o Rei em Seu fulgor,\nJesus, Deus santo\ne bom Senhor!"
     },
@@ -41,7 +41,7 @@
       "attributes": {
         "show": "1:46",
         "image": "HASD-139B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Saudai o Rei celestial,\nQue toma aqui poder real!\nSaudai o Rei em Seu fulgor,\nJesus, Deus santo\ne bom Senhor!"
     }

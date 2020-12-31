@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:52",
         "image": "HASD-230B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sou feliz com Jesus!\nSou feliz com Jesus,\nMeu Senhor!"
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:45",
         "image": "HASD-230B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sou feliz com Jesus!\nSou feliz com Jesus,\nMeu Senhor!"
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:37",
         "image": "HASD-230B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sou feliz com Jesus!\nSou feliz com Jesus,\nMeu Senhor!"
     },
@@ -84,7 +84,7 @@
       "attributes": {
         "show": "3:30",
         "image": "HASD-230B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sou feliz com Jesus!\nSou feliz com Jesus,\nMeu Senhor!"
     }

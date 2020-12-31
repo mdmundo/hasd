@@ -18,7 +18,7 @@
       "attributes": {
         "show": "0:40",
         "image": "HASD-262B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, minha f\u00e9\nbem segura est\u00e1;\nFirme em Jesus continuar\u00e1;\nConfiado em Cristo,\nem Seu amor,\nHei de triunfar\nsobre o tentador."
     },
@@ -40,7 +40,7 @@
       "attributes": {
         "show": "1:21",
         "image": "HASD-262B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, minha f\u00e9\nbem segura est\u00e1;\nFirme em Jesus continuar\u00e1;\nConfiado em Cristo,\nem Seu amor,\nHei de triunfar\nsobre o tentador."
     },
@@ -62,7 +62,7 @@
       "attributes": {
         "show": "2:03",
         "image": "HASD-262B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, minha f\u00e9\nbem segura est\u00e1;\nFirme em Jesus continuar\u00e1;\nConfiado em Cristo,\nem Seu amor,\nHei de triunfar\nsobre o tentador."
     },
@@ -84,7 +84,7 @@
       "attributes": {
         "show": "2:44",
         "image": "HASD-262B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Sim, minha f\u00e9\nbem segura est\u00e1;\nFirme em Jesus continuar\u00e1;\nConfiado em Cristo,\nem Seu amor,\nHei de triunfar\nsobre o tentador."
     }

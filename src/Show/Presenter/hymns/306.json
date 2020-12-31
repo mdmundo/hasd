@@ -11,7 +11,7 @@
       "attributes": {
         "show": "0:51",
         "image": "HASD-306B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Diz, Senhor! Diz, Senhor,\nO que devo eu aqui fazer!\nDiz, Senhor! Diz, Senhor!\nEis-me aqui, eu irei responder."
     },
@@ -26,7 +26,7 @@
       "attributes": {
         "show": "1:46",
         "image": "HASD-306B.jpg",
-        "italic": "true"
+        "italic": true
       },
       "text": "Diz, Senhor! Diz, Senhor,\nO que devo eu aqui fazer!\nDiz, Senhor! Diz, Senhor!\nEis-me aqui, eu irei responder."
     },
