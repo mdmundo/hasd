@@ -50,6 +50,7 @@ const App = () => {
         onChange={(e, value) => setNumber(value?.number)}
         inputValue={input}
         onInputChange={(e, value) => setInput(value)}
+        autoHighlight
         disableClearable
         className={classes.auto}
         fullWidth
