@@ -7,6 +7,7 @@ import { makeStyles } from '@material-ui/core';
 import Show from './Show';
 import Player from './Player';
 import Chooser from './Chooser';
+import Toast from './Toast';
 import Context from './context';
 import reducer from './reducer';
 
@@ -16,8 +17,7 @@ const Copyright = () => {
       {'Created by '}
       <Link color='inherit' href='https://github.com/mdmundo'>
         Edmundo Paulino
-      </Link>{' '}
-      {new Date().getFullYear()}
+      </Link>
       {'.'}
     </Typography>
   );
@@ -50,7 +50,8 @@ const App = () => {
     timer: '0:00',
     finished: true,
     progress: 0,
-    hymnURI: ''
+    hymnURI: '',
+    error: false
   };
 
   const [state, dispatch] = useReducer(reducer, defaultState);
@@ -64,6 +65,7 @@ const App = () => {
         <Container component='main' className={classes.main} maxWidth='xs'>
           {state.finished ? <Chooser /> : <Show />}
         </Container>
+        <Toast />
         <Player />
         <footer className={classes.footer}>
           <Container maxWidth='xs'>

@@ -24,12 +24,22 @@ const App = () => {
 
   useEffect(() => {
     getHymn(path, dispatch).then((hymnURI) => {
-      dispatch({
-        type: 'UPDATE',
-        update: {
-          hymnURI
-        }
-      });
+      if (hymnURI) {
+        dispatch({
+          type: 'UPDATE',
+          update: {
+            hymnURI
+          }
+        });
+      } else {
+        dispatch({
+          type: 'UPDATE',
+          update: {
+            finished: true,
+            error: true
+          }
+        });
+      }
     });
   }, [path, dispatch]);
 
