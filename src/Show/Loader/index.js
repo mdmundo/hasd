@@ -10,7 +10,7 @@ import context from '../../context';
 
 const useStyles = makeStyles((theme) => ({
   title: {
-    fontSize: '3rem'
+    marginBottom: theme.spacing(2)
   },
   progress: {
     display: 'block',
@@ -50,7 +50,7 @@ const App = () => {
       <CardContent>
         <Typography
           className={classes.title}
-          variant='h2'
+          variant='subtitle2'
           display='block'
           align='center'
           gutterBottom>
