@@ -1,7 +1,7 @@
 import { useContext } from 'react';
 import ReactAudioPlayer from 'react-audio-player';
 import { convert } from './timer';
-import context from '../../context';
+import context from '../context';
 
 const App = () => {
   const { state, dispatch } = useContext(context);

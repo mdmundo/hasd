@@ -72,7 +72,7 @@ const App = () => {
             color='textSecondary'
             align='center'
             gutterBottom>
-            {parseInt(hymn.attributes.number, 10)}
+            {state.hymn.number}
           </Typography>
           <Typography className={classes.title} variant='h3' align='center'>
             {hymn.attributes.title}
@@ -103,9 +103,7 @@ const App = () => {
             color='textSecondary'
             align='right'
             gutterBottom>
-            {`${parseInt(hymn.attributes.number, 10)} | ${
-              hymn.attributes.title
-            }`}
+            {`${state.hymn.number} | ${hymn.attributes.title}`}
           </Typography>
           {hymn.text[current].text.split('\n').map((str, index) => (
             <Typography
