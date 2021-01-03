@@ -58,8 +58,12 @@ const App = () => {
         </Typography>
         <CircularProgress
           className={classes.progress}
-          variant='determinate'
-          size='10rem'
+          variant={
+            state.progress === 0 || state.progress === 100
+              ? 'indeterminate'
+              : 'determinate'
+          }
+          size='3.5rem'
           value={state.progress}
         />
       </CardContent>
