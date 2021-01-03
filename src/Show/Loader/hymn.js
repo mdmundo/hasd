@@ -1,4 +1,4 @@
-import localforage from 'localforage';
+import localforage from './storage';
 import request from './request';
 
 export const getHymn = async (path, dispatch) => {
