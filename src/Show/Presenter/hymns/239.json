@@ -8,8 +8,7 @@
     },
     {
       "attributes": {
-        "show": "0:50",
-        "italic": true
+        "show": "0:50"
       },
       "text": "Cantai! Cantai!\nA Cristo louvores dai!"
     },
@@ -21,8 +20,7 @@
     },
     {
       "attributes": {
-        "show": "1:21",
-        "italic": true
+        "show": "1:21"
       },
       "text": "Cantai! Cantai!\nA Cristo louvores dai!"
     },
@@ -34,8 +32,7 @@
     },
     {
       "attributes": {
-        "show": "1:53",
-        "italic": true
+        "show": "1:53"
       },
       "text": "Cantai! Cantai!\nA Cristo louvores dai!"
     }
