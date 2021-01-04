@@ -30,7 +30,7 @@ const App = () => {
       open={state.error}
       autoHideDuration={6000}
       onClose={handleClose}
-      message='Ocorreu um erro. Tente novamente amanhã.'
+      message='Ocorreu um erro.'
       action={
         <Button color='secondary' size='small' onClick={handleClose}>
           Fechar

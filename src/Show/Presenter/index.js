@@ -39,7 +39,7 @@ const App = () => {
   const [current, setCurrent] = useState(-1);
 
   useEffect(() => {
-    if (hymn.text[nextUpdate].show === state.timer) {
+    if (hymn.text[nextUpdate]?.show === state.timer) {
       setCurrent(nextUpdate);
       setNextUpdate(nextUpdate + 1);
     }

@@ -1,4 +1,4 @@
-import axios from './cache';
+import axios from 'axios';
 
 const request = async (path, dispatch) => {
   try {
