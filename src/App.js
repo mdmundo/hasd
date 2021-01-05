@@ -6,7 +6,7 @@ import Link from '@material-ui/core/Link';
 import { makeStyles } from '@material-ui/core';
 import Show from './Show';
 import Player from './Player';
-import Chooser from './Chooser';
+import Main from './Main';
 import Toast from './Toast';
 import Context from './context';
 import reducer from './reducer';
@@ -63,7 +63,7 @@ const App = () => {
       <div className={classes.root}>
         <CssBaseline />
         <Container component='main' className={classes.main} maxWidth='xs'>
-          {state.finished ? <Chooser /> : <Show />}
+          {state.finished ? <Main /> : <Show />}
         </Container>
         <Toast />
         <Player />
