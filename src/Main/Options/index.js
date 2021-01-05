@@ -54,6 +54,7 @@ const App = () => {
   const deleteAll = async () => {
     await localforage.clear();
     setOpenOptions(false);
+    setLength(0);
   };
 
   const classes = useStyles();
@@ -72,6 +73,7 @@ const App = () => {
         </Grid>
         <Grid item xs={4}>
           <Button
+            disabled={length === 0}
             variant='outlined'
             color='primary'
             onClick={handleClickOpenOptions}
@@ -108,7 +110,7 @@ const App = () => {
         <DialogContent>
           <DialogContentText>
             {`Deseja apagar todos os hinos baixados? ${
-              length === 1 ? 'É 1 hino.' : `São ${length} hinos.`
+              length < 2 ? `É ${length} hino.` : `São ${length} hinos.`
             }`}
           </DialogContentText>
         </DialogContent>
