@@ -1,4 +1,5 @@
-import { forwardRef, useState } from 'react';
+import { forwardRef, useEffect, useState } from 'react';
+import localforage from '../../Show/Loader/storage';
 import { makeStyles } from '@material-ui/core/styles';
 import Button from '@material-ui/core/Button';
 import Dialog from '@material-ui/core/Dialog';
@@ -7,16 +8,7 @@ import DialogContent from '@material-ui/core/DialogContent';
 import DialogContentText from '@material-ui/core/DialogContentText';
 import DialogTitle from '@material-ui/core/DialogTitle';
 import Grid from '@material-ui/core/Grid';
-import ListItemText from '@material-ui/core/ListItemText';
-import ListItem from '@material-ui/core/ListItem';
-import List from '@material-ui/core/List';
 import Link from '@material-ui/core/Link';
-import Divider from '@material-ui/core/Divider';
-import AppBar from '@material-ui/core/AppBar';
-import Toolbar from '@material-ui/core/Toolbar';
-import IconButton from '@material-ui/core/IconButton';
-import Typography from '@material-ui/core/Typography';
-import CloseIcon from '@material-ui/icons/Close';
 import Slide from '@material-ui/core/Slide';
 
 const Transition = forwardRef((props, ref) => {
@@ -34,7 +26,14 @@ const useStyles = makeStyles((theme) => ({
 
 const App = () => {
   const [openAbout, setOpenAbout] = useState(false);
+  const [length, setLength] = useState(0);
   const [openOptions, setOpenOptions] = useState(false);
+
+  useEffect(() => {
+    localforage.length().then((number) => {
+      setLength(number);
+    });
+  }, [length]);
 
   const handleClickOpenAbout = () => {
     setOpenAbout(true);
@@ -49,6 +48,11 @@ const App = () => {
   };
 
   const handleCloseOptions = () => {
+    setOpenOptions(false);
+  };
+
+  const deleteAll = async () => {
+    await localforage.clear();
     setOpenOptions(false);
   };
 
@@ -72,7 +76,7 @@ const App = () => {
             color='primary'
             onClick={handleClickOpenOptions}
             fullWidth>
-            Opções
+            Limpar
           </Button>
         </Grid>
       </Grid>
@@ -97,40 +101,25 @@ const App = () => {
         </DialogActions>
       </Dialog>
       <Dialog
-        fullScreen
         open={openOptions}
         onClose={handleCloseOptions}
         TransitionComponent={Transition}>
-        <AppBar className={classes.appBar}>
-          <Toolbar>
-            <IconButton
-              edge='start'
-              color='inherit'
-              onClick={handleCloseOptions}>
-              <CloseIcon />
-            </IconButton>
-            <Typography variant='h6'>Opções</Typography>
-          </Toolbar>
-        </AppBar>
-        <List>
-          <ListItem button>
-            <ListItemText
-              primary='Favoritos'
-              secondary='Remove todos os favoritos salvos'
-            />
-          </ListItem>
-          <Divider />
-          <ListItem button>
-            <ListItemText
-              primary='Arquivos'
-              secondary='Remove todos os hinos baixados'
-            />
-          </ListItem>
-          <Divider />
-          <ListItem button>
-            <ListItemText primary='Tudo' secondary='Remove todos os dados' />
-          </ListItem>
-        </List>
+        <DialogTitle>Limpar</DialogTitle>
+        <DialogContent>
+          <DialogContentText>
+            {`Deseja apagar todos os hinos baixados? ${
+              length === 1 ? 'É 1 hino.' : `São ${length} hinos.`
+            }`}
+          </DialogContentText>
+        </DialogContent>
+        <DialogActions>
+          <Button onClick={deleteAll} color='secondary'>
+            Apagar
+          </Button>
+          <Button autoFocus onClick={handleCloseOptions} color='primary'>
+            Cancelar
+          </Button>
+        </DialogActions>
       </Dialog>
     </div>
   );
