@@ -22,7 +22,6 @@ const useStyles = makeStyles((theme) => ({
   action: {
     marginTop: theme.spacing(5)
   },
-
   caption: {
     marginBottom: theme.spacing(2)
   }
