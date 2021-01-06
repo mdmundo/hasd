@@ -22,9 +22,7 @@ const useStyles = makeStyles((theme) => ({
   action: {
     marginTop: theme.spacing(5)
   },
-  text: {
-    marginBottom: theme.spacing(0.5)
-  },
+
   caption: {
     marginBottom: theme.spacing(2)
   }
@@ -102,7 +100,7 @@ const App = () => {
             {`${state.hymn.number} | ${hymn.attributes.title}`}
           </Typography>
           {hymn.text[current].text.split('\n').map((str, index) => (
-            <Typography className={classes.text} key={index} variant='h4'>
+            <Typography key={index} variant='body1'>
               {str}
             </Typography>
           ))}
