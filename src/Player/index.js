@@ -1,5 +1,5 @@
 import { useContext } from 'react';
-import ReactAudioPlayer from 'react-audio-player';
+import ReactPlayer from 'react-player';
 import { convert } from './timer';
 import context from '../context';
 
@@ -10,7 +10,7 @@ const App = () => {
     dispatch({
       type: 'UPDATE',
       update: {
-        timer: convert(time)
+        timer: convert(time.playedSeconds)
       }
     });
   };
@@ -27,15 +27,15 @@ const App = () => {
   };
 
   return (
-    <div>
-      <ReactAudioPlayer
-        src={state.hymnURI}
-        autoPlay
-        listenInterval={50}
-        onListen={onEverySec}
-        onEnded={onFinished}
-      />
-    </div>
+    <ReactPlayer
+      width={0}
+      height={0}
+      playing
+      url={state.hymnURI}
+      progressInterval={50}
+      onProgress={onEverySec}
+      onEnded={onFinished}
+    />
   );
 };
 
