@@ -61,7 +61,7 @@ const App = () => {
   return (
     <form className={classes.form} onSubmit={onSubmit} noValidate>
       <Autocomplete
-        value={options[number - 1]}
+        value={hymns[number - 1]}
         onChange={(e, value) => setNumber(value.number)}
         inputValue={input}
         onInputChange={(e, value) => setInput(value)}

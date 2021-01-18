@@ -11,6 +11,7 @@ import FavoriteIcon from '@material-ui/icons/Favorite';
 import Tooltip from '@material-ui/core/Tooltip';
 import context from '../../context';
 import hymns from './hymns';
+import { setFavorite } from './favorites';
 
 const useStyles = makeStyles((theme) => ({
   title: {
@@ -61,6 +62,10 @@ const App = () => {
         finished: true
       }
     });
+  };
+
+  const onFavorite = async () => {
+    await setFavorite(state.hymn.number);
   };
 
   const classes = useStyles();
@@ -123,7 +128,7 @@ const App = () => {
           </IconButton>
         </Tooltip>
         <Tooltip title='Favoritar'>
-          <IconButton disabled className={classes.favorite}>
+          <IconButton className={classes.favorite} onClick={onFavorite}>
             <FavoriteIcon />
           </IconButton>
         </Tooltip>
