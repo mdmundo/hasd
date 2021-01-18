@@ -7,6 +7,7 @@ Known issue: Talvez tenham alguns caracteres desconhecidos, alguns já foram cor
     \u0094 -> \u201d
     \u201c\u0027\u0027 -> \u201c
     \u0027\u0027\u201d -> \u201d
+    \u0027\u0027 -> \u201c or \u201d
 
 react-player
   autoplay compatibility
