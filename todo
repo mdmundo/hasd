@@ -8,6 +8,7 @@ Known issue: Talvez tenham alguns caracteres desconhecidos, alguns já foram cor
     \u201c\u0027\u0027 -> \u201c
     \u0027\u0027\u201d -> \u201d
     \u0027\u0027 -> \u201c or \u201d
+    \u0027 -> \u2018 or \u2019
 
 react-player
   autoplay compatibility
