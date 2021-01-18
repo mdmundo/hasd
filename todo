@@ -1,7 +1,11 @@
 add favorites
-progress
+minimum height
+back button color
+
 
 Done:
+- progress
+
 - react-player
 
 - Known issue: Talvez tenham alguns caracteres desconhecidos, alguns já foram corrigidos.

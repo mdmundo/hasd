@@ -10,7 +10,8 @@ const App = () => {
     dispatch({
       type: 'UPDATE',
       update: {
-        timer: convert(time.playedSeconds)
+        timer: convert(time.playedSeconds),
+        playedProgress: time.played * 100
       }
     });
   };

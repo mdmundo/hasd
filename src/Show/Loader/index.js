@@ -59,12 +59,12 @@ const App = () => {
         <CircularProgress
           className={classes.progress}
           variant={
-            state.progress === 0 || state.progress === 100
+            state.downloadProgress === 0 || state.downloadProgress === 100
               ? 'indeterminate'
               : 'determinate'
           }
           size='3.5rem'
-          value={state.progress}
+          value={state.downloadProgress}
         />
       </CardContent>
     </Card>

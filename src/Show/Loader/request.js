@@ -10,7 +10,8 @@ const request = async (path, dispatch) => {
           dispatch({
             type: 'UPDATE',
             update: {
-              progress: (progressEvent.loaded * 100) / progressEvent.total
+              downloadProgress:
+                (progressEvent.loaded * 100) / progressEvent.total
             }
           });
         }

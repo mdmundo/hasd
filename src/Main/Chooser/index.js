@@ -35,7 +35,7 @@ const App = () => {
       update: {
         hymn: { sung, number },
         timer: '0:00',
-        progress: 0,
+        downloadProgress: 0,
         finished: false
       }
     });

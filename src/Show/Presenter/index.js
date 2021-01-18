@@ -1,4 +1,5 @@
 import { useContext, useState, useEffect } from 'react';
+import LinearProgress from '@material-ui/core/LinearProgress';
 import Typography from '@material-ui/core/Typography';
 import { makeStyles } from '@material-ui/core/styles';
 import Card from '@material-ui/core/Card';
@@ -57,6 +58,7 @@ const App = () => {
 
   return (
     <Card>
+      <LinearProgress variant='determinate' value={state.playedProgress} />
       {current < 0 ? (
         <CardContent>
           <Typography
