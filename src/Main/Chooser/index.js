@@ -1,13 +1,13 @@
-import { useState, useContext } from 'react';
+import { useState, useContext, useEffect } from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import Button from '@material-ui/core/Button';
 import TextField from '@material-ui/core/TextField';
 import Autocomplete from '@material-ui/lab/Autocomplete';
-import options from './options.json';
-import context from '../../context';
-
 import FormControlLabel from '@material-ui/core/FormControlLabel';
 import Checkbox from '@material-ui/core/Checkbox';
+import hymns from './options.json';
+import context from '../../context';
+import { getFavorites } from './favorites';
 
 const useStyles = makeStyles((theme) => ({
   form: {
@@ -24,6 +24,7 @@ const App = () => {
   const [input, setInput] = useState('');
   const [number, setNumber] = useState(state.hymn.number);
   const [sung, setSung] = useState(state.hymn.sung);
+  const [options, setOptions] = useState(hymns);
 
   const onSubmit = (e) => {
     e.preventDefault();
@@ -40,6 +41,20 @@ const App = () => {
       }
     });
   };
+
+  useEffect(() => {
+    getFavorites().then((favorites) => {
+      const favoritesToOptions = favorites.map((favorite) => {
+        const option = hymns[favorite - 1];
+
+        return { ...option, category: 'Favoritos' };
+      });
+
+      const favoritesPlusHymns = favoritesToOptions.concat(hymns);
+
+      setOptions(favoritesPlusHymns);
+    });
+  }, []);
 
   const classes = useStyles();
 
