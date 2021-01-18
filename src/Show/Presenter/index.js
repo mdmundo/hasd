@@ -5,7 +5,10 @@ import { makeStyles } from '@material-ui/core/styles';
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
 import CardActions from '@material-ui/core/CardActions';
-import Button from '@material-ui/core/Button';
+import IconButton from '@material-ui/core/IconButton';
+import ArrowBackIcon from '@material-ui/icons/ArrowBack';
+import FavoriteIcon from '@material-ui/icons/Favorite';
+import Tooltip from '@material-ui/core/Tooltip';
 import context from '../../context';
 import hymns from './hymns';
 
@@ -25,6 +28,12 @@ const useStyles = makeStyles((theme) => ({
   },
   caption: {
     marginBottom: theme.spacing(2)
+  },
+  favorite: {
+    marginLeft: 'auto'
+  },
+  content: {
+    minHeight: theme.spacing(40)
   }
 }));
 
@@ -60,7 +69,7 @@ const App = () => {
     <Card>
       <LinearProgress variant='determinate' value={state.playedProgress} />
       {current < 0 ? (
-        <CardContent>
+        <CardContent className={classes.content}>
           <Typography
             variant='caption'
             display='block'
@@ -90,7 +99,7 @@ const App = () => {
           </Typography>
         </CardContent>
       ) : (
-        <CardContent>
+        <CardContent className={classes.content}>
           <Typography
             className={classes.caption}
             variant='caption'
@@ -107,10 +116,17 @@ const App = () => {
           ))}
         </CardContent>
       )}
-      <CardActions className={classes.action}>
-        <Button size='small' onClick={onFinished}>
-          Voltar
-        </Button>
+      <CardActions disableSpacing className={classes.action}>
+        <Tooltip title='Voltar'>
+          <IconButton onClick={onFinished}>
+            <ArrowBackIcon />
+          </IconButton>
+        </Tooltip>
+        <Tooltip title='Favoritar'>
+          <IconButton disabled className={classes.favorite}>
+            <FavoriteIcon />
+          </IconButton>
+        </Tooltip>
       </CardActions>
     </Card>
   );
