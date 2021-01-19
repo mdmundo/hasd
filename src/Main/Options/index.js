@@ -1,5 +1,5 @@
 import { forwardRef, useEffect, useState } from 'react';
-import localforage from '../../Show/Loader/storage';
+import { hymnal, favorites } from '../../storage';
 import { makeStyles } from '@material-ui/core/styles';
 import Button from '@material-ui/core/Button';
 import Dialog from '@material-ui/core/Dialog';
@@ -26,14 +26,21 @@ const useStyles = makeStyles((theme) => ({
 
 const App = () => {
   const [openAbout, setOpenAbout] = useState(false);
-  const [length, setLength] = useState(0);
+  const [hymnalLength, setHymnalLength] = useState(0);
+  const [favoritesLength, setFavoritesLength] = useState(0);
   const [openOptions, setOpenOptions] = useState(false);
 
   useEffect(() => {
-    localforage.length().then((number) => {
-      setLength(number);
+    hymnal.length().then((number) => {
+      setHymnalLength(number);
     });
-  }, [length]);
+  }, [hymnalLength]);
+
+  useEffect(() => {
+    favorites.length().then((number) => {
+      setFavoritesLength(number);
+    });
+  }, [favoritesLength]);
 
   const handleClickOpenAbout = () => {
     setOpenAbout(true);
@@ -52,9 +59,11 @@ const App = () => {
   };
 
   const deleteAll = async () => {
-    await localforage.clear();
+    await hymnal.clear();
+    await favorites.clear();
     setOpenOptions(false);
-    setLength(0);
+    setHymnalLength(0);
+    setFavoritesLength(0);
   };
 
   const classes = useStyles();
@@ -73,7 +82,7 @@ const App = () => {
         </Grid>
         <Grid item xs={4}>
           <Button
-            disabled={length === 0}
+            disabled={hymnalLength === 0 && favoritesLength === 0}
             variant='outlined'
             color='primary'
             onClick={handleClickOpenOptions}
@@ -109,9 +118,15 @@ const App = () => {
         <DialogTitle>Limpar</DialogTitle>
         <DialogContent>
           <DialogContentText>
-            {`Deseja apagar todos os hinos baixados? ${
-              length < 2 ? `É ${length} hino.` : `São ${length} hinos.`
-            }`}
+            {`Deseja apagar todos os hinos baixados e todos os favoritos salvos? ${hymnalLength} ${
+              hymnalLength < 2 ? 'hino' : 'hinos'
+            } e ${favoritesLength} ${
+              favoritesLength < 2 ? 'favorito' : 'favoritos'
+            } ${
+              favoritesLength + hymnalLength < 2
+                ? 'será apagado'
+                : 'serão apagados'
+            }.`}
           </DialogContentText>
         </DialogContent>
         <DialogActions>

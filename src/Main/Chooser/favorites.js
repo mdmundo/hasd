@@ -1,7 +1,7 @@
-import localforage from '../../favorites-storage';
+import { favorites as storage } from '../../storage';
 
 export const getFavorites = async () => {
-  const favorites = await localforage.getItem('favorites');
+  const favorites = await storage.getItem('favorites');
 
   return favorites || [];
 };
