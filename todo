@@ -1,8 +1,5 @@
-add favorites
-  unique:
-    Array.from(new Set([1,1,1,1,1,1,1,1,1,1,11]))
-
 Done:
+- favorites
 - minimum height
 - back button color
 - progress
