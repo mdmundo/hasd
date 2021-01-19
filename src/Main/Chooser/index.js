@@ -7,7 +7,7 @@ import FormControlLabel from '@material-ui/core/FormControlLabel';
 import Checkbox from '@material-ui/core/Checkbox';
 import hymns from './options.json';
 import context from '../../context';
-import { getFavorites } from './favorites';
+import { getFavorites } from '../../favorites';
 
 const useStyles = makeStyles((theme) => ({
   form: {

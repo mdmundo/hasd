@@ -1,4 +1,4 @@
-import { favorites as storage } from '../../storage';
+import { favorites as storage } from './storage';
 
 export const setFavorite = async (newFavorite) => {
   const favorites = await storage.getItem('favorites');
@@ -9,4 +9,10 @@ export const setFavorite = async (newFavorite) => {
   } else {
     await storage.setItem('favorites', [newFavorite]);
   }
+};
+
+export const getFavorites = async () => {
+  const favorites = await storage.getItem('favorites');
+
+  return favorites || [];
 };
