@@ -135,7 +135,7 @@ const App = () => {
             <ArrowBackIcon />
           </IconButton>
         </Tooltip>
-        <Tooltip title='Favoritar'>
+        <Tooltip title={isFavorite ? 'Desfavoritar' : 'Favoritar'}>
           <IconButton
             className={classes.favorite}
             onClick={onFavorite}
