@@ -1,13 +1,20 @@
 import { favorites as storage } from './storage';
 
-export const setFavorite = async (newFavorite) => {
+export const setFavorite = async (item, isFavorite) => {
   const favorites = await storage.getItem('favorites');
 
-  if (favorites !== null && Array.isArray(favorites)) {
-    favorites.push(newFavorite);
-    await storage.setItem('favorites', Array.from(new Set(favorites)));
+  if (isFavorite) {
+    await storage.setItem(
+      'favorites',
+      favorites.filter((favorite) => favorite !== item)
+    );
   } else {
-    await storage.setItem('favorites', [newFavorite]);
+    if (favorites !== null && Array.isArray(favorites)) {
+      favorites.push(item);
+      await storage.setItem('favorites', Array.from(new Set(favorites)));
+    } else {
+      await storage.setItem('favorites', [item]);
+    }
   }
 };
 

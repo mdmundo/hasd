@@ -72,8 +72,8 @@ const App = () => {
   };
 
   const onFavorite = async () => {
-    await setFavorite(state.hymn.number);
-    setIsFavorite(true);
+    await setFavorite(state.hymn.number, isFavorite);
+    setIsFavorite(!isFavorite);
   };
 
   const classes = useStyles();
