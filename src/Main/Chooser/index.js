@@ -37,7 +37,8 @@ const App = () => {
         hymn: { sung, number },
         timer: '0:00',
         downloadProgress: 0,
-        finished: false
+        finished: false,
+        play: true
       }
     });
   };

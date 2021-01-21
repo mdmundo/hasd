@@ -5,8 +5,11 @@ import { makeStyles } from '@material-ui/core/styles';
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
 import CardActions from '@material-ui/core/CardActions';
+import Grid from '@material-ui/core/Grid';
 import IconButton from '@material-ui/core/IconButton';
 import ArrowBackIcon from '@material-ui/icons/ArrowBack';
+import PlayArrowIcon from '@material-ui/icons/PlayArrow';
+import PauseIcon from '@material-ui/icons/Pause';
 import FavoriteIcon from '@material-ui/icons/Favorite';
 import Tooltip from '@material-ui/core/Tooltip';
 import context from '../../context';
@@ -29,9 +32,6 @@ const useStyles = makeStyles((theme) => ({
   },
   caption: {
     marginBottom: theme.spacing(2)
-  },
-  favorite: {
-    marginLeft: 'auto'
   },
   content: {
     minHeight: theme.spacing(40)
@@ -74,6 +74,15 @@ const App = () => {
   const onFavorite = async () => {
     await setFavorite(state.hymn.number, isFavorite);
     setIsFavorite(!isFavorite);
+  };
+
+  const onPlayPause = () => {
+    dispatch({
+      type: 'UPDATE',
+      update: {
+        play: !state.play
+      }
+    });
   };
 
   const classes = useStyles();
@@ -130,19 +139,33 @@ const App = () => {
         </CardContent>
       )}
       <CardActions disableSpacing className={classes.action}>
-        <Tooltip title='Voltar'>
-          <IconButton onClick={onFinished}>
-            <ArrowBackIcon />
-          </IconButton>
-        </Tooltip>
-        <Tooltip title={isFavorite ? 'Desfavoritar' : 'Favoritar'}>
-          <IconButton
-            className={classes.favorite}
-            onClick={onFavorite}
-            color={isFavorite ? 'primary' : 'default'}>
-            <FavoriteIcon />
-          </IconButton>
-        </Tooltip>
+        <Grid
+          container
+          direction='row'
+          justify='space-between'
+          alignItems='center'>
+          <Tooltip title='Voltar'>
+            <IconButton onClick={onFinished}>
+              <ArrowBackIcon />
+            </IconButton>
+          </Tooltip>
+          <Tooltip title={state.play ? 'Pausar' : 'Reproduzir'}>
+            <IconButton onClick={onPlayPause}>
+              {state.play ? (
+                <PauseIcon fontSize='large' />
+              ) : (
+                <PlayArrowIcon fontSize='large' />
+              )}
+            </IconButton>
+          </Tooltip>
+          <Tooltip title={isFavorite ? 'Desfavoritar' : 'Favoritar'}>
+            <IconButton
+              onClick={onFavorite}
+              color={isFavorite ? 'primary' : 'default'}>
+              <FavoriteIcon />
+            </IconButton>
+          </Tooltip>
+        </Grid>
       </CardActions>
     </Card>
   );

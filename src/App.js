@@ -14,7 +14,7 @@ import reducer from './reducer';
 const Copyright = () => {
   return (
     <Typography variant='body2' color='textSecondary' align='center'>
-      {'Created by '}
+      {'Criado por '}
       <Link color='inherit' href='https://github.com/mdmundo'>
         Edmundo Paulino
       </Link>
@@ -52,7 +52,8 @@ const App = () => {
     playedProgress: 0,
     downloadProgress: 0,
     hymnURI: '',
-    error: false
+    error: false,
+    play: true
   };
 
   const [state, dispatch] = useReducer(reducer, defaultState);
