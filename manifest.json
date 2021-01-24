@@ -1,24 +1,74 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "HASD",
+  "name": "Hinário Adventista do Sétimo Dia",
+  "description": "Hinário Adventista do Sétimo Dia",
+  "orientation": "portrait",
+  "screenshots": [
+    {
+      "src": "screenshot-1.png",
+      "sizes": "1366x768",
+      "type": "image/png"
+    },
+    {
+      "src": "screenshot-2.png",
+      "sizes": "1366x768",
+      "type": "image/png"
+    },
+    {
+      "src": "screenshot-3.png",
+      "sizes": "1366x768",
+      "type": "image/png"
+    },
+    {
+      "src": "screenshot-4.png",
+      "sizes": "1366x768",
+      "type": "image/png"
+    },
+    {
+      "src": "screenshot-5.png",
+      "sizes": "1366x768",
+      "type": "image/png"
+    },
+    {
+      "src": "screenshot-6.png",
+      "sizes": "1366x768",
+      "type": "image/png"
+    }
+  ],
   "icons": [
     {
       "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "sizes": "75x75",
+      "type": "image/x-icon",
+      "purpose": "any"
     },
     {
       "src": "logo192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+      "purpose": "any"
     },
     {
       "src": "logo512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "maskable.png",
+      "type": "image/png",
+      "sizes": "125x125",
+      "purpose": "maskable"
     }
   ],
+  "categories": ["music", "religious", "hymns"],
   "start_url": ".",
+  "shortcuts": [
+    {
+      "name": "Abrir Hinário",
+      "url": "."
+    }
+  ],
   "display": "standalone",
   "theme_color": "#3f51b5",
   "background_color": "#ffffff"
