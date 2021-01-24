@@ -144,12 +144,12 @@ const App = () => {
           direction='row'
           justify='space-between'
           alignItems='center'>
-          <Tooltip title='Voltar'>
+          <Tooltip title='Voltar' placement="top-start">
             <IconButton onClick={onFinished}>
               <ArrowBackIcon />
             </IconButton>
           </Tooltip>
-          <Tooltip title={state.play ? 'Pausar' : 'Reproduzir'}>
+          <Tooltip title={state.play ? 'Pausar' : 'Reproduzir'} placement="top">
             <IconButton onClick={onPlayPause}>
               {state.play ? (
                 <PauseIcon fontSize='large' />
@@ -158,7 +158,7 @@ const App = () => {
               )}
             </IconButton>
           </Tooltip>
-          <Tooltip title={isFavorite ? 'Desfavoritar' : 'Favoritar'}>
+          <Tooltip title={isFavorite ? 'Desfavoritar' : 'Favoritar'} placement="top-end">
             <IconButton
               onClick={onFavorite}
               color={isFavorite ? 'primary' : 'default'}>
