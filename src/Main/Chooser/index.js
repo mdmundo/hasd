@@ -3,16 +3,18 @@ import { makeStyles } from '@material-ui/core/styles';
 import Button from '@material-ui/core/Button';
 import TextField from '@material-ui/core/TextField';
 import Autocomplete from '@material-ui/lab/Autocomplete';
-import FormControlLabel from '@material-ui/core/FormControlLabel';
-import Checkbox from '@material-ui/core/Checkbox';
 import hymns from './options.json';
 import context from '../../context';
 import { getFavorites } from '../../favorites';
+import ButtonGroup from '@material-ui/core/ButtonGroup';
+import Grid from '@material-ui/core/Grid';
+import Tooltip from '@material-ui/core/Tooltip';
 
 const useStyles = makeStyles((theme) => ({
   form: {
     width: '100%', // Fix IE 11 issue.
-    marginTop: theme.spacing(1)
+    marginTop: theme.spacing(1),
+    paddingBottom: theme.spacing(3)
   },
   auto: {
     paddingBottom: theme.spacing(2)
@@ -22,23 +24,24 @@ const useStyles = makeStyles((theme) => ({
 const App = () => {
   const { state, dispatch } = useContext(context);
   const [input, setInput] = useState('');
-  const [number, setNumber] = useState(state.hymn.number);
-  const [sung, setSung] = useState(state.hymn.sung);
+  const [hymn, setHymn] = useState(state.hymn);
+  const [mode, setMode] = useState(state.mode);
   const [options, setOptions] = useState(hymns);
 
   const onSubmit = (e) => {
     e.preventDefault();
 
-    if (isNaN(number) || parseInt(number) < 1 || parseInt(number) > 613) return;
+    if (isNaN(hymn) || parseInt(hymn) < 1 || parseInt(hymn) > 613) return;
 
     dispatch({
       type: 'UPDATE',
       update: {
-        hymn: { sung, number },
+        hymn,
         timer: '0:00',
         downloadProgress: 0,
         finished: false,
-        play: true
+        play: mode !== 'lyrics',
+        mode
       }
     });
   };
@@ -62,8 +65,8 @@ const App = () => {
   return (
     <form className={classes.form} onSubmit={onSubmit} noValidate>
       <Autocomplete
-        value={hymns[number - 1]}
-        onChange={(e, value) => setNumber(value.number)}
+        value={hymns[hymn - 1]}
+        onChange={(e, value) => setHymn(value.number)}
         inputValue={input}
         onInputChange={(e, value) => setInput(value)}
         autoHighlight
@@ -81,26 +84,53 @@ const App = () => {
           <TextField {...params} label='Selecione o Hino' variant='outlined' />
         )}
       />
-
-      <Button
-        type='submit'
-        fullWidth
-        variant='contained'
-        color='primary'
-        className={classes.submit}>
-        Tocar Hino
-      </Button>
-      <FormControlLabel
-        control={
-          <Checkbox
-            checked={sung}
-            onChange={(e) => setSung(e.target.checked)}
-            name='Sung'
+      <Grid container spacing={1}>
+        <Grid item xs={6}>
+          <ButtonGroup
+            variant='outlined'
             color='primary'
-          />
-        }
-        label='Cantado'
-      />
+            fullWidth
+            disableElevation>
+            <Tooltip title='Cantado'>
+              <Button
+                variant={mode === 'sung' ? 'contained' : 'outlined'}
+                onClick={() => {
+                  setMode('sung');
+                }}>
+                C
+              </Button>
+            </Tooltip>
+            <Tooltip title='Instrumental'>
+              <Button
+                variant={mode === 'instrumental' ? 'contained' : 'outlined'}
+                onClick={() => {
+                  setMode('instrumental');
+                }}>
+                I
+              </Button>
+            </Tooltip>
+            <Tooltip title='Letra'>
+              <Button
+                variant={mode === 'lyrics' ? 'contained' : 'outlined'}
+                onClick={() => {
+                  setMode('lyrics');
+                }}>
+                L
+              </Button>
+            </Tooltip>
+          </ButtonGroup>
+        </Grid>
+        <Grid item xs={6}>
+          <Button
+            type='submit'
+            fullWidth
+            variant='contained'
+            color='primary'
+            className={classes.submit}>
+            {mode !== 'lyrics' ? 'Tocar Hino' : 'Ver Letra'}
+          </Button>
+        </Grid>
+      </Grid>
     </form>
   );
 };

@@ -12,6 +12,7 @@ import PlayArrowIcon from '@material-ui/icons/PlayArrow';
 import PauseIcon from '@material-ui/icons/Pause';
 import FavoriteIcon from '@material-ui/icons/Favorite';
 import Tooltip from '@material-ui/core/Tooltip';
+import Lyrics from './Lyrics';
 import context from '../../context';
 import hymns from './hymns';
 import { setFavorite, getFavorites } from '../../favorites';
@@ -41,7 +42,7 @@ const useStyles = makeStyles((theme) => ({
 const App = () => {
   const { state, dispatch } = useContext(context);
 
-  const hymn = hymns[state.hymn.number - 1];
+  const hymn = hymns[state.hymn - 1];
 
   const [nextUpdate, setNextUpdate] = useState(0);
   const [current, setCurrent] = useState(-1);
@@ -49,9 +50,9 @@ const App = () => {
 
   useEffect(() => {
     getFavorites().then((favorites) => {
-      setIsFavorite(favorites.includes(state.hymn.number));
+      setIsFavorite(favorites.includes(state.hymn));
     });
-  }, [state.hymn.number]);
+  }, [state.hymn]);
 
   useEffect(() => {
     if (hymn.text[nextUpdate]?.show === state.timer) {
@@ -72,7 +73,7 @@ const App = () => {
   };
 
   const onFavorite = async () => {
-    await setFavorite(state.hymn.number, isFavorite);
+    await setFavorite(state.hymn, isFavorite);
     setIsFavorite(!isFavorite);
   };
 
@@ -98,7 +99,7 @@ const App = () => {
             color='textSecondary'
             align='center'
             gutterBottom>
-            {state.hymn.number}
+            {state.hymn}
           </Typography>
           <Typography className={classes.title} variant='h3' align='center'>
             {hymn.attributes.title}
@@ -129,7 +130,7 @@ const App = () => {
             color='textSecondary'
             align='right'
             gutterBottom>
-            {`${state.hymn.number} | ${hymn.attributes.title}`}
+            {`${state.hymn} | ${hymn.attributes.title}`}
           </Typography>
           {hymn.text[current].text.split('\n').map((str, index) => (
             <Typography key={index} variant='body1'>
@@ -144,12 +145,12 @@ const App = () => {
           direction='row'
           justify='space-between'
           alignItems='center'>
-          <Tooltip title='Voltar' placement="top-start">
+          <Tooltip title='Voltar' placement='top-start'>
             <IconButton onClick={onFinished}>
               <ArrowBackIcon />
             </IconButton>
           </Tooltip>
-          <Tooltip title={state.play ? 'Pausar' : 'Reproduzir'} placement="top">
+          <Tooltip title={state.play ? 'Pausar' : 'Reproduzir'} placement='top'>
             <IconButton onClick={onPlayPause}>
               {state.play ? (
                 <PauseIcon fontSize='large' />
@@ -158,7 +159,9 @@ const App = () => {
               )}
             </IconButton>
           </Tooltip>
-          <Tooltip title={isFavorite ? 'Desfavoritar' : 'Favoritar'} placement="top-end">
+          <Tooltip
+            title={isFavorite ? 'Desfavoritar' : 'Favoritar'}
+            placement='top-end'>
             <IconButton
               onClick={onFavorite}
               color={isFavorite ? 'primary' : 'default'}>
@@ -171,4 +174,4 @@ const App = () => {
   );
 };
 
-export default App;
+export { App as default, Lyrics };

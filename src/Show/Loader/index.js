@@ -20,7 +20,7 @@ const useStyles = makeStyles((theme) => ({
 
 const App = () => {
   const { state, dispatch } = useContext(context);
-  const path = getPath(state.hymn);
+  const path = getPath(state);
 
   useEffect(() => {
     getHymn(path, dispatch).then((hymnURI) => {

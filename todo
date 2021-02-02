@@ -4,6 +4,7 @@ Done:
 - back button color
 - progress
 - react-player
+refac: state: { hymn: { number, sung }, lyrics } => state: { hymn, mode }
 
 - Known issue: Talvez tenham alguns caracteres desconhecidos, alguns já foram corrigidos.
     Corrigidos:

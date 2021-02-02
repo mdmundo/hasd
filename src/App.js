@@ -46,14 +46,15 @@ const useStyles = makeStyles((theme) => ({
 
 const App = () => {
   const defaultState = {
-    hymn: { sung: true, number: 1 },
+    hymn: 1,
     timer: '0:00',
     finished: true,
     playedProgress: 0,
     downloadProgress: 0,
     hymnURI: '',
     error: false,
-    play: true
+    play: true,
+    mode: 'sung'
   };
 
   const [state, dispatch] = useReducer(reducer, defaultState);
