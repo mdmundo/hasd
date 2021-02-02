@@ -28,6 +28,7 @@ const App = () => {
         dispatch({
           type: 'UPDATE',
           update: {
+            play: true,
             hymnURI
           }
         });

@@ -44,7 +44,8 @@ const App = () => {
         timer: '0:00',
         downloadProgress: 0,
         finished: false,
-        play: mode !== 'lyrics',
+        play: false,
+        hymnURI: '',
         mode
       }
     });
