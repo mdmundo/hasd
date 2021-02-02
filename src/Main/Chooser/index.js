@@ -3,12 +3,16 @@ import { makeStyles } from '@material-ui/core/styles';
 import Button from '@material-ui/core/Button';
 import TextField from '@material-ui/core/TextField';
 import Autocomplete from '@material-ui/lab/Autocomplete';
-import hymns from './options.json';
-import context from '../../context';
-import { getFavorites } from '../../favorites';
 import ButtonGroup from '@material-ui/core/ButtonGroup';
 import Grid from '@material-ui/core/Grid';
 import Tooltip from '@material-ui/core/Tooltip';
+import IconButton from '@material-ui/core/IconButton';
+import MusicOffIcon from '@material-ui/icons/MusicOff';
+import MusicNoteIcon from '@material-ui/icons/MusicNote';
+import InstrumentalIcon from './InstrumentalIcon';
+import hymns from './options.json';
+import context from '../../context';
+import { getFavorites } from '../../favorites';
 
 const useStyles = makeStyles((theme) => ({
   form: {
@@ -84,41 +88,44 @@ const App = () => {
           <TextField {...params} label='Selecione o Hino' variant='outlined' />
         )}
       />
-      <Grid container spacing={1}>
-        <Grid item xs={6}>
-          <ButtonGroup
-            variant='outlined'
-            color='primary'
-            fullWidth
-            disableElevation>
-            <Tooltip title='Cantado'>
-              <Button
-                variant={mode === 'sung' ? 'contained' : 'outlined'}
-                onClick={() => {
-                  setMode('sung');
-                }}>
-                C
-              </Button>
-            </Tooltip>
-            <Tooltip title='Instrumental'>
-              <Button
-                variant={mode === 'instrumental' ? 'contained' : 'outlined'}
-                onClick={() => {
-                  setMode('instrumental');
-                }}>
-                I
-              </Button>
-            </Tooltip>
-            <Tooltip title='Letra'>
-              <Button
-                variant={mode === 'lyrics' ? 'contained' : 'outlined'}
-                onClick={() => {
-                  setMode('lyrics');
-                }}>
-                L
-              </Button>
-            </Tooltip>
-          </ButtonGroup>
+      <Grid
+        container
+        direction='row'
+        justify='space-around'
+        alignItems='center'
+        spacing={1}>
+        <Grid item xs={2}>
+          <Tooltip title='Cantado'>
+            <IconButton
+              color={mode === 'sung' ? 'primary' : 'textSecondary'}
+              onClick={() => {
+                setMode('sung');
+              }}>
+              <MusicNoteIcon />
+            </IconButton>
+          </Tooltip>
+        </Grid>
+        <Grid item xs={2}>
+          <Tooltip title='Instrumental'>
+            <IconButton
+              color={mode === 'instrumental' ? 'primary' : 'textSecondary'}
+              onClick={() => {
+                setMode('instrumental');
+              }}>
+              <InstrumentalIcon />
+            </IconButton>
+          </Tooltip>
+        </Grid>
+        <Grid item xs={2}>
+          <Tooltip title='Letra'>
+            <IconButton
+              color={mode === 'lyrics' ? 'primary' : 'textSecondary'}
+              onClick={() => {
+                setMode('lyrics');
+              }}>
+              <MusicOffIcon />
+            </IconButton>
+          </Tooltip>
         </Grid>
         <Grid item xs={6}>
           <Button
