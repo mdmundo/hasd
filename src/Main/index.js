@@ -5,7 +5,7 @@ const App = () => {
   return (
     <>
       <Chooser />
-      <Options />
+      {/* <Options /> */}
     </>
   );
 };
