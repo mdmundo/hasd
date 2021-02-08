@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/hasd/static/css/main.abaf13fa.chunk.css",
-    "main.js": "/hasd/static/js/main.d21334ab.chunk.js",
-    "main.js.map": "/hasd/static/js/main.d21334ab.chunk.js.map",
+    "main.js": "/hasd/static/js/main.280aaaf8.chunk.js",
+    "main.js.map": "/hasd/static/js/main.280aaaf8.chunk.js.map",
     "runtime-main.js": "/hasd/static/js/runtime-main.db0b3825.js",
     "runtime-main.js.map": "/hasd/static/js/runtime-main.db0b3825.js.map",
-    "static/css/2.4555b9de.chunk.css": "/hasd/static/css/2.4555b9de.chunk.css",
+    "static/css/2.13e251c6.chunk.css": "/hasd/static/css/2.13e251c6.chunk.css",
     "static/js/2.302229d6.chunk.js": "/hasd/static/js/2.302229d6.chunk.js",
     "static/js/2.302229d6.chunk.js.map": "/hasd/static/js/2.302229d6.chunk.js.map",
     "static/js/3.8228f01f.chunk.js": "/hasd/static/js/3.8228f01f.chunk.js",
@@ -13,7 +13,7 @@
     "index.html": "/hasd/index.html",
     "service-worker.js": "/hasd/service-worker.js",
     "service-worker.js.map": "/hasd/service-worker.js.map",
-    "static/css/2.4555b9de.chunk.css.map": "/hasd/static/css/2.4555b9de.chunk.css.map",
+    "static/css/2.13e251c6.chunk.css.map": "/hasd/static/css/2.13e251c6.chunk.css.map",
     "static/css/main.abaf13fa.chunk.css.map": "/hasd/static/css/main.abaf13fa.chunk.css.map",
     "static/js/2.302229d6.chunk.js.LICENSE.txt": "/hasd/static/js/2.302229d6.chunk.js.LICENSE.txt",
     "static/media/300.css": "/hasd/static/media/roboto-vietnamese-300-normal.54344cce.woff2",
@@ -23,9 +23,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.db0b3825.js",
-    "static/css/2.4555b9de.chunk.css",
+    "static/css/2.13e251c6.chunk.css",
     "static/js/2.302229d6.chunk.js",
     "static/css/main.abaf13fa.chunk.css",
-    "static/js/main.d21334ab.chunk.js"
+    "static/js/main.280aaaf8.chunk.js"
   ]
 }
