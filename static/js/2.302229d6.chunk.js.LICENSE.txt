@@ -4,6 +4,8 @@ object-assign
 @license MIT
 */
 
+/* @cc_on!@ */
+
 /**
  * A better abstraction over CSS.
  *
