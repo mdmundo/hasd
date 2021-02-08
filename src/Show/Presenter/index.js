@@ -100,7 +100,7 @@ const App = () => {
           {hymn.text.map((stanza, index) => {
             return (
               <div key={index} className={classes.stanza}>
-                {stanza.text.split('\n').map((str, index) => (
+                {stanza.split('\n').map((str, index) => (
                   <Typography key={index} variant='body1'>
                     {str}
                   </Typography>

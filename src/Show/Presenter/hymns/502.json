@@ -1,21 +1,9 @@
 {
   "text": [
-    {
-      "show": "0:22",
-      "text": "Eu quero ser,\nSenhor amado,\nComo um vaso nas m\u00e3os\ndo oleiro."
-    },
-    {
-      "show": "0:38",
-      "text": "Quebra minha vida\nE faze-a de novo;\nEu quero ser, eu quero ser\nUm vaso novo."
-    },
-    {
-      "show": "1:01",
-      "text": "Faz Teu querer,\nSenhor amado;\n\u00c9s o oleiro e eu\nesse vaso."
-    },
-    {
-      "show": "1:18",
-      "text": "Quebra minha vida\nE faze-a de novo;\nEu quero ser, eu quero ser\nUm vaso novo."
-    }
+    "Eu quero ser,\nSenhor amado,\nComo um vaso nas m\u00e3os\ndo oleiro.",
+    "Quebra minha vida\nE faze-a de novo;\nEu quero ser, eu quero ser\nUm vaso novo.",
+    "Faz Teu querer,\nSenhor amado;\n\u00c9s o oleiro e eu\nesse vaso.",
+    "Quebra minha vida\nE faze-a de novo;\nEu quero ser, eu quero ser\nUm vaso novo."
   ],
   "attributes": {
     "title": "Vaso Novo",

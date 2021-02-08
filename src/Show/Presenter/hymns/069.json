@@ -1,29 +1,11 @@
 {
   "text": [
-    {
-      "show": "0:19",
-      "text": "Cristo j\u00e1 ressuscitou!\nAleluia!\nSobre a morte triunfou!\nAleluia!"
-    },
-    {
-      "show": "0:38",
-      "text": "Tudo consumado est\u00e1!\nAleluia!\nSalva\u00e7\u00e3o de gra\u00e7a d\u00e1!\nAleluia!"
-    },
-    {
-      "show": "0:57",
-      "text": "Gratos hinos entoai!\nAleluia!\nAo Senhor Jesus honrai!\nAleluia!"
-    },
-    {
-      "show": "1:18",
-      "text": "Pois \u00e0 morte quis baixar!\nAleluia!\nPecadores quis salvar!\nAleluia!"
-    },
-    {
-      "show": "1:38",
-      "text": "Uma vez na cruz sofreu!\nAleluia!\nUma vez por n\u00f3s morreu!\nAleluia!"
-    },
-    {
-      "show": "1:57",
-      "text": "Mas agora vivo est\u00e1!\nAleluia!\nE pra sempre reinar\u00e1!\nAleluia!"
-    }
+    "Cristo j\u00e1 ressuscitou!\nAleluia!\nSobre a morte triunfou!\nAleluia!",
+    "Tudo consumado est\u00e1!\nAleluia!\nSalva\u00e7\u00e3o de gra\u00e7a d\u00e1!\nAleluia!",
+    "Gratos hinos entoai!\nAleluia!\nAo Senhor Jesus honrai!\nAleluia!",
+    "Pois \u00e0 morte quis baixar!\nAleluia!\nPecadores quis salvar!\nAleluia!",
+    "Uma vez na cruz sofreu!\nAleluia!\nUma vez por n\u00f3s morreu!\nAleluia!",
+    "Mas agora vivo est\u00e1!\nAleluia!\nE pra sempre reinar\u00e1!\nAleluia!"
   ],
   "attributes": {
     "title": "Cristo J\u00e1 Ressuscitou",

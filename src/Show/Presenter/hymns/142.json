@@ -1,21 +1,9 @@
 {
   "text": [
-    {
-      "show": "0:39",
-      "text": "Bela manh\u00e3,\nmanh\u00e3 de alegria!\nVem desfazer\nda noite a escurid\u00e3o."
-    },
-    {
-      "show": "0:59",
-      "text": "Foi-se o clamor,\ntristeza e agonia!\nIrrompe o dia da salva\u00e7\u00e3o!\nRejubilai, cantai em aleluias!\nCantai, cantai, aleluias!"
-    },
-    {
-      "show": "1:39",
-      "text": "N\u00e3o mais temor,\nn\u00e3o mais tribula\u00e7\u00f5es!\nLouvores enchem\nhoje os cora\u00e7\u00f5es!"
-    },
-    {
-      "show": "1:59",
-      "text": "Oh, festejai\ndo dia a nova luz!\nSaudai o Rei,\nsaudai o Rei Jesus!\nRejubilai,\nrompei em aleluias!\nCantai, cantai, aleluias!"
-    }
+    "Bela manh\u00e3,\nmanh\u00e3 de alegria!\nVem desfazer\nda noite a escurid\u00e3o.",
+    "Foi-se o clamor,\ntristeza e agonia!\nIrrompe o dia da salva\u00e7\u00e3o!\nRejubilai, cantai em aleluias!\nCantai, cantai, aleluias!",
+    "N\u00e3o mais temor,\nn\u00e3o mais tribula\u00e7\u00f5es!\nLouvores enchem\nhoje os cora\u00e7\u00f5es!",
+    "Oh, festejai\ndo dia a nova luz!\nSaudai o Rei,\nsaudai o Rei Jesus!\nRejubilai,\nrompei em aleluias!\nCantai, cantai, aleluias!"
   ],
   "attributes": {
     "title": "Bela Manh\u00e3",
