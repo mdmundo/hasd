@@ -19,30 +19,27 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 const App = () => {
-  const { state, dispatch } = useContext(context);
-  const path = getPath(state);
+  const {
+    hymnState,
+    modeState,
+    progressState,
+    progressDispatch,
+    finishedDispatch,
+    errorDispatch,
+    URIDispatch
+  } = useContext(context);
+  const path = getPath({ mode: modeState, hymn: hymnState });
 
   useEffect(() => {
-    getHymn(path, dispatch).then((hymnURI) => {
+    getHymn(path, progressDispatch).then((hymnURI) => {
       if (hymnURI) {
-        dispatch({
-          type: 'UPDATE',
-          update: {
-            play: true,
-            hymnURI
-          }
-        });
+        URIDispatch(hymnURI);
       } else {
-        dispatch({
-          type: 'UPDATE',
-          update: {
-            finished: true,
-            error: true
-          }
-        });
+        errorDispatch(true);
+        finishedDispatch(true);
       }
     });
-  }, [path, dispatch]);
+  }, [path, progressDispatch, finishedDispatch, errorDispatch, URIDispatch]);
 
   const classes = useStyles();
 
@@ -60,12 +57,12 @@ const App = () => {
         <CircularProgress
           className={classes.progress}
           variant={
-            state.downloadProgress === 0 || state.downloadProgress === 100
+            progressState === 0 || progressState === 100
               ? 'indeterminate'
               : 'determinate'
           }
           size='3.5rem'
-          value={state.downloadProgress}
+          value={progressState}
         />
       </CardContent>
     </Card>

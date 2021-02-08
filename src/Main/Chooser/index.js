@@ -25,10 +25,18 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 const App = () => {
-  const { state, dispatch } = useContext(context);
+  const {
+    hymnState,
+    hymnDispatch,
+    modeState,
+    modeDispatch,
+    progressDispatch,
+    URIDispatch,
+    finishedDispatch
+  } = useContext(context);
   const [input, setInput] = useState('');
-  const [hymn, setHymn] = useState(state.hymn);
-  const [mode, setMode] = useState(state.mode);
+  const [hymn, setHymn] = useState(hymnState);
+  const [mode, setMode] = useState(modeState);
   const [options, setOptions] = useState(hymns);
 
   const onSubmit = (e) => {
@@ -36,18 +44,11 @@ const App = () => {
 
     if (isNaN(hymn) || parseInt(hymn) < 1 || parseInt(hymn) > 613) return;
 
-    dispatch({
-      type: 'UPDATE',
-      update: {
-        hymn,
-        timer: '0:00',
-        downloadProgress: 0,
-        finished: false,
-        play: false,
-        hymnURI: '',
-        mode
-      }
-    });
+    hymnDispatch(hymn);
+    modeDispatch(mode);
+    progressDispatch(0);
+    URIDispatch('');
+    finishedDispatch(false);
   };
 
   useEffect(() => {

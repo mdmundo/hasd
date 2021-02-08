@@ -7,13 +7,7 @@ const request = async (path, dispatch) => {
       {
         responseType: 'blob',
         onDownloadProgress: (progressEvent) => {
-          dispatch({
-            type: 'UPDATE',
-            update: {
-              downloadProgress:
-                (progressEvent.loaded * 100) / progressEvent.total
-            }
-          });
+          dispatch((progressEvent.loaded * 100) / progressEvent.total);
         }
       }
     );

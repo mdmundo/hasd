@@ -42,17 +42,17 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 const App = () => {
-  const { state, dispatch } = useContext(context);
+  const { hymnState, dispatch } = useContext(context);
 
-  const hymn = hymns[state.hymn - 1];
+  const hymn = hymns[hymnState - 1];
 
   const [isFavorite, setIsFavorite] = useState(false);
 
   useEffect(() => {
     getFavorites().then((favorites) => {
-      setIsFavorite(favorites.includes(state.hymn));
+      setIsFavorite(favorites.includes(hymnState));
     });
-  }, [state.hymn]);
+  }, [hymnState]);
 
   //  copy of this on Player
   const onFinished = () => {
@@ -66,7 +66,7 @@ const App = () => {
   };
 
   const onFavorite = async () => {
-    await setFavorite(state.hymn, isFavorite);
+    await setFavorite(hymnState, isFavorite);
     setIsFavorite(!isFavorite);
   };
 
@@ -81,7 +81,7 @@ const App = () => {
           color='textSecondary'
           align='center'
           gutterBottom>
-          {state.hymn}
+          {hymnState}
         </Typography>
         <Typography className={classes.title} variant='h3' align='center'>
           {hymn.attributes.title}

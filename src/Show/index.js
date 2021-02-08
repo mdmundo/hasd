@@ -1,17 +1,36 @@
 import { useContext } from 'react';
-import Presenter, { Lyrics } from './Presenter';
+import Paper from '@material-ui/core/Paper';
+import { makeStyles } from '@material-ui/core';
+import Presenter from './Presenter';
+import Player from './Player';
 import Loader from './Loader';
 import context from '../context';
 
+const useStyles = makeStyles((theme) => ({
+  player: {
+    marginTop: theme.spacing(0.5),
+    paddingTop: theme.spacing(0.5),
+    paddingBottom: theme.spacing(0.5)
+  }
+}));
+
 const App = () => {
-  const { state } = useContext(context);
+  const { modeState, URIState } = useContext(context);
+  const classes = useStyles();
 
   return (
     <div>
-      {state.mode === 'lyrics' ? (
-        <Lyrics />
-      ) : state.hymnURI ? (
+      {modeState === 'lyrics' ? (
         <Presenter />
+      ) : URIState ? (
+        <>
+          <Presenter />
+          <Paper>
+            <div className={classes.player}>
+              <Player />
+            </div>
+          </Paper>
+        </>
       ) : (
         <Loader />
       )}

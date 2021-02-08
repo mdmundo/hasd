@@ -5,11 +5,9 @@ import Container from '@material-ui/core/Container';
 import Link from '@material-ui/core/Link';
 import { makeStyles } from '@material-ui/core';
 import Show from './Show';
-import Player from './Player';
 import Main from './Main';
 import Toast from './Toast';
 import Context from './context';
-import reducer from './reducer';
 
 const Copyright = () => {
   return (
@@ -45,31 +43,39 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 const App = () => {
-  const defaultState = {
-    hymn: 1,
-    timer: '0:00',
-    finished: true,
-    playedProgress: 0,
-    downloadProgress: 0,
-    hymnURI: '',
-    error: false,
-    play: true,
-    mode: 'sung'
-  };
+  const reducer = (state, update) => update;
 
-  const [state, dispatch] = useReducer(reducer, defaultState);
+  const [hymnState, hymnDispatch] = useReducer(reducer, 1);
+  const [modeState, modeDispatch] = useReducer(reducer, 'sung');
+  const [errorState, errorDispatch] = useReducer(reducer, false);
+  const [progressState, progressDispatch] = useReducer(reducer, 0);
+  const [URIState, URIDispatch] = useReducer(reducer, '');
+  const [finishedState, finishedDispatch] = useReducer(reducer, true);
 
   const classes = useStyles();
 
   return (
-    <Context.Provider value={{ state, dispatch }}>
+    <Context.Provider
+      value={{
+        hymnState,
+        hymnDispatch,
+        modeState,
+        modeDispatch,
+        errorState,
+        errorDispatch,
+        progressState,
+        progressDispatch,
+        URIState,
+        URIDispatch,
+        finishedState,
+        finishedDispatch
+      }}>
       <div className={classes.root}>
         <CssBaseline />
         <Container component='main' className={classes.main} maxWidth='xs'>
-          {state.finished ? <Main /> : <Show />}
+          {finishedState ? <Main /> : <Show />}
         </Container>
         <Toast />
-        <Player />
         <footer className={classes.footer}>
           <Container maxWidth='xs'>
             <Copyright />

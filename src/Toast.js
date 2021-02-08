@@ -5,20 +5,15 @@ import Snackbar from '@material-ui/core/Snackbar';
 import context from './context';
 
 const App = () => {
-  const { state, dispatch } = useContext(context);
+  const { errorState, errorDispatch, finishedDispatch } = useContext(context);
 
   const handleClose = (event, reason) => {
     if (reason === 'clickaway') {
       return;
     }
 
-    dispatch({
-      type: 'UPDATE',
-      update: {
-        finished: true,
-        error: false
-      }
-    });
+    errorDispatch(false);
+    finishedDispatch(true);
   };
 
   return (
@@ -27,7 +22,7 @@ const App = () => {
         vertical: 'bottom',
         horizontal: 'center'
       }}
-      open={state.error}
+      open={errorState}
       autoHideDuration={6000}
       onClose={handleClose}
       message='Ocorreu um erro.'
