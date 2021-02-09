@@ -16,7 +16,7 @@ const App = () => {
   };
 
   const audioSource = {
-    type: 'audio',
+    type: 'video',
     title: 'Hino',
     sources: [
       {

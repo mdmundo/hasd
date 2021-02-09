@@ -8,7 +8,7 @@ import context from '../context';
 
 const useStyles = makeStyles((theme) => ({
   player: {
-    marginTop: theme.spacing(0.5),
+    marginTop: theme.spacing(1.5),
     paddingTop: theme.spacing(0.5),
     paddingBottom: theme.spacing(0.5)
   }
