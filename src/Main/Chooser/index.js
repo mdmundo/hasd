@@ -83,7 +83,7 @@ const App = () => {
         noOptionsText='Sem Opções'
         groupBy={(option) => option.category}
         getOptionLabel={(option) =>
-          `${parseInt(option.number)} - ${option.hymn}`
+          `${parseInt(option.number)} \u2012 ${option.hymn}`
         }
         renderInput={(params) => (
           <TextField {...params} label='Selecione o Hino' variant='outlined' />
@@ -98,33 +98,35 @@ const App = () => {
         <Grid item xs={2}>
           <Tooltip title='Cantado'>
             <IconButton
-              color={mode === 'sung' ? 'primary' : 'textSecondary'}
+              disableRipple
               onClick={() => {
                 setMode('sung');
               }}>
-              <MusicNoteIcon />
+              <MusicNoteIcon color={mode === 'sung' ? 'primary' : 'action'} />
             </IconButton>
           </Tooltip>
         </Grid>
         <Grid item xs={2}>
           <Tooltip title='Instrumental'>
             <IconButton
-              color={mode === 'instrumental' ? 'primary' : 'textSecondary'}
+              disableRipple
               onClick={() => {
                 setMode('instrumental');
               }}>
-              <InstrumentalIcon />
+              <InstrumentalIcon
+                color={mode === 'instrumental' ? 'primary' : 'action'}
+              />
             </IconButton>
           </Tooltip>
         </Grid>
         <Grid item xs={2}>
           <Tooltip title='Letra'>
             <IconButton
-              color={mode === 'lyrics' ? 'primary' : 'textSecondary'}
+              disableRipple
               onClick={() => {
                 setMode('lyrics');
               }}>
-              <MusicOffIcon />
+              <MusicOffIcon color={mode === 'lyrics' ? 'primary' : 'action'} />
             </IconButton>
           </Tooltip>
         </Grid>
