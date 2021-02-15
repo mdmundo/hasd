@@ -55,8 +55,8 @@ const App = () => {
   }, [hymnState]);
 
   const onFinished = () => {
-    finishedDispatch(true);
     URIDispatch('');
+    finishedDispatch(true);
   };
 
   const onFavorite = async () => {

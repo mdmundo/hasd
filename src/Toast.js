@@ -8,12 +8,9 @@ const App = () => {
   const { errorState, errorDispatch, finishedDispatch } = useContext(context);
 
   const handleClose = (event, reason) => {
-    if (reason === 'clickaway') {
-      return;
-    }
+    if (reason === 'clickaway') return;
 
     errorDispatch(false);
-    finishedDispatch(true);
   };
 
   return (
